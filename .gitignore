@@ -5,4 +5,5 @@ out
 .DS_Store
 .vercel
 tmp
-/tmp
+__pycache__
+*.pyc
