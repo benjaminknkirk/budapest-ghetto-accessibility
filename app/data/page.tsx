@@ -44,7 +44,8 @@ export default function DataPage() {
                 29 Nov 1944 decree street list; EHRI topography (Klacsmann); Cole,{" "}
                 <em>Holocaust City</em>. Drawn inside boundary streets.{" "}
                 {summary.inPestGhetto} prototype houses fall inside (historical yellow-star count
-                on the territory was about 162).
+                on the territory was about 162). Interior-street names from the decree are used
+                as a second pass so geocoding jitter does not drop Dob / Akácfa houses.
               </td>
               <td>Documentary reconstruction</td>
             </tr>
@@ -98,7 +99,8 @@ export default function DataPage() {
         </ul>
         <p>
           Method: <Link href="/method">occupation-adapted LUPTAI</Link>. Argument:{" "}
-          <Link href="/paper">working paper</Link>. Demo: <Link href="/">the map</Link>.
+          <Link href="/paper">working paper</Link>. Demo: <Link href="/">the map</Link>. Ready
+          emails: <Link href="/outreach">outreach</Link>.
         </p>
       </article>
     </main>

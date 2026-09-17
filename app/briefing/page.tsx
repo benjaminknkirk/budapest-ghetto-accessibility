@@ -62,9 +62,15 @@ export default function BriefingPage() {
           <h2>Walk the time strip, June to January</h2>
           <p>
             Occupation → yellow-star (index falls because the day shrinks to three hours) → Arrow
-            Cross → dual ghetto → sealed ({drop.percentDrop}% further drop on the prototype file)
-            → two gates locked. Ask the room to watch the hospitals. They never move. Their
-            reach does.
+            Cross → dual ghetto → sealed ({drop.percentDrop}% drop among remaining residences) →
+            two gates locked. Zoom on Klauzál, then hit “June vs sealed.” Gold dots are still
+            legal residences. Grey dots are the{" "}
+            {Math.round(
+              (summary.periods.deltaYellowStarToSealed as { shareDisplaced: number }).shareDisplaced *
+                100,
+            )}
+            % of June buildings emptied into those two polygons. Say that number out loud.
+            Boundary maps show the polygons. This shows the rest of the city going dark.
           </p>
         </section>
         <section className="slide">

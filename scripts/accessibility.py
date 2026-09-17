@@ -47,6 +47,29 @@ BANDS = (
 PURPOSE_WEIGHTS = {"food": 0.45, "medical": 0.35, "work": 0.20}
 UNREACHABLE_MINUTES = 180.0  # LUPTAI-like ceiling
 
+ZERO_DETAIL = {
+    "minutes": UNREACHABLE_MINUTES,
+    "reach": 0.0,
+    "window": 0.0,
+    "capacity": 0.0,
+    "score": 0.0,
+    "band": "none",
+    "destination": None,
+}
+
+DISPLACED_SCORE = {
+    "composite": 0.0,
+    "food": 0.0,
+    "medical": 0.0,
+    "work": 0.0,
+    "displaced": True,
+    "detail": {
+        "food": dict(ZERO_DETAIL),
+        "medical": dict(ZERO_DETAIL),
+        "work": dict(ZERO_DETAIL),
+    },
+}
+
 
 def haversine_m(lon1: float, lat1: float, lon2: float, lat2: float) -> float:
     p1, p2 = math.radians(lat1), math.radians(lat2)

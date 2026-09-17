@@ -9,6 +9,7 @@ const LINKS = [
   { href: "/paper", label: "Paper" },
   { href: "/briefing", label: "CAGR briefing" },
   { href: "/teach", label: "Teach" },
+  { href: "/outreach", label: "Outreach" },
   { href: "/data", label: "Data" },
 ];
 

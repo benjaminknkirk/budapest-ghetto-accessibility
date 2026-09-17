@@ -10,6 +10,7 @@ Swap-in instructions live in data/source/ingest-spec.md.
 
 from __future__ import annotations
 
+import copy
 import csv
 import hashlib
 import json
@@ -22,6 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from accessibility import (  # noqa: E402
+    DISPLACED_SCORE,
     UNREACHABLE_MINUTES,
     haversine_m,
     point_in_ring,
@@ -208,6 +210,45 @@ def geocode_house(house: dict, streets: dict) -> tuple[float, float, str]:
     lat = miny + (0.25 + 0.5 * (dy + 0.5)) * (maxy - miny)
     jx, jy = stable_jitter(house["address"], 0.0004)
     return lon + jx, lat + jy, "district-bbox"
+
+
+GHETTO_STREETS = {
+    "dob u",
+    "rumbach sebestyen u",
+    "sip u",
+    "kazinczy u",
+    "kis diofa u",
+    "nagy diofa u",
+    "nyar u",
+    "akacfa u",
+    "klauzal ter",
+    "klauzal u",
+}
+
+
+def in_jewish_quarter_bbox(lon: float, lat: float) -> bool:
+    return 19.0555 <= lon <= 19.0698 and 47.4952 <= lat <= 47.5026
+
+
+def house_in_pest_ghetto(h: dict) -> bool:
+    """PIP plus interior-street membership, clipped to Erzsébetváros.
+
+    The decree named ten interior streets plus Csányi 3–6. Wesselényi 44 is
+    on an interior street but outside the wall, so Wesselényi is number-capped.
+    """
+    if point_in_ring(h["lon"], h["lat"], PEST_GHETTO):
+        return True
+    if not in_jewish_quarter_bbox(h["lon"], h["lat"]):
+        return False
+    key = norm_street(h["street"])
+    n = parse_house_number(h["number"])
+    if key in GHETTO_STREETS:
+        return True
+    if key == "csanyi u" and 3 <= n <= 6:
+        return True
+    if key == "wesselenyi u" and 0 < n < 40:
+        return True
+    return False
 
 
 def resources() -> list[dict]:
@@ -474,17 +515,24 @@ def feature_poly(ring, props) -> dict:
 
 
 def summarize(scored: list[dict], period_id: str) -> dict:
-    vals = [h["scores"][period_id]["composite"] for h in scored if period_id in h["scores"]]
+    active = [
+        h
+        for h in scored
+        if period_id in h["scores"] and not h["scores"][period_id].get("displaced")
+    ]
+    displaced = [
+        h
+        for h in scored
+        if period_id in h["scores"] and h["scores"][period_id].get("displaced")
+    ]
+    vals = [h["scores"][period_id]["composite"] for h in active]
     if not vals:
-        return {}
+        return {"n": 0, "nDisplaced": len(displaced)}
     bands = defaultdict(int)
     food_none = 0
     med_none = 0
-    for h in scored:
-        s = h["scores"].get(period_id)
-        if not s:
-            continue
-        d = s["detail"]
+    for h in active:
+        d = h["scores"][period_id]["detail"]
         bands[d["food"]["band"]] += 1
         if d["food"]["band"] == "none":
             food_none += 1
@@ -493,9 +541,12 @@ def summarize(scored: list[dict], period_id: str) -> dict:
     vals_sorted = sorted(vals)
     n = len(vals_sorted)
     mean = sum(vals_sorted) / n
+    all_vals = vals + [0.0] * len(displaced)
     return {
         "n": n,
+        "nDisplaced": len(displaced),
         "meanComposite": round(mean, 2),
+        "meanIncludingDisplaced": round(sum(all_vals) / len(all_vals), 2) if all_vals else 0,
         "medianComposite": round(vals_sorted[n // 2], 2),
         "p10": round(vals_sorted[int(n * 0.1)], 2),
         "p90": round(vals_sorted[int(n * 0.9)], 2),
@@ -503,6 +554,40 @@ def summarize(scored: list[dict], period_id: str) -> dict:
         "shareMedicalNone": round(med_none / n, 3),
         "foodBands": dict(bands),
     }
+
+
+def district_table(houses: list[dict]) -> list[dict]:
+    by = defaultdict(list)
+    for h in houses:
+        by[h["district"]].append(h)
+    rows = []
+    for d in sorted(by):
+        subset = by[d]
+        ys = [
+            h["scores"]["yellow-star"]["composite"]
+            for h in subset
+            if "yellow-star" in h["scores"]
+        ]
+        se = [
+            h["scores"]["sealed"]["composite"]
+            for h in subset
+            if "sealed" in h["scores"] and not h["scores"]["sealed"].get("displaced")
+        ]
+        rows.append(
+            {
+                "district": d,
+                "nYellowStar": len(subset),
+                "meanYellowStar": round(sum(ys) / len(ys), 2) if ys else None,
+                "nSealed": len(se),
+                "meanSealed": round(sum(se) / len(se), 2) if se else None,
+                "nDisplaced": sum(
+                    1
+                    for h in subset
+                    if h["scores"].get("sealed", {}).get("displaced")
+                ),
+            }
+        )
+    return rows
 
 
 def main() -> None:
@@ -520,7 +605,7 @@ def main() -> None:
     for h in houses:
         lon, lat, how = geocode_house(h, streets)
         h["lon"], h["lat"], h["geocode"] = round(lon, 6), round(lat, 6), how
-        h["inPestGhetto"] = point_in_ring(h["lon"], h["lat"], PEST_GHETTO)
+        h["inPestGhetto"] = house_in_pest_ghetto(h)
         h["inInternational"] = point_in_ring(h["lon"], h["lat"], INTERNATIONAL_GHETTO)
         if how == "street-segment":
             matched += 1
@@ -541,6 +626,7 @@ def main() -> None:
         for period in PERIODS:
             active = active_houses(houses, period)
             if period["residences"] == "dual" and not (h["inPestGhetto"] or h["inInternational"]):
+                h["scores"][period["id"]] = copy.deepcopy(DISPLACED_SCORE)
                 continue
             dests = {
                 "food": food_destinations(period, res),
@@ -626,7 +712,22 @@ def main() -> None:
     summaries["deltaYellowStarToSealed"] = {
         "meanCompositeDrop": round(y - s, 2),
         "percentDrop": round(100 * (y - s) / y, 1) if y else None,
+        "nDisplaced": summaries["sealed"]["nDisplaced"],
+        "shareDisplaced": round(summaries["sealed"]["nDisplaced"] / len(houses), 3),
+        "meanIncludingDisplaced": summaries["sealed"]["meanIncludingDisplaced"],
     }
+    series = [
+        {
+            "id": p["id"],
+            "short": p["short"],
+            "label": p["label"],
+            "mean": summaries[p["id"]]["meanComposite"],
+            "n": summaries[p["id"]]["n"],
+            "nDisplaced": summaries[p["id"]].get("nDisplaced", 0),
+        }
+        for p in PERIODS
+    ]
+    districts = district_table(houses)
 
     with (SRC / "yellow-star-houses.csv").open("w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(
@@ -670,6 +771,12 @@ def main() -> None:
             "geocode": h["geocode"],
             "inPestGhetto": h["inPestGhetto"],
             "inInternational": h["inInternational"],
+            "displacedInSealed": bool(h["scores"].get("sealed", {}).get("displaced")),
+            "deltaYellowStarToSealed": round(
+                (0.0 if h["scores"].get("sealed", {}).get("displaced") else h["scores"].get("sealed", {}).get("composite", 0.0))
+                - h["scores"].get("yellow-star", {}).get("composite", 0.0),
+                2,
+            ),
             "scores": h["scores"],
         }
         house_features.append(feature_point(h["lon"], h["lat"], props))
@@ -714,6 +821,8 @@ def main() -> None:
                 "matchRate": round(matched / len(houses), 3),
                 "inPestGhetto": sum(1 for h in houses if h["inPestGhetto"]),
                 "inInternational": sum(1 for h in houses if h["inInternational"]),
+                "series": series,
+                "districts": districts,
                 "periods": summaries,
                 "provenance": {
                     "residences": "Blinken OSA Archivum Yellow-Star Houses address list (public), geocoded to OSM street segments. Not the Cole & Giordano HGIS.",

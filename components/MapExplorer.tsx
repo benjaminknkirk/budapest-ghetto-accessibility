@@ -4,9 +4,10 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import maplibregl, { type GeoJSONSource, type Map as MapLibreMap } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import type { Feature, FeatureCollection, Point } from "geojson";
-import { dropLabel, periodStats, romanDistrict } from "@/lib/format";
+import { displacedShare, dropLabel, periodStats, romanDistrict } from "@/lib/format";
 import type { HouseProps, Period, Purpose, ScoreBlock, Summary } from "@/lib/types";
 import { PURPOSE_LABEL } from "@/lib/types";
+import { Sparkline } from "@/components/Sparkline";
 
 const COLOR_RAMP = [
   0, "#241c18",
@@ -46,6 +47,7 @@ export function MapExplorer() {
   const [layers, setLayers] = useState({ houses: true, heat: true, resources: true, gates: true });
   const [selected, setSelected] = useState<HouseProps | null>(null);
   const [story, setStory] = useState(false);
+  const [compare, setCompare] = useState(false);
   const housesRef = useRef<FeatureCollection<Point, HouseProps> | null>(null);
   const gridRef = useRef<GridFile | null>(null);
 
@@ -189,6 +191,9 @@ export function MapExplorer() {
             geocode: String(raw.geocode ?? ""),
             inPestGhetto: raw.inPestGhetto === true || raw.inPestGhetto === "true",
             inInternational: raw.inInternational === true || raw.inInternational === "true",
+            displacedInSealed: raw.displacedInSealed === true || raw.displacedInSealed === "true",
+            deltaYellowStarToSealed:
+              raw.deltaYellowStarToSealed == null ? undefined : Number(raw.deltaYellowStarToSealed),
             scores: (scores ?? {}) as HouseProps["scores"],
           };
         };
@@ -263,27 +268,46 @@ export function MapExplorer() {
     if (map.getLayer("houses-hit")) {
       map.setLayoutProperty("houses-hit", "visibility", layers.houses ? "visible" : "none");
     }
-    map.setLayoutProperty("heat-circles", "visibility", layers.heat ? "visible" : "none");
+    map.setLayoutProperty("heat-circles", "visibility", layers.heat && !compare ? "visible" : "none");
     map.setLayoutProperty("resources-circle", "visibility", layers.resources ? "visible" : "none");
     map.setLayoutProperty("gates-circle", "visibility", layers.gates ? "visible" : "none");
-  }, [layers]);
+  }, [layers, compare]);
 
   useEffect(() => {
     const map = mapRef.current;
     const houses = housesRef.current;
     if (!map?.getLayer("houses-circle") || !houses) return;
     const sealed = period?.sealed ?? false;
-    const sealedFilter: maplibregl.FilterSpecification | null = sealed
-      ? ["any", ["==", ["get", "inPestGhetto"], true], ["==", ["get", "inInternational"], true]]
-      : null;
+    const sealedFilter: maplibregl.FilterSpecification | null =
+      sealed && !compare
+        ? ["any", ["==", ["get", "inPestGhetto"], true], ["==", ["get", "inInternational"], true]]
+        : null;
     map.setFilter("houses-circle", sealedFilter);
     if (map.getLayer("houses-hit")) map.setFilter("houses-hit", sealedFilter);
     map.setPaintProperty("ghetto-line", "line-color", sealed ? "#8f2f2a" : "#d4a017");
     map.setPaintProperty("ghetto-fill", "fill-color", sealed ? "#8f2f2a" : "#d4a017");
-    if (sealed) map.easeTo({ center: [19.062, 47.499], zoom: 14.2, duration: 900 });
+    map.setPaintProperty(
+      "houses-circle",
+      "circle-color",
+      compare
+        ? [
+            "case",
+            [
+              "any",
+              ["==", ["get", "displacedInSealed"], true],
+              ["==", ["get", "displacedInSealed"], "true"],
+            ],
+            "#5a534c",
+            "#e8d48a",
+          ]
+        : "#e8d48a",
+    );
+    map.setPaintProperty("houses-circle", "circle-opacity", compare ? 0.85 : 0.92);
+    if (compare) map.easeTo({ center: [19.06, 47.503], zoom: 12.15, duration: 900 });
+    else if (sealed) map.easeTo({ center: [19.062, 47.499], zoom: 14.2, duration: 900 });
     else if (periodId === "dual-ghetto") map.easeTo({ center: [19.058, 47.508], zoom: 13, duration: 900 });
     else map.easeTo({ center: [19.06, 47.503], zoom: 12.4, duration: 900 });
-  }, [periodId, period]);
+  }, [periodId, period, compare]);
 
   useEffect(() => {
     if (!story || periods.length === 0) return;
@@ -346,13 +370,52 @@ export function MapExplorer() {
               <b>{summary ? dropLabel(summary) : "—"}</b>
               <span>Drop, June → sealed</span>
             </div>
+            {!!stats.nDisplaced && (
+              <div className="stat">
+                <b>{stats.nDisplaced.toLocaleString()}</b>
+                <span>Yellow-star houses emptied</span>
+              </div>
+            )}
+            {summary && displacedShare(summary) && (
+              <div className="stat">
+                <b>{displacedShare(summary)}</b>
+                <span>Share of June buildings displaced</span>
+              </div>
+            )}
           </div>
+        )}
+        {summary?.series && (
+          <Sparkline
+            values={summary.series.map((s) => s.mean)}
+            labels={summary.series.map((s) => s.short.replace(/\s.*/, ""))}
+            activeIndex={summary.series.findIndex((s) => s.id === periodId)}
+            onSelect={(i) => {
+              const next = summary.series?.[i];
+              if (next) setPeriodId(next.id);
+            }}
+          />
         )}
         <div className="seg">
           <button className={story ? "active" : ""} onClick={() => setStory((v) => !v)}>
             {story ? "Stop walkthrough" : "Walk through 1944"}
           </button>
+          <button
+            className={compare ? "active" : ""}
+            onClick={() => {
+              setCompare((v) => !v);
+              if (!compare) setPeriodId("sealed");
+            }}
+          >
+            {compare ? "Exit June vs sealed" : "June vs sealed"}
+          </button>
         </div>
+        {compare && (
+          <p className="narrative">
+            Gold houses still count as Jewish residences after 10 December. Grey houses are
+            yellow-star buildings emptied into the two ghettos — {summary ? displacedShare(summary) : ""} of
+            the June file.
+          </p>
+        )}
         {selected && (
           <div className="house-card">
             <p className="kicker">Selected residence</p>
@@ -362,8 +425,12 @@ export function MapExplorer() {
                 Dist. {romanDistrict(selected.district)}
               </small>
             </h2>
-            {selectedScore == null ? (
-              <p className="note">This building is not a legal Jewish residence in the selected regime.</p>
+            {selectedScore == null || selectedBlock?.displaced ? (
+              <p className="note">
+                This yellow-star house is emptied in the selected regime. The people who lived
+                here were moved into the Pest ghetto or a protected house. Access from this
+                address falls to zero because the address is no longer legal.
+              </p>
             ) : (
               <>
                 <div className="bars">
@@ -401,6 +468,13 @@ export function MapExplorer() {
                   </p>
                 )}
                 {paradox && <div className="paradox">{paradox}</div>}
+                {periods.length > 0 && (
+                  <Sparkline
+                    values={periods.map((p) => selected.scores[p.id]?.composite ?? 0)}
+                    activeIndex={periods.findIndex((p) => p.id === periodId)}
+                    onSelect={(i) => setPeriodId(periods[i].id)}
+                  />
+                )}
               </>
             )}
           </div>
@@ -438,6 +512,12 @@ export function MapExplorer() {
             <span>Higher access</span>
           </div>
         </div>
+        {compare && (
+          <p className="note">
+            Compare colours: gold = still a legal Jewish residence on 10 December; grey = a June
+            yellow-star house emptied into the Pest or international ghetto.
+          </p>
+        )}
         <h2>Layers</h2>
         <div className="seg">
           {(

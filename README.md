@@ -32,6 +32,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `/paper` | Working paper |
 | `/briefing` | Twelve-minute CAGR talk |
 | `/teach` | IWitness-facing module |
+| `/outreach` | Emails to Cole/Giordano, CAGR, and education |
 | `/data` | Provenance and HGIS ingest |
 
 ## Data honesty

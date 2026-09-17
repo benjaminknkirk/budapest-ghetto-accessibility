@@ -240,6 +240,16 @@ button, select { font: inherit; color: inherit; }
 .band-low { background: #8f2f2a; color: #efe7d6; }
 .band-poor { background: #4a3028; color: #efe7d6; }
 .band-none { background: #2a2420; color: #c9bda8; }
+.sparkline {
+  width: 100%;
+  height: 72px;
+  margin: 0.15rem 0 0.7rem;
+}
+.spark-lab {
+  fill: rgba(239, 231, 214, 0.42);
+  font-size: 7px;
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
 .paradox {
   margin-top: 0.8rem;
   padding: 0.7rem 0.75rem;
@@ -350,4 +360,16 @@ button, select { font: inherit; color: inherit; }
   }
   .panel.right { border-left: 0; border-top: 1px solid var(--line); }
   .paper { padding: 1.4rem 1.1rem 2rem; }
+}
+
+@media print {
+  .site-header, .map-shell { display: none !important; }
+  body { background: white; color: black; }
+  .page { max-width: none; padding: 0; }
+  .paper {
+    box-shadow: none;
+    padding: 0;
+    background: white;
+  }
+  .slides, .lesson { break-inside: avoid; }
 }

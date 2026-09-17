@@ -6,10 +6,15 @@ export const metadata: Metadata = {
   title: "Working paper — Mapping Access Under Occupation",
 };
 
-const sealed = summary.periods.sealed as { meanComposite: number; n: number };
+const sealed = summary.periods.sealed as { meanComposite: number; n: number; nDisplaced: number; meanIncludingDisplaced: number };
 const yellow = summary.periods["yellow-star"] as { meanComposite: number; n: number };
 const occ = summary.periods.occupation as { meanComposite: number };
-const drop = summary.periods.deltaYellowStarToSealed as { percentDrop: number; meanCompositeDrop: number };
+const drop = summary.periods.deltaYellowStarToSealed as {
+  percentDrop: number;
+  meanCompositeDrop: number;
+  nDisplaced: number;
+  shareDisplaced: number;
+};
 
 export default function PaperPage() {
   return (
@@ -101,8 +106,12 @@ export default function PaperPage() {
           From yellow-star houses to the sealed ghetto the mean composite falls again, from{" "}
           {yellow.meanComposite} to {sealed.meanComposite}, a {drop.percentDrop}% drop among
           the {sealed.n} residences that remain in the model (buildings inside the Pest wall or
-          the protected-house zone). Walking-time <em>bands</em> to food do not collapse. They
-          improve. People are now a few hundred metres from a kitchen. The occupation-adjusted
+          the protected-house zone). That remaining mean hides a larger emptying:{" "}
+          {drop.nDisplaced.toLocaleString()} of {summary.houses.toLocaleString()} June buildings
+          ({Math.round(drop.shareDisplaced * 100)}%) are no longer legal Jewish residences. If
+          those emptied addresses are scored as zero, city-wide mean composite is{" "}
+          {sealed.meanIncludingDisplaced}. Walking-time <em>bands</em> to food among those still
+          inside do not collapse. They improve. People are now a few hundred metres from a kitchen. The occupation-adjusted
           food score still goes toward zero because capacity is 781/2200 kcal and reach through
           the wall is 0. That is the result a boundary map cannot show and a naïve distance
           map will invert.
@@ -147,6 +156,37 @@ export default function PaperPage() {
             </tr>
           </tbody>
         </table>
+        <h3>Displacement is most of the city’s accessibility loss</h3>
+        <p>
+          Districts V–VIII held the traditional Jewish geography Cole and Giordano mapped.
+          After November, only a slice of VII and the Újlipótváros protected-house zone (XIII)
+          still count as origin points. Buda and the outer Pest districts go to zero not
+          because markets moved, but because the people did — or rather, were moved.
+        </p>
+        <table>
+          <thead>
+            <tr>
+              <th>District</th>
+              <th>June houses</th>
+              <th>June mean</th>
+              <th>Still scored 10 Dec</th>
+              <th>Emptied</th>
+            </tr>
+          </thead>
+          <tbody>
+            {(summary.districts ?? [])
+              .filter((d) => d.nYellowStar >= 30)
+              .map((d) => (
+                <tr key={d.district}>
+                  <td>{d.district}</td>
+                  <td>{d.nYellowStar}</td>
+                  <td>{d.meanYellowStar ?? "—"}</td>
+                  <td>{d.nSealed}</td>
+                  <td>{d.nDisplaced}</td>
+                </tr>
+              ))}
+          </tbody>
+        </table>
 
         <h2>5. What this reveals that a ghetto outline does not</h2>
         <p>
@@ -185,13 +225,13 @@ export default function PaperPage() {
           The tangible outputs of the project are this bounded case, the{" "}
           <Link href="/">interactive atlas</Link>, this working paper, a{" "}
           <Link href="/briefing">twelve-minute briefing</Link> written for USC Shoah
-          Foundation’s Center for Advanced Genocide Research, and a{" "}
-          <Link href="/teach">teaching module</Link> that uses the paradox — high walking-time
-          band, no calories — as a way to read testimony. The institutional path is not
-          speculative. The Collaborative has already held CAGR residencies. USC’s Spatial
-          Sciences Institute has already worked with Shoah Foundation testimony. The missing
-          piece was a demo-able artifact. This is that artifact, with a documented ingest for
-          the dataset it is designed to carry.
+          Foundation’s Center for Advanced Genocide Research, a{" "}
+          <Link href="/teach">teaching module</Link>, and{" "}
+          <Link href="/outreach">ready emails</Link> for Cole/Giordano, CAGR, and IWitness.
+          The institutional path is not speculative. The Collaborative has already held CAGR
+          residencies. USC’s Spatial Sciences Institute has already worked with Shoah Foundation
+          testimony. The missing piece was a demo-able artifact. This is that artifact, with a
+          documented ingest for the dataset it is designed to carry.
         </p>
         <p className="meta">
           Prototype statistics: {summary.houses} OSA addresses, {summary.inPestGhetto} inside

@@ -51,7 +51,11 @@ class ScoreTests(unittest.TestCase):
         three_hours = purpose_score(10, 1, 3 / 12, 1)
         self.assertAlmostEqual(three_hours, full_day * 0.25, places=4)
 
-    def test_composite_weights(self):
+    def test_displaced_score_is_hard_zero(self):
+        from accessibility import DISPLACED_SCORE
+
+        self.assertEqual(DISPLACED_SCORE["composite"], 0)
+        self.assertEqual(DISPLACED_SCORE["detail"]["food"]["band"], "none")
         self.assertAlmostEqual(composite_score({"food": 100, "medical": 0, "work": 0}), 45)
         self.assertAlmostEqual(composite_score({"food": 0, "medical": 100, "work": 0}), 35)
 

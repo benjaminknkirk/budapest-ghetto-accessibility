@@ -12,6 +12,12 @@ export function dropLabel(summary: Summary): string {
   return `${d.percentDrop}%`;
 }
 
+export function displacedShare(summary: Summary): string {
+  const d = summary.periods.deltaYellowStarToSealed;
+  if (!d || !("shareDisplaced" in d) || d.shareDisplaced == null) return "";
+  return `${Math.round(d.shareDisplaced * 100)}%`;
+}
+
 export function romanDistrict(n: number): string {
   const map: Record<number, string> = {
     1: "I",
