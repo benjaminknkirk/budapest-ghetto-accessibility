@@ -111,15 +111,25 @@ export function MapExplorer() {
           },
         });
         map.addLayer({
+          id: "houses-hit",
+          type: "circle",
+          source: "houses",
+          paint: {
+            "circle-radius": ["interpolate", ["linear"], ["zoom"], 11, 8, 14, 12],
+            "circle-color": "#e8d48a",
+            "circle-opacity": 0,
+          },
+        });
+        map.addLayer({
           id: "houses-circle",
           type: "circle",
           source: "houses",
           paint: {
-            "circle-radius": ["interpolate", ["linear"], ["zoom"], 11, 1.6, 14, 3.4],
+            "circle-radius": ["interpolate", ["linear"], ["zoom"], 11, 3.2, 14, 5.5],
             "circle-color": "#e8d48a",
-            "circle-stroke-width": 0.4,
+            "circle-stroke-width": 0.6,
             "circle-stroke-color": "#1c1814",
-            "circle-opacity": 0.9,
+            "circle-opacity": 0.92,
           },
         });
         map.addLayer({
@@ -127,7 +137,7 @@ export function MapExplorer() {
           type: "circle",
           source: "resources",
           paint: {
-            "circle-radius": 6,
+            "circle-radius": 8,
             "circle-color": [
               "match",
               ["get", "purpose"],
@@ -153,33 +163,82 @@ export function MapExplorer() {
           },
         });
 
-        map.on("click", "houses-circle", (e) => {
-          const f = e.features?.[0];
-          if (f?.properties) {
-            const props = {
-              ...f.properties,
-              scores: typeof f.properties.scores === "string" ? JSON.parse(f.properties.scores) : f.properties.scores,
-            } as HouseProps;
-            setSelected(props);
-          }
-        });
-        map.on("mouseenter", "houses-circle", () => {
-          map.getCanvas().style.cursor = "pointer";
-        });
-        map.on("mouseleave", "houses-circle", () => {
-          map.getCanvas().style.cursor = "";
+        const popup = new maplibregl.Popup({
+          className: "atlas-popup",
+          closeButton: true,
+          maxWidth: "280px",
         });
 
-        map.on("click", "resources-circle", (e) => {
-          const f = e.features?.[0];
-          if (!f) return;
-          const p = f.properties ?? {};
-          new maplibregl.Popup()
-            .setLngLat((f.geometry as Point).coordinates as [number, number])
-            .setHTML(
-              `<strong>${p.name}</strong><br/><span>${p.kind} · ${p.purpose}</span><br/><span>${p.address ?? ""}</span>`,
-            )
-            .addTo(map);
+        const near = (point: { x: number; y: number }, layer: string, pad = 12) =>
+          map.queryRenderedFeatures(
+            [
+              [point.x - pad, point.y - pad],
+              [point.x + pad, point.y + pad],
+            ],
+            { layers: [layer] },
+          );
+
+        const readHouse = (raw: Record<string, unknown> | null | undefined): HouseProps | null => {
+          if (!raw) return null;
+          const scores =
+            typeof raw.scores === "string" ? JSON.parse(raw.scores) : raw.scores;
+          return {
+            id: String(raw.id),
+            address: String(raw.address),
+            district: Number(raw.district),
+            geocode: String(raw.geocode ?? ""),
+            inPestGhetto: raw.inPestGhetto === true || raw.inPestGhetto === "true",
+            inInternational: raw.inInternational === true || raw.inInternational === "true",
+            scores: (scores ?? {}) as HouseProps["scores"],
+          };
+        };
+
+        map.on("click", (e) => {
+          const houseHit = near(e.point, "houses-hit")[0] ?? near(e.point, "houses-circle")[0];
+          if (houseHit) {
+            const props = readHouse((houseHit.properties ?? undefined) as Record<string, unknown>);
+            if (props) {
+              setSelected(props);
+              popup
+                .setLngLat(e.lngLat)
+                .setHTML(
+                  `<strong>${props.address}</strong><span>District ${props.district} · scores in the left panel</span>`,
+                )
+                .addTo(map);
+            }
+            return;
+          }
+          const resHit = near(e.point, "resources-circle", 14)[0];
+          if (resHit) {
+            const p = resHit.properties ?? {};
+            popup
+              .setLngLat(e.lngLat)
+              .setHTML(
+                `<strong>${p.name ?? "Resource"}</strong><span>${p.kind ?? ""} · ${p.purpose ?? ""}</span><span>${p.address ?? ""}</span>`,
+              )
+              .addTo(map);
+            return;
+          }
+          const gateHit = near(e.point, "gates-circle", 14)[0];
+          if (gateHit) {
+            const p = gateHit.properties ?? {};
+            popup
+              .setLngLat(e.lngLat)
+              .setHTML(`<strong>${p.name ?? "Gate"}</strong><span>${p.notes ?? ""}</span>`)
+              .addTo(map);
+          }
+        });
+        map.on("mouseenter", "houses-hit", () => {
+          map.getCanvas().style.cursor = "pointer";
+        });
+        map.on("mouseleave", "houses-hit", () => {
+          map.getCanvas().style.cursor = "";
+        });
+        map.on("mouseenter", "resources-circle", () => {
+          map.getCanvas().style.cursor = "pointer";
+        });
+        map.on("mouseleave", "resources-circle", () => {
+          map.getCanvas().style.cursor = "";
         });
       });
     });
@@ -201,6 +260,9 @@ export function MapExplorer() {
     const map = mapRef.current;
     if (!map?.getLayer("houses-circle")) return;
     map.setLayoutProperty("houses-circle", "visibility", layers.houses ? "visible" : "none");
+    if (map.getLayer("houses-hit")) {
+      map.setLayoutProperty("houses-hit", "visibility", layers.houses ? "visible" : "none");
+    }
     map.setLayoutProperty("heat-circles", "visibility", layers.heat ? "visible" : "none");
     map.setLayoutProperty("resources-circle", "visibility", layers.resources ? "visible" : "none");
     map.setLayoutProperty("gates-circle", "visibility", layers.gates ? "visible" : "none");
@@ -211,16 +273,11 @@ export function MapExplorer() {
     const houses = housesRef.current;
     if (!map?.getLayer("houses-circle") || !houses) return;
     const sealed = period?.sealed ?? false;
-    map.setFilter(
-      "houses-circle",
-      sealed
-        ? [
-            "any",
-            ["==", ["get", "inPestGhetto"], true],
-            ["==", ["get", "inInternational"], true],
-          ]
-        : null,
-    );
+    const sealedFilter: maplibregl.FilterSpecification | null = sealed
+      ? ["any", ["==", ["get", "inPestGhetto"], true], ["==", ["get", "inInternational"], true]]
+      : null;
+    map.setFilter("houses-circle", sealedFilter);
+    if (map.getLayer("houses-hit")) map.setFilter("houses-hit", sealedFilter);
     map.setPaintProperty("ghetto-line", "line-color", sealed ? "#8f2f2a" : "#d4a017");
     map.setPaintProperty("ghetto-fill", "fill-color", sealed ? "#8f2f2a" : "#d4a017");
     if (sealed) map.easeTo({ center: [19.062, 47.499], zoom: 14.2, duration: 900 });
@@ -260,7 +317,7 @@ export function MapExplorer() {
         <p className="lede">
           A LUPTAI-style accessibility index, adapted for occupation, over the Budapest Jewish
           population from the yellow-star houses of June 1944 to the sealed Pest ghetto of January
-          1945.
+          1945. Click a gold house or a coloured resource on the map.
         </p>
         <div className="filmstrip">
           {periods.map((p) => (
