@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06087,
+          47.4962
+        ]
+      },
+      "properties": {
+        "id": "gate-dohany",
+        "name": "Doh\u00e1ny Street Synagogue gate",
+        "closes": null,
+        "notes": "Main western gate. Arrow Cross raids concentrated here."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0674,
+          47.5001
+        ]
+      },
+      "properties": {
+        "id": "gate-kertesz",
+        "name": "Wessel\u00e9nyi / Kert\u00e9sz (Nagyat\u00e1di) gate",
+        "closes": null,
+        "notes": "Main eastern gate, beside the Wessel\u00e9nyi 44 hospital just outside the wall."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06219,
+          47.50044
+        ]
+      },
+      "properties": {
+        "id": "gate-kisdiofa",
+        "name": "Kis Di\u00f3fa gate",
+        "closes": "1945-01-10",
+        "notes": "Locked 10 January 1945 after Arrow Cross raids."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06524,
+          47.49723
+        ]
+      },
+      "properties": {
+        "id": "gate-nagydiofa",
+        "name": "Nagy Di\u00f3fa gate",
+        "closes": "1945-01-10",
+        "notes": "Locked 10 January 1945 after Arrow Cross raids."
+      }
+    }
+  ]
+}

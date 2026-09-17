@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06382,
+          47.49962
+        ]
+      },
+      "properties": {
+        "id": "mkt-klauzal",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Klauz\u00e1l t\u00e9r market hall",
+        "address": "Klauz\u00e1l t\u00e9r, VII",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Intake point for the sealed ghetto; later a burial ground."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05281,
+          47.50481
+        ]
+      },
+      "properties": {
+        "id": "mkt-hold",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Hold utca market hall",
+        "address": "Hold utca 13, V",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "District V hall; Cole & Giordano flag high competition here."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06707,
+          47.50582
+        ]
+      },
+      "properties": {
+        "id": "mkt-hunyadi",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Hunyadi t\u00e9r market hall",
+        "address": "Hunyadi t\u00e9r, VI",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07196,
+          47.49273
+        ]
+      },
+      "properties": {
+        "id": "mkt-rakoczi",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "R\u00e1k\u00f3czi t\u00e9r market hall",
+        "address": "R\u00e1k\u00f3czi t\u00e9r, VIII",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0587,
+          47.48686
+        ]
+      },
+      "properties": {
+        "id": "mkt-central",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Central Market Hall (F\u0151v\u00e1m t\u00e9r)",
+        "address": "F\u0151v\u00e1m t\u00e9r 1\u20133, IX/V",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03778,
+          47.50687
+        ]
+      },
+      "properties": {
+        "id": "mkt-batthyany",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Batthy\u00e1ny t\u00e9r market hall",
+        "address": "Batthy\u00e1ny t\u00e9r, I",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "Buda hall. After the June 22 list, fewer yellow-star houses remained on this side of the river."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06144,
+          47.51847
+        ]
+      },
+      "properties": {
+        "id": "mkt-lehel",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Lehel t\u00e9r market",
+        "address": "Lehel t\u00e9r, XIII",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0843,
+          47.49393
+        ]
+      },
+      "properties": {
+        "id": "mkt-teleki",
+        "purpose": "food",
+        "kind": "market-hall",
+        "name": "Teleki t\u00e9r market",
+        "address": "Teleki L\u00e1szl\u00f3 t\u00e9r, VIII",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05834,
+          47.49698
+        ]
+      },
+      "properties": {
+        "id": "kit-stern",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Stern kitchen",
+        "address": "Rumbach Sebesty\u00e9n utca 10",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Documented ghetto kitchen; last working well on site. 781 kcal/adult/day."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06444,
+          47.50004
+        ]
+      },
+      "properties": {
+        "id": "kit-klauzal",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Klauz\u00e1l district kitchen",
+        "address": "Klauz\u00e1l t\u00e9r",
+        "inPestGhetto": true,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0614,
+          47.4989
+        ]
+      },
+      "properties": {
+        "id": "kit-dob",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Dob utca kitchen",
+        "address": "Dob utca (reconstructed district kitchen)",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Location reconstructed: kitchens operated in former restaurants by ghetto district."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0664,
+          47.4984
+        ]
+      },
+      "properties": {
+        "id": "kit-akacfa",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Ak\u00e1cfa district kitchen",
+        "address": "Ak\u00e1cfa utca",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Location reconstructed from the ten-district kitchen system."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06083,
+          47.49932
+        ]
+      },
+      "properties": {
+        "id": "kit-kazinczy",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Kazinczy kitchen / mikveh well",
+        "address": "Kazinczy utca 16",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Ritual-bath well used when mains water failed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051,
+          47.5165
+        ]
+      },
+      "properties": {
+        "id": "kit-pozsonyi",
+        "purpose": "food",
+        "kind": "soup-kitchen",
+        "name": "Protected-house food drop, Pozsonyi \u00fat",
+        "address": "Pozsonyi \u00fat, XIII",
+        "inPestGhetto": false,
+        "inInternational": true,
+        "notes": "Red Cross / Zionist youth wagon deliveries to protected houses. Not a market."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07161,
+          47.51953
+        ]
+      },
+      "properties": {
+        "id": "med-szabolcs",
+        "purpose": "medical",
+        "kind": "hospital",
+        "name": "Jewish Hospital on Szabolcs utca",
+        "address": "Szabolcs utca 33\u201335, XIII",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "Seized by Waffen-SS in March 1944. Original community hospital, 1802."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06775,
+          47.50023
+        ]
+      },
+      "properties": {
+        "id": "med-wesselenyi",
+        "purpose": "medical",
+        "kind": "hospital",
+        "name": "Emergency hospital, Wessel\u00e9nyi 44",
+        "address": "Wessel\u00e9nyi utca 44",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "School converted after Szabolcs utca was seized. Outside the sealed ghetto."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0792,
+          47.50368
+        ]
+      },
+      "properties": {
+        "id": "med-bethlen",
+        "purpose": "medical",
+        "kind": "hospital",
+        "name": "Hospital, Bethlen t\u00e9r 2",
+        "address": "Bethlen G\u00e1bor t\u00e9r 2",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "Second central hospital; also outside the wall."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0639,
+          47.4994
+        ]
+      },
+      "properties": {
+        "id": "med-klauzal-clinic",
+        "purpose": "medical",
+        "kind": "clinic",
+        "name": "Klauz\u00e1l t\u00e9r emergency clinic",
+        "address": "Klauz\u00e1l t\u00e9r",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Swedish, Jewish Council, and Red Cross facilities around the square."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0613,
+          47.49655
+        ]
+      },
+      "properties": {
+        "id": "med-goldmark",
+        "purpose": "medical",
+        "kind": "clinic",
+        "name": "Wessel\u00e9nyi / Goldmark aid post",
+        "address": "Wessel\u00e9nyi utca 7",
+        "inPestGhetto": true,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06196,
+          47.49659
+        ]
+      },
+      "properties": {
+        "id": "med-sip",
+        "purpose": "medical",
+        "kind": "clinic",
+        "name": "Jewish Council medical office",
+        "address": "S\u00edp utca 12",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Neolog congregation HQ; ghetto administration."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0509,
+          47.5178
+        ]
+      },
+      "properties": {
+        "id": "med-ujlipot",
+        "purpose": "medical",
+        "kind": "clinic",
+        "name": "\u00dajlip\u00f3tv\u00e1ros protected-house aid post",
+        "address": "Pozsonyi \u00fat / Szent Istv\u00e1n park",
+        "inPestGhetto": false,
+        "inInternational": true,
+        "notes": "Aid inside the international ghetto; Arrow Cross raids still reached these houses."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06196,
+          47.49659
+        ]
+      },
+      "properties": {
+        "id": "work-council",
+        "purpose": "work",
+        "kind": "administration",
+        "name": "Jewish Council, S\u00edp utca 12",
+        "address": "S\u00edp utca 12",
+        "inPestGhetto": true,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05378,
+          47.50546
+        ]
+      },
+      "properties": {
+        "id": "work-glasshouse",
+        "purpose": "work",
+        "kind": "protection-workshop",
+        "name": "Glass House (Swiss protection)",
+        "address": "Vad\u00e1sz utca 29",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "Swiss legation emigration department; not a workplace in the ordinary sense, but a critical destination."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0615,
+          47.4984
+        ]
+      },
+      "properties": {
+        "id": "work-kazinczy-shops",
+        "purpose": "work",
+        "kind": "workshop",
+        "name": "Kazinczy workshop cluster",
+        "address": "Kazinczy utca",
+        "inPestGhetto": true,
+        "inInternational": false,
+        "notes": "Pre-ghetto Jewish workshops; after sealing, only internal forced tasks remained."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0623,
+          47.5062
+        ]
+      },
+      "properties": {
+        "id": "work-andr\u00e1ssy",
+        "purpose": "work",
+        "kind": "workshop",
+        "name": "Ter\u00e9zv\u00e1ros workshop cluster",
+        "address": "Andr\u00e1ssy \u00fat / District VI",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.052,
+          47.42
+        ]
+      },
+      "properties": {
+        "id": "work-csepel",
+        "purpose": "work",
+        "kind": "forced-labour",
+        "name": "Csepel / Weiss Manfr\u00e9d labour draw",
+        "address": "Csepel (off-map labour destination)",
+        "inPestGhetto": false,
+        "inInternational": false,
+        "notes": "Stand-in for out-of-city forced-labour destinations. Unreachable once the ghetto is sealed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.098,
+          47.478
+        ]
+      },
+      "properties": {
+        "id": "work-nepliget",
+        "purpose": "work",
+        "kind": "forced-labour",
+        "name": "Pest labour-battalion assembly",
+        "address": "eastern Pest (reconstructed)",
+        "inPestGhetto": false,
+        "inInternational": false
+      }
+    }
+  ]
+}

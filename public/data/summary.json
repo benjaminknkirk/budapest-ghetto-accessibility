@@ -1,0 +1,106 @@
+{
+  "houses": 1952,
+  "streetMatched": 1905,
+  "matchRate": 0.976,
+  "inPestGhetto": 100,
+  "inInternational": 150,
+  "periods": {
+    "occupation": {
+      "n": 1952,
+      "meanComposite": 35.19,
+      "medianComposite": 48.04,
+      "p10": 0.0,
+      "p90": 55.99,
+      "shareFoodNone": 0.21,
+      "shareMedicalNone": 0.181,
+      "foodBands": {
+        "low": 124,
+        "poor": 218,
+        "none": 409,
+        "high": 764,
+        "medium": 437
+      }
+    },
+    "yellow-star": {
+      "n": 1952,
+      "meanComposite": 9.27,
+      "medianComposite": 12.68,
+      "p10": 0.0,
+      "p90": 14.84,
+      "shareFoodNone": 0.221,
+      "shareMedicalNone": 0.192,
+      "foodBands": {
+        "low": 128,
+        "poor": 209,
+        "none": 432,
+        "high": 736,
+        "medium": 447
+      }
+    },
+    "arrow-cross": {
+      "n": 1952,
+      "meanComposite": 7.26,
+      "medianComposite": 9.96,
+      "p10": 0.0,
+      "p90": 11.86,
+      "shareFoodNone": 0.241,
+      "shareMedicalNone": 0.214,
+      "foodBands": {
+        "low": 159,
+        "poor": 191,
+        "none": 470,
+        "high": 665,
+        "medium": 467
+      }
+    },
+    "dual-ghetto": {
+      "n": 250,
+      "meanComposite": 6.39,
+      "medianComposite": 6.47,
+      "p10": 5.79,
+      "p90": 6.86,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 16,
+        "high": 234
+      }
+    },
+    "sealed": {
+      "n": 250,
+      "meanComposite": 0.79,
+      "medianComposite": 0.8,
+      "p10": 0.67,
+      "p90": 0.89,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 35,
+        "high": 215
+      }
+    },
+    "gates-cut": {
+      "n": 250,
+      "meanComposite": 0.39,
+      "medianComposite": 0.39,
+      "p10": 0.32,
+      "p90": 0.44,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 53,
+        "high": 197
+      }
+    },
+    "deltaYellowStarToSealed": {
+      "meanCompositeDrop": 8.48,
+      "percentDrop": 91.5
+    }
+  },
+  "provenance": {
+    "residences": "Blinken OSA Archivum Yellow-Star Houses address list (public), geocoded to OSM street segments. Not the Cole & Giordano HGIS.",
+    "boundaries": "29 November 1944 decree street list; EHRI microhistory; Cole, Holocaust City.",
+    "resources": "Published locations (EHRI, Braham, hospital histories). A few ghetto kitchens are reconstructed as district-level sites.",
+    "method": "Occupation-adapted accessibility index after LUPTAI walking bands + purpose composite, with reach/window/capacity/speed modifiers."
+  }
+}
