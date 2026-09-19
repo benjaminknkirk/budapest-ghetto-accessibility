@@ -574,7 +574,7 @@ button, select { font: inherit; color: inherit; }
     box-shadow: none;
     padding: 0;
     background: white;
-    gap: 0.48rem;
+    gap: 0.42rem;
   }
   .op-stats {
     grid-template-columns: repeat(4, 1fr) !important;
