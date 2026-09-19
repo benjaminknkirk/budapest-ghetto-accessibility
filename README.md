@@ -31,6 +31,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `/method` | Occupation-adapted LUPTAI |
 | `/paper` | Working paper |
 | `/briefing` | Twelve-minute CAGR talk |
+| `/one-pager` | Completed-research brief (letter, print to PDF) |
 | `/teach` | IWitness-facing module |
 | `/outreach` | Emails to Cole/Giordano, CAGR, and education |
 | `/data` | Provenance and HGIS ingest |

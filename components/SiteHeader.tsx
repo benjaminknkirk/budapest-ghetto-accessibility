@@ -8,6 +8,7 @@ const LINKS = [
   { href: "/method", label: "Method" },
   { href: "/paper", label: "Paper" },
   { href: "/briefing", label: "CAGR briefing" },
+  { href: "/one-pager", label: "One-pager" },
   { href: "/teach", label: "Teach" },
   { href: "/outreach", label: "Outreach" },
   { href: "/data", label: "Data" },
