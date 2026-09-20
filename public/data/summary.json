@@ -1,0 +1,277 @@
+{
+  "houses": 1952,
+  "streetMatched": 1905,
+  "matchRate": 0.976,
+  "inPestGhetto": 128,
+  "inInternational": 150,
+  "series": [
+    {
+      "id": "occupation",
+      "short": "Apr\u2013Jun 15",
+      "label": "Occupation, still at home",
+      "mean": 35.19,
+      "n": 1952,
+      "nDisplaced": 0
+    },
+    {
+      "id": "yellow-star",
+      "short": "24 Jun",
+      "label": "Yellow-star houses",
+      "mean": 9.27,
+      "n": 1952,
+      "nDisplaced": 0
+    },
+    {
+      "id": "arrow-cross",
+      "short": "15 Oct",
+      "label": "Arrow Cross coup",
+      "mean": 7.26,
+      "n": 1952,
+      "nDisplaced": 0
+    },
+    {
+      "id": "dual-ghetto",
+      "short": "29 Nov",
+      "label": "Two ghettos, still unsealed",
+      "mean": 6.41,
+      "n": 278,
+      "nDisplaced": 1674
+    },
+    {
+      "id": "sealed",
+      "short": "10 Dec",
+      "label": "Pest ghetto sealed",
+      "mean": 0.72,
+      "n": 278,
+      "nDisplaced": 1674
+    },
+    {
+      "id": "gates-cut",
+      "short": "10 Jan",
+      "label": "Two gates locked",
+      "mean": 0.35,
+      "n": 278,
+      "nDisplaced": 1674
+    }
+  ],
+  "districts": [
+    {
+      "district": 1,
+      "nYellowStar": 31,
+      "meanYellowStar": 8.11,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 31
+    },
+    {
+      "district": 2,
+      "nYellowStar": 53,
+      "meanYellowStar": 8.16,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 53
+    },
+    {
+      "district": 3,
+      "nYellowStar": 99,
+      "meanYellowStar": 1.65,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 99
+    },
+    {
+      "district": 5,
+      "nYellowStar": 171,
+      "meanYellowStar": 11.17,
+      "nSealed": 14,
+      "meanSealed": 0.65,
+      "nDisplaced": 157
+    },
+    {
+      "district": 6,
+      "nYellowStar": 331,
+      "meanYellowStar": 11.58,
+      "nSealed": 1,
+      "meanSealed": 0.83,
+      "nDisplaced": 330
+    },
+    {
+      "district": 7,
+      "nYellowStar": 480,
+      "meanYellowStar": 11.25,
+      "nSealed": 127,
+      "meanSealed": 0.69,
+      "nDisplaced": 353
+    },
+    {
+      "district": 8,
+      "nYellowStar": 147,
+      "meanYellowStar": 11.8,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 147
+    },
+    {
+      "district": 9,
+      "nYellowStar": 32,
+      "meanYellowStar": 7.15,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 32
+    },
+    {
+      "district": 10,
+      "nYellowStar": 16,
+      "meanYellowStar": 0.08,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 16
+    },
+    {
+      "district": 11,
+      "nYellowStar": 16,
+      "meanYellowStar": 3.02,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 16
+    },
+    {
+      "district": 12,
+      "nYellowStar": 13,
+      "meanYellowStar": 3.58,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 13
+    },
+    {
+      "district": 13,
+      "nYellowStar": 358,
+      "meanYellowStar": 9.68,
+      "nSealed": 136,
+      "meanSealed": 0.75,
+      "nDisplaced": 222
+    },
+    {
+      "district": 14,
+      "nYellowStar": 205,
+      "meanYellowStar": 2.84,
+      "nSealed": 0,
+      "meanSealed": null,
+      "nDisplaced": 205
+    }
+  ],
+  "periods": {
+    "occupation": {
+      "n": 1952,
+      "nDisplaced": 0,
+      "meanComposite": 35.19,
+      "meanIncludingDisplaced": 35.19,
+      "medianComposite": 48.04,
+      "p10": 0.0,
+      "p90": 55.99,
+      "shareFoodNone": 0.21,
+      "shareMedicalNone": 0.181,
+      "foodBands": {
+        "low": 124,
+        "poor": 218,
+        "none": 409,
+        "high": 764,
+        "medium": 437
+      }
+    },
+    "yellow-star": {
+      "n": 1952,
+      "nDisplaced": 0,
+      "meanComposite": 9.27,
+      "meanIncludingDisplaced": 9.27,
+      "medianComposite": 12.68,
+      "p10": 0.0,
+      "p90": 14.84,
+      "shareFoodNone": 0.221,
+      "shareMedicalNone": 0.192,
+      "foodBands": {
+        "low": 128,
+        "poor": 209,
+        "none": 432,
+        "high": 736,
+        "medium": 447
+      }
+    },
+    "arrow-cross": {
+      "n": 1952,
+      "nDisplaced": 0,
+      "meanComposite": 7.26,
+      "meanIncludingDisplaced": 7.26,
+      "medianComposite": 9.96,
+      "p10": 0.0,
+      "p90": 11.86,
+      "shareFoodNone": 0.241,
+      "shareMedicalNone": 0.214,
+      "foodBands": {
+        "low": 159,
+        "poor": 191,
+        "none": 470,
+        "high": 665,
+        "medium": 467
+      }
+    },
+    "dual-ghetto": {
+      "n": 278,
+      "nDisplaced": 1674,
+      "meanComposite": 6.41,
+      "meanIncludingDisplaced": 0.91,
+      "medianComposite": 6.47,
+      "p10": 5.8,
+      "p90": 6.85,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 16,
+        "high": 262
+      }
+    },
+    "sealed": {
+      "n": 278,
+      "nDisplaced": 1674,
+      "meanComposite": 0.72,
+      "meanIncludingDisplaced": 0.1,
+      "medianComposite": 0.79,
+      "p10": 0.07,
+      "p90": 0.89,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 44,
+        "high": 234
+      }
+    },
+    "gates-cut": {
+      "n": 278,
+      "nDisplaced": 1674,
+      "meanComposite": 0.35,
+      "meanIncludingDisplaced": 0.05,
+      "medianComposite": 0.39,
+      "p10": 0.01,
+      "p90": 0.44,
+      "shareFoodNone": 0.0,
+      "shareMedicalNone": 0.0,
+      "foodBands": {
+        "medium": 77,
+        "high": 201
+      }
+    },
+    "deltaYellowStarToSealed": {
+      "meanCompositeDrop": 8.55,
+      "percentDrop": 92.2,
+      "nDisplaced": 1674,
+      "shareDisplaced": 0.858,
+      "meanIncludingDisplaced": 0.1
+    }
+  },
+  "provenance": {
+    "residences": "Blinken OSA Archivum Yellow-Star Houses address list (public), geocoded to OSM street segments. Not the Cole & Giordano HGIS.",
+    "boundaries": "29 November 1944 decree street list; EHRI microhistory; Cole, Holocaust City.",
+    "resources": "Published locations (EHRI, Braham, hospital histories). A few ghetto kitchens are reconstructed as district-level sites.",
+    "method": "Occupation-adapted accessibility index after LUPTAI walking bands + purpose composite, with reach/window/capacity/speed modifiers."
+  }
+}

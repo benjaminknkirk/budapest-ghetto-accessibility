@@ -1,0 +1,1953 @@
+id,district,street,number,address,lon,lat,geocode,inPestGhetto,inInternational
+d1-1,1,Ág utca,4,Ág utca 4.,19.0303,47.495364,street-segment,0,0
+d1-2,1,Aladár utca,6,Aladár utca 6.,19.035256,47.489541,street-segment,0,0
+d1-3,1,Aladár utca,12,Aladár utca 12.,19.035299,47.48954,street-segment,0,0
+d1-4,1,Alkotás utca,6,Alkotás utca 6.,19.023829,47.498743,street-segment,0,0
+d1-5,1,Alkotás utca,8,Alkotás utca 8.,19.024214,47.491173,street-segment,0,0
+d1-6,1,Alkotás utca,16,Alkotás utca 16.,19.023946,47.499512,street-segment,0,0
+d1-7,1,Batthyány utca,12,Batthyány utca 12.,19.162396,47.516633,street-segment,0,0
+d1-8,1,Batthyány utca,56,Batthyány utca 56.,19.162383,47.516626,street-segment,0,0
+d1-9,1,Corvin tér,12,Corvin tér 12.,19.038248,47.502208,street-segment,0,0
+d1-10,1,Csalogány utca,8/a,Csalogány utca 8/a.,19.03777,47.507721,street-segment,0,0
+d1-11,1,Csalogány utca,38,Csalogány utca 38.,19.028904,47.507966,street-segment,0,0
+d1-12,1,Derék utca,18,Derék utca 18.,19.034899,47.49251,street-segment,0,0
+d1-13,1,Donáti utca,6,Donáti utca 6.,19.036759,47.503632,street-segment,0,0
+d1-14,1,Donáti utca,16,Donáti utca 16.,19.036358,47.501091,street-segment,0,0
+d1-15,1,Gellérthegy utca,29,Gellérthegy utca 29.,19.03317,47.495652,street-segment,0,0
+d1-16,1,Hattyú utca,8/b,Hattyú utca 8/b.,19.031898,47.507151,street-segment,0,0
+d1-17,1,Hattyú utca,21,Hattyú utca 21.,19.031454,47.507285,street-segment,0,0
+d1-18,1,Iskola utca,27,Iskola utca 27.,19.037467,47.504229,street-segment,0,0
+d1-19,1,Kapucinus utca,20,Kapucinus utca 20.,19.039059,47.500416,street-segment,0,0
+d1-20,1,Kuny Domokos utca,4/a,Kuny Domokos utca 4/a.,19.028841,47.498416,street-segment,0,0
+d1-21,1,Kuny Domokos utca,13,Kuny Domokos utca 13.,19.027542,47.497301,street-segment,0,0
+d1-22,1,Lánchíd utca,13,Lánchíd utca 13.,19.041354,47.496894,street-segment,0,0
+d1-23,1,Lisznyay utca,15,Lisznyay utca 15.,19.04084,47.501344,district-bbox,0,0
+d1-24,1,Lisznyay utca,40,Lisznyay utca 40.,19.031997,47.493293,district-bbox,0,0
+d1-25,1,Márvány utca,18,Márvány utca 18.,19.026666,47.495315,street-segment,0,0
+d1-26,1,Mészáros utca,8,Mészáros utca 8.,19.030859,47.489044,street-segment,0,0
+d1-27,1,Naphegy tér,2,Naphegy tér 2.,19.033211,47.49331,street-segment,0,0
+d1-28,1,Naphegy tér,9,Naphegy tér 9.,19.033142,47.492929,street-segment,0,0
+d1-29,1,Pala utca,8,Pala utca 8.,19.039114,47.500838,street-segment,0,0
+d1-30,1,Pauler utca,5,Pauler utca 5.,19.0313,47.498063,street-segment,0,0
+d1-31,1,Pauler utca,12,Pauler utca 12.,19.032915,47.497121,street-segment,0,0
+d2-32,2,Áldás utca,6,Áldás utca 6.,19.025541,47.5181,street-segment,0,0
+d2-33,2,Bajvívó utca,11,Bajvívó utca 11.,19.03067,47.50978,street-segment,0,0
+d2-34,2,Barsi utca,3,Barsi utca 3.,19.024856,47.515235,street-segment,0,0
+d2-35,2,Barsi utca,6,Barsi utca 6.,19.025936,47.515493,street-segment,0,0
+d2-36,2,Barsi utca,11,Barsi utca 11.,19.024857,47.515196,street-segment,0,0
+d2-37,2,Bimbó utca,10/a,Bimbó utca 10/a.,18.99817,47.527669,street-segment,0,0
+d2-38,2,Bimbó utca,10/b,Bimbó utca 10/b.,18.998142,47.527701,street-segment,0,0
+d2-39,2,Bimbó utca,159,Bimbó utca 159.,19.0244,47.516258,street-segment,0,0
+d2-40,2,Bimbó utca,168,Bimbó utca 168.,19.029825,47.513036,street-segment,0,0
+d2-41,2,Bólyai utca,15,Bólyai utca 15.,19.032529,47.517074,street-segment,0,0
+d2-42,2,Csapláros utca,9,Csapláros utca 9.,19.032586,47.508734,street-segment,0,0
+d2-43,2,Eszter utca,4/b,Eszter utca 4/b.,19.02337,47.518787,street-segment,0,0
+d2-44,2,Eszter utca,10,Eszter utca 10.,19.025097,47.517376,street-segment,0,0
+d2-45,2,Eszter utca,13,Eszter utca 13.,19.026604,47.515942,street-segment,0,0
+d2-46,2,Felhévízi utca,6,Felhévízi utca 6.,19.036919,47.527313,street-segment,0,0
+d2-47,2,Felhévízi utca,28,Felhévízi utca 28.,19.033857,47.526195,street-segment,0,0
+d2-48,2,Felvinci út,3,Felvinci út 3.,19.019072,47.515671,street-segment,0,0
+d2-49,2,Frankel Leó út,10,Frankel Leó út 10.,19.036906,47.521102,street-segment,0,0
+d2-50,2,Frankel Leó út,84,Frankel Leó út 84.,19.037066,47.515325,street-segment,0,0
+d2-51,2,Frankel Leó út,100,Frankel Leó út 100.,19.036214,47.517533,street-segment,0,0
+d2-52,2,Gül Baba utca,11,Gül Baba utca 11.,19.036585,47.516292,street-segment,0,0
+d2-53,2,Gül Baba utca,12,Gül Baba utca 12.,19.035795,47.516249,street-segment,0,0
+d2-54,2,Kapás utca,31,Kapás utca 31.,19.032969,47.508227,street-segment,0,0
+d2-55,2,Kapás utca,39,Kapás utca 39.,19.032284,47.507256,street-segment,0,0
+d2-56,2,Kapás utca,46,Kapás utca 46.,19.032573,47.507571,street-segment,0,0
+d2-57,2,Keleti Károly utca,12,Keleti Károly utca 12.,19.032378,47.511275,street-segment,0,0
+d2-58,2,Keleti Károly utca,16,Keleti Károly utca 16.,19.030531,47.511782,street-segment,0,0
+d2-59,2,Keleti Károly utca,22,Keleti Károly utca 22.,19.023897,47.512903,street-segment,0,0
+d2-60,2,Keleti Károly utca,28/b,Keleti Károly utca 28/b.,19.031053,47.511601,street-segment,0,0
+d2-61,2,Keleti Károly utca,31,Keleti Károly utca 31.,19.032242,47.511227,street-segment,0,0
+d2-62,2,Kitaibel Pál utca,5,Kitaibel Pál utca 5.,19.028203,47.511725,street-segment,0,0
+d2-63,2,Kitaibel Pál utca,9,Kitaibel Pál utca 9.,19.02859,47.512284,street-segment,0,0
+d2-64,2,Lajos utca,22,Lajos utca 22.,19.038467,47.527597,street-segment,0,0
+d2-65,2,Marcibányi tér,9/b,Marcibányi tér 9/b.,19.02418,47.516939,district-bbox,0,0
+d2-66,2,Margit körút,11,Margit körút 11.,19.027107,47.508229,street-segment,0,0
+d2-67,2,Margit körút,71,Margit körút 71.,19.033517,47.511604,street-segment,0,0
+d2-68,2,Medve utca,33,Medve utca 33.,19.035754,47.509169,street-segment,0,0
+d2-69,2,Napsugár utca,9/a,Napsugár utca 9/a.,19.008899,47.534928,street-segment,0,0
+d2-70,2,Petrezselyem utca,1,Petrezselyem utca 1.,19.028577,47.511333,street-segment,0,0
+d2-71,2,Repkény utca,20,Repkény utca 20.,19.03292,47.526518,street-segment,0,0
+d2-72,2,Retek utca,26,Retek utca 26.,19.02555,47.508324,street-segment,0,0
+d2-73,2,Széll Kálmán tér,10,Széll Kálmán tér 10.,19.022116,47.507589,street-segment,0,0
+d2-74,2,Szemlőhegy utca,11,Szemlőhegy utca 11.,19.027775,47.517566,street-segment,0,0
+d2-75,2,Török utca,5,Török utca 5.,19.132206,47.46342,street-segment,0,0
+d2-76,2,Ürömi utca,10,Ürömi utca 10.,19.034175,47.527044,street-segment,0,0
+d2-77,2,Ürömi utca,24-26-28,Ürömi utca 24-26-28.,19.036021,47.52552,street-segment,0,0
+d2-78,2,Ürömi utca,48,Ürömi utca 48.,19.033366,47.52774,street-segment,0,0
+d2-79,2,Varsányi Irén utca,4,Varsányi Irén utca 4.,19.030813,47.509161,street-segment,0,0
+d2-80,2,Varsányi Irén utca,11,Varsányi Irén utca 11.,19.028629,47.50882,street-segment,0,0
+d2-81,2,Varsányi Irén utca,16,Varsányi Irén utca 16.,19.030736,47.509095,street-segment,0,0
+d2-82,2,Varsányi Irén utca,38,Varsányi Irén utca 38.,19.028702,47.508854,street-segment,0,0
+d2-83,2,Vérhalom utca,36/a-d,Vérhalom utca 36/a-d.,19.026909,47.520313,street-segment,0,0
+d2-84,2,Virág árok,3,Virág árok 3.,19.001372,47.519825,street-segment,0,0
+d3-85,3,Ágoston utca,11,Ágoston utca 11.,19.032082,47.546731,street-segment,0,0
+d3-86,3,Akác köz,4,Akác köz 4.,19.044869,47.548173,street-segment,0,0
+d3-87,3,Apát utca,38,Apát utca 38.,19.044574,47.558576,street-segment,0,0
+d3-88,3,Apát utca,90,Apát utca 90.,19.044763,47.560461,street-segment,0,0
+d3-89,3,Bécsi út,2,Bécsi út 2.,19.01136,47.577078,street-segment,0,0
+d3-90,3,Bécsi út,9,Bécsi út 9.,19.029872,47.543735,street-segment,0,0
+d3-91,3,Bécsi út,21,Bécsi út 21.,19.028162,47.551171,street-segment,0,0
+d3-92,3,Bécsi út,82,Bécsi út 82.,19.029179,47.54876,street-segment,0,0
+d3-93,3,Bécsi út,137,Bécsi út 137.,19.028015,47.551167,street-segment,0,0
+d3-94,3,Bécsi út,147,Bécsi út 147.,19.030004,47.543843,street-segment,0,0
+d3-95,3,Bécsi út,184,Bécsi út 184.,19.014577,47.574666,street-segment,0,0
+d3-96,3,Bécsi út,197,Bécsi út 197.,19.028795,47.547787,street-segment,0,0
+d3-97,3,Beszterce utca,17/b,Beszterce utca 17/b.,19.037339,47.534376,street-segment,0,0
+d3-98,3,Bogdáni utca,3/b,Bogdáni utca 3/b.,19.04227,47.54984,street-segment,0,0
+d3-99,3,Bogdáni utca,28,Bogdáni utca 28.,19.045172,47.549658,street-segment,0,0
+d3-100,3,Bokor utca,1,Bokor utca 1.,19.038069,47.532075,street-segment,0,0
+d3-101,3,Doberdó utca,37,Doberdó utca 37.,19.029664,47.536769,street-segment,0,0
+d3-102,3,Erdőalja út,133/b,Erdőalja út 133/b.,19.006193,47.559874,street-segment,0,0
+d3-103,3,Flórián tér,2,Flórián tér 2.,19.041092,47.540745,street-segment,0,0
+d3-104,3,Flórián tér,4,Flórián tér 4.,19.041586,47.540923,street-segment,0,0
+d3-105,3,Flórián tér,10,Flórián tér 10.,19.041622,47.540929,street-segment,0,0
+d3-106,3,Föld utca,31,Föld utca 31.,19.032581,47.540321,street-segment,0,0
+d3-107,3,Föld utca,40,Föld utca 40.,19.034759,47.540373,street-segment,0,0
+d3-108,3,Góbé utca,24,Góbé utca 24.,19.032183,47.549239,street-segment,0,0
+d3-109,3,Góbé utca,26,Góbé utca 26.,19.032226,47.549323,street-segment,0,0
+d3-110,3,Gyógyszergyár utca,1,Gyógyszergyár utca 1.,19.028139,47.558519,street-segment,0,0
+d3-111,3,Hévizi út,6/b,Hévizi út 6/b.,19.037806,47.550948,street-segment,0,0
+d3-112,3,Hévizi út,49,Hévizi út 49.,19.037313,47.550654,street-segment,0,0
+d3-113,3,Kecske utca,23,Kecske utca 23.,19.035204,47.532552,street-segment,0,0
+d3-114,3,Kenyeres utca,32,Kenyeres utca 32.,19.037082,47.537603,street-segment,0,0
+d3-115,3,Kerék utca,39,Kerék utca 39.,19.04163,47.545088,street-segment,0,0
+d3-116,3,Kerék utca,42,Kerék utca 42.,19.042382,47.547808,street-segment,0,0
+d3-117,3,Kerék utca,86,Kerék utca 86.,19.041864,47.545758,street-segment,0,0
+d3-118,3,Kiscelli utca,35,Kiscelli utca 35.,19.03318,47.538734,street-segment,0,0
+d3-119,3,Kiscelli utca,71,Kiscelli utca 71.,19.027487,47.538671,street-segment,0,0
+d3-120,3,Kórház utca,15,Kórház utca 15.,19.042883,47.542101,street-segment,0,0
+d3-121,3,Lajos utca,49/a,Lajos utca 49/a.,19.037675,47.524829,street-segment,0,0
+d3-122,3,Lajos utca,57,Lajos utca 57.,19.04494,47.537385,street-segment,0,0
+d3-123,3,Lajos utca,89,Lajos utca 89.,19.039833,47.530786,street-segment,0,0
+d3-124,3,Lajos utca,163,Lajos utca 163.,19.041461,47.533541,street-segment,0,0
+d3-125,3,Laktanya utca,9,Laktanya utca 9.,19.045783,47.542162,street-segment,0,0
+d3-126,3,Laktanya utca,23,Laktanya utca 23.,19.046145,47.543111,street-segment,0,0
+d3-127,3,Lőpormalom utca,1,Lőpormalom utca 1.,19.05702,47.566876,street-segment,0,0
+d3-128,3,Lőpormalom utca,3,Lőpormalom utca 3.,19.056997,47.566894,street-segment,0,0
+d3-129,3,Lőpormalom utca,5,Lőpormalom utca 5.,19.056996,47.567023,street-segment,0,0
+d3-130,3,Majoránna utca,4,Majoránna utca 4.,19.034401,47.550257,street-segment,0,0
+d3-131,3,Mátyáshegyi út,1,Mátyáshegyi út 1.,19.025635,47.532863,street-segment,0,0
+d3-132,3,Mátyáshegyi út,10,Mátyáshegyi út 10.,19.025372,47.532752,street-segment,0,0
+d3-133,3,Menedékház utca,67,Menedékház utca 67.,18.992558,47.568506,street-segment,0,0
+d3-134,3,Mókus utca,6,Mókus utca 6.,19.043506,47.536961,street-segment,0,0
+d3-135,3,Mókus utca,14,Mókus utca 14.,19.043442,47.536498,street-segment,0,0
+d3-136,3,Mókus utca,20,Mókus utca 20.,19.043387,47.536412,street-segment,0,0
+d3-137,3,Nagyszombat utca,6,Nagyszombat utca 6.,19.039782,47.532017,street-segment,0,0
+d3-138,3,Pacsirtamező utca,11,Pacsirtamező utca 11.,19.039684,47.531953,street-segment,0,0
+d3-139,3,Pacsirtamező utca,17,Pacsirtamező utca 17.,19.040951,47.540855,street-segment,0,0
+d3-140,3,Pacsirtamező utca,19,Pacsirtamező utca 19.,19.040726,47.539098,street-segment,0,0
+d3-141,3,Pacsirtamező utca,22/a,Pacsirtamező utca 22/a.,19.040737,47.540537,street-segment,0,0
+d3-142,3,Pacsirtamező utca,22/b,Pacsirtamező utca 22/b.,19.040858,47.540444,street-segment,0,0
+d3-143,3,Pacsirtamező utca,38,Pacsirtamező utca 38.,19.040511,47.539143,street-segment,0,0
+d3-144,3,Pacsirtamező utca,58,Pacsirtamező utca 58.,19.041127,47.540235,street-segment,0,0
+d3-145,3,Perc utca,5,Perc utca 5.,19.041455,47.536507,street-segment,0,0
+d3-146,3,Raktár utca,16,Raktár utca 16.,19.041745,47.545727,street-segment,0,0
+d3-147,3,Raktár utca,21,Raktár utca 21.,19.042114,47.545606,street-segment,0,0
+d3-148,3,San Marco utca,61-63,San Marco utca 61-63.,19.035326,47.534916,street-segment,0,0
+d3-149,3,Szél utca,14,Szél utca 14.,19.039388,47.545239,street-segment,0,0
+d3-150,3,Szellő utca,5,Szellő utca 5.,19.039323,47.547898,street-segment,0,0
+d3-151,3,Szentendrei út,10,Szentendrei út 10.,19.04377,47.549444,street-segment,0,0
+d3-152,3,Szentendrei út,103,Szentendrei út 103.,19.049021,47.578209,street-segment,0,0
+d3-153,3,Szérüskert utca,18,Szérüskert utca 18.,19.041791,47.553344,street-segment,0,0
+d3-154,3,Szőlő utca,6,Szőlő utca 6.,19.03771,47.54089,street-segment,0,0
+d3-155,3,Szőlő utca,19,Szőlő utca 19.,19.037606,47.542105,street-segment,0,0
+d3-156,3,Szőlő utca,21,Szőlő utca 21.,19.037987,47.532248,street-segment,0,0
+d3-157,3,Szőlő utca,25,Szőlő utca 25.,19.038112,47.533388,street-segment,0,0
+d3-158,3,Szőlő utca,61,Szőlő utca 61.,19.038067,47.53234,street-segment,0,0
+d3-159,3,Szomolnok utca,21,Szomolnok utca 21.,19.03682,47.535223,street-segment,0,0
+d3-160,3,Tanuló utca,2,Tanuló utca 2.,19.043532,47.539026,street-segment,0,0
+d3-161,3,Tavasz utca,15-17,Tavasz utca 15-17.,19.109195,47.559289,street-segment,0,0
+d3-162,3,Tímár utca,2,Tímár utca 2.,19.044333,47.534107,street-segment,0,0
+d3-163,3,Tímár utca,24,Tímár utca 24.,19.03614,47.534303,street-segment,0,0
+d3-164,3,Tímár utca,28,Tímár utca 28.,19.036425,47.534328,street-segment,0,0
+d3-165,3,Vályog utca,4/b,Vályog utca 4/b.,19.032141,47.540877,street-segment,0,0
+d3-166,3,Veder utca,7,Veder utca 7.,19.039034,47.547371,street-segment,0,0
+d3-167,3,Veder utca,13,Veder utca 13.,19.035946,47.548225,street-segment,0,0
+d3-168,3,Veder utca,22,Veder utca 22.,19.038189,47.547439,street-segment,0,0
+d3-169,3,Viador utca,3,Viador utca 3.,19.035434,47.533463,street-segment,0,0
+d3-170,3,Vihar utca,28,Vihar utca 28.,19.037383,47.543166,street-segment,0,0
+d3-171,3,Vizimolnár utca,2,Vizimolnár utca 2.,19.05966,47.567115,street-segment,0,0
+d3-172,3,Vizimolnár utca,13,Vizimolnár utca 13.,19.054624,47.567899,street-segment,0,0
+d3-173,3,Vörösvári út,13,Vörösvári út 13.,19.036557,47.543749,street-segment,0,0
+d3-174,3,Vörösvári út,23,Vörösvári út 23.,19.038027,47.542575,street-segment,0,0
+d3-175,3,Vörösvári út,27,Vörösvári út 27.,19.038808,47.542012,street-segment,0,0
+d3-176,3,Vörösvári út,32,Vörösvári út 32.,19.037299,47.543238,street-segment,0,0
+d3-177,3,Vörösvári út,56,Vörösvári út 56.,19.035372,47.544328,street-segment,0,0
+d3-178,3,Vörösvári út,77,Vörösvári út 77.,19.037716,47.542935,street-segment,0,0
+d3-179,3,Vörösvári út,92,Vörösvári út 92.,19.040314,47.541094,street-segment,0,0
+d3-180,3,Vörösvári út,102,Vörösvári út 102.,19.030078,47.548277,street-segment,0,0
+d3-181,3,Zápor utca,7/b,Zápor utca 7/b.,19.035328,47.541303,street-segment,0,0
+d3-182,3,Zeyk Domokos utca,4,Zeyk Domokos utca 4.,19.029657,47.554098,street-segment,0,0
+d3-183,3,Zichy utca,9,Zichy utca 9.,19.043653,47.537814,street-segment,0,0
+d5-184,5,Akadémia utca,7,Akadémia utca 7.,19.046616,47.502251,street-segment,0,0
+d5-185,5,Akadémia utca,9,Akadémia utca 9.,19.046128,47.503814,street-segment,0,0
+d5-186,5,Akadémia utca,11,Akadémia utca 11.,19.046162,47.504543,street-segment,0,0
+d5-187,5,Alkotmány utca,4,Alkotmány utca 4.,19.050247,47.507296,street-segment,0,0
+d5-188,5,Alkotmány utca,21,Alkotmány utca 21.,19.048756,47.507191,street-segment,0,0
+d5-189,5,Alkotmány utca,31,Alkotmány utca 31.,19.117577,47.54672,street-segment,0,0
+d5-190,5,Arany János utca,27,Arany János utca 27.,19.123279,47.551783,street-segment,0,0
+d5-191,5,Arany János utca,29,Arany János utca 29.,19.047329,47.501896,street-segment,0,0
+d5-192,5,Aranykéz utca,3,Aranykéz utca 3.,19.0512,47.494819,street-segment,0,0
+d5-193,5,Aulich utca,3,Aulich utca 3.,19.051815,47.505888,street-segment,0,0
+d5-194,5,Aulich utca,4-6,Aulich utca 4-6.,19.170345,47.535926,street-segment,0,0
+d5-195,5,Aulich utca,5,Aulich utca 5.,19.051256,47.505534,street-segment,0,0
+d5-196,5,Bajcsy-Zsilinszky út,16,Bajcsy-Zsilinszky út 16.,19.054959,47.505693,street-segment,0,0
+d5-197,5,Bajcsy-Zsilinszky út,24,Bajcsy-Zsilinszky út 24.,19.054989,47.507445,street-segment,0,0
+d5-198,5,Bajcsy-Zsilinszky út,26,Bajcsy-Zsilinszky út 26.,19.054978,47.5024,street-segment,0,0
+d5-199,5,Bajcsy-Zsilinszky út,34,Bajcsy-Zsilinszky út 34.,19.055503,47.5101,street-segment,0,0
+d5-200,5,Bajcsy-Zsilinszky út,40,Bajcsy-Zsilinszky út 40.,19.054886,47.499907,street-segment,0,0
+d5-201,5,Bajcsy-Zsilinszky út,48,Bajcsy-Zsilinszky út 48.,19.054848,47.498777,street-segment,0,0
+d5-202,5,Bajcsy-Zsilinszky út,60,Bajcsy-Zsilinszky út 60.,19.054933,47.504384,street-segment,0,0
+d5-203,5,Balassi Bálint utca,2/b,Balassi Bálint utca 2/b.,19.046806,47.509373,street-segment,0,0
+d5-204,5,Balassi Bálint utca,16,Balassi Bálint utca 16.,19.04674,47.509407,street-segment,0,0
+d5-205,5,Balassi Bálint utca,19,Balassi Bálint utca 19.,19.046756,47.509338,street-segment,0,0
+d5-206,5,Balassi Bálint utca,21-23,Balassi Bálint utca 21-23.,19.046723,47.509367,street-segment,0,0
+d5-207,5,Balassi Bálint utca,25,Balassi Bálint utca 25.,19.046639,47.50939,street-segment,0,0
+d5-208,5,Balassi Bálint utca,27,Balassi Bálint utca 27.,19.046811,47.509437,street-segment,0,0
+d5-209,5,Balaton utca,2,Balaton utca 2.,19.047862,47.511581,street-segment,0,1
+d5-210,5,Balaton utca,12,Balaton utca 12.,19.05095,47.511086,street-segment,0,0
+d5-211,5,Balaton utca,23,Balaton utca 23.,19.047025,47.511723,street-segment,0,1
+d5-212,5,Bank utca,3,Bank utca 3.,19.052629,47.503277,street-segment,0,0
+d5-213,5,Bank utca,6,Bank utca 6.,19.052704,47.503281,street-segment,0,0
+d5-214,5,Bank utca,7,Bank utca 7.,19.053365,47.503319,street-segment,0,0
+d5-215,5,Bástya utca,4,Bástya utca 4.,19.058686,47.48862,street-segment,0,0
+d5-216,5,Bástya utca,9,Bástya utca 9.,19.06028,47.489611,street-segment,0,0
+d5-217,5,Báthory utca,3,Báthory utca 3.,19.140547,47.454346,street-segment,0,0
+d5-218,5,Báthory utca,4,Báthory utca 4.,19.139829,47.453846,street-segment,0,0
+d5-219,5,Báthory utca,6,Báthory utca 6.,19.119576,47.559054,street-segment,0,0
+d5-220,5,Báthory utca,7,Báthory utca 7.,19.05121,47.506166,street-segment,0,0
+d5-221,5,Báthory utca,10,Báthory utca 10.,19.140196,47.454114,street-segment,0,0
+d5-222,5,Báthory utca,17,Báthory utca 17.,19.049221,47.505884,street-segment,0,0
+d5-223,5,Báthory utca,19,Báthory utca 19.,19.14124,47.454926,street-segment,0,0
+d5-224,5,Bécsi utca,1,Bécsi utca 1.,19.026059,47.557079,street-segment,0,0
+d5-225,5,Bécsi utca,3,Bécsi utca 3.,19.024421,47.560483,street-segment,0,0
+d5-226,5,Bécsi utca,5,Bécsi utca 5.,19.034259,47.53499,street-segment,0,0
+d5-227,5,Bihari János utca,16,Bihari János utca 16.,19.054122,47.51071,street-segment,0,0
+d5-228,5,Deák Ferenc utca,15,Deák Ferenc utca 15.,19.049937,47.495768,street-segment,0,0
+d5-229,5,Deák Ferenc utca,17,Deák Ferenc utca 17.,19.085471,47.565929,street-segment,0,0
+d5-230,5,Deák Ferenc utca,19,Deák Ferenc utca 19.,19.085545,47.565725,street-segment,0,0
+d5-231,5,Deák Ferenc utca,21,Deák Ferenc utca 21.,19.049929,47.49575,street-segment,0,0
+d5-232,5,Dorottya utca,8,Dorottya utca 8.,19.049716,47.497078,street-segment,0,0
+d5-233,5,Erzsébet tér,1,Erzsébet tér 1.,19.053259,47.497734,street-segment,0,0
+d5-234,5,Erzsébet tér,5,Erzsébet tér 5.,19.054698,47.497966,street-segment,0,0
+d5-235,5,Erzsébet tér,12,Erzsébet tér 12.,19.053827,47.497779,street-segment,0,0
+d5-236,5,Falk Miksa utca,3,Falk Miksa utca 3.,19.048826,47.512648,street-segment,0,1
+d5-237,5,Falk Miksa utca,4,Falk Miksa utca 4.,19.048141,47.510062,street-segment,0,0
+d5-238,5,Falk Miksa utca,5,Falk Miksa utca 5.,19.048673,47.512001,street-segment,0,1
+d5-239,5,Falk Miksa utca,8,Falk Miksa utca 8.,19.048571,47.512133,street-segment,0,1
+d5-240,5,Falk Miksa utca,10,Falk Miksa utca 10.,19.048124,47.509921,street-segment,0,0
+d5-241,5,Falk Miksa utca,12,Falk Miksa utca 12.,19.048772,47.512723,street-segment,0,1
+d5-242,5,Falk Miksa utca,13,Falk Miksa utca 13.,19.048211,47.510002,street-segment,0,0
+d5-243,5,Falk Miksa utca,18-20,Falk Miksa utca 18-20.,19.048835,47.51264,street-segment,0,1
+d5-244,5,Falk Miksa utca,28,Falk Miksa utca 28.,19.048081,47.510049,street-segment,0,0
+d5-245,5,Fehér hajó utca,5,Fehér hajó utca 5.,19.053312,47.496098,street-segment,0,0
+d5-246,5,Fehér hajó utca,8-10,Fehér hajó utca 8-10.,19.052787,47.495971,street-segment,0,0
+d5-247,5,Fejér György utca,10,Fejér György utca 10.,19.058309,47.489782,street-segment,0,0
+d5-248,5,Fővám tér,4,Fővám tér 4.,19.057,47.486657,street-segment,0,0
+d5-249,5,Galamb utca,5,Galamb utca 5.,19.051287,47.493708,street-segment,0,0
+d5-250,5,Garibaldi utca,1,Garibaldi utca 1.,19.047088,47.504901,street-segment,0,0
+d5-251,5,Garibaldi utca,3,Garibaldi utca 3.,19.04717,47.504879,street-segment,0,0
+d5-252,5,Garibaldi utca,5,Garibaldi utca 5.,19.047174,47.504924,street-segment,0,0
+d5-253,5,Garibaldi utca,7,Garibaldi utca 7.,19.047112,47.504896,street-segment,0,0
+d5-254,5,Gerlóczy utca,1,Gerlóczy utca 1.,19.057067,47.496225,street-segment,0,0
+d5-255,5,Haris köz,5,Haris köz 5.,19.053796,47.493571,street-segment,0,0
+d5-256,5,Hercegprímás utca,3,Hercegprímás utca 3.,19.052524,47.502939,street-segment,0,0
+d5-257,5,Hercegprímás utca,5,Hercegprímás utca 5.,19.052666,47.50281,street-segment,0,0
+d5-258,5,Hercegprímás utca,7,Hercegprímás utca 7.,19.052622,47.502804,street-segment,0,0
+d5-259,5,Hercegprímás utca,10,Hercegprímás utca 10.,19.052686,47.502944,street-segment,0,0
+d5-260,5,Hercegprímás utca,12,Hercegprímás utca 12.,19.05264,47.502872,street-segment,0,0
+d5-261,5,Hercegprímás utca,19,Hercegprímás utca 19.,19.052659,47.502883,street-segment,0,0
+d5-262,5,Hold utca,6,Hold utca 6.,19.051967,47.507167,street-segment,0,0
+d5-263,5,Hold utca,27,Hold utca 27.,19.052167,47.506051,street-segment,0,0
+d5-264,5,Hold utca,29,Hold utca 29.,19.052232,47.505534,street-segment,0,0
+d5-265,5,Honvéd utca,16,Honvéd utca 16.,19.049575,47.50852,street-segment,0,0
+d5-266,5,Honvéd utca,38,Honvéd utca 38.,19.050213,47.505568,street-segment,0,0
+d5-267,5,Honvéd utca,40,Honvéd utca 40.,19.049593,47.508465,street-segment,0,0
+d5-268,5,Jászai Mari tér,1,Jászai Mari tér 1.,19.047413,47.514252,street-segment,0,1
+d5-269,5,József Attila utca,22,József Attila utca 22.,19.051556,47.499015,street-segment,0,0
+d5-270,5,József nádor tér,9,József nádor tér 9.,19.050351,47.497623,street-segment,0,0
+d5-271,5,Kálmán Imre utca,15,Kálmán Imre utca 15.,19.052496,47.506855,street-segment,0,0
+d5-272,5,Kálmán Imre utca,21,Kálmán Imre utca 21.,19.050328,47.50667,street-segment,0,0
+d5-273,5,Kálmán Imre utca,24,Kálmán Imre utca 24.,19.049427,47.506589,street-segment,0,0
+d5-274,5,Károly körút,8,Károly körút 8.,19.058799,47.495847,street-segment,0,0
+d5-275,5,Károly körút,12,Károly körút 12.,19.058042,47.495987,street-segment,0,0
+d5-276,5,Károly körút,14,Károly körút 14.,19.060084,47.494379,street-segment,0,0
+d5-277,5,Károly körút,24,Károly körút 24.,19.05549,47.49749,street-segment,0,0
+d5-278,5,Károly körút,26,Károly körút 26.,19.058857,47.49552,street-segment,0,0
+d5-279,5,Károlyi Mihály utca,13,Károlyi Mihály utca 13.,19.053762,47.506404,district-bbox,0,0
+d5-280,5,Kígyó utca,4-6,Kígyó utca 4-6.,19.053544,47.492869,street-segment,0,0
+d5-281,5,Kossuth Lajos tér,4,Kossuth Lajos tér 4.,19.046551,47.508962,street-segment,0,0
+d5-282,5,Kossuth Lajos utca,12,Kossuth Lajos utca 12.,19.055796,47.493257,street-segment,0,0
+d5-283,5,Kossuth Lajos utca,15,Kossuth Lajos utca 15.,19.15711,47.519644,street-segment,0,0
+d5-284,5,Magyar utca,3,Magyar utca 3.,19.059324,47.493709,street-segment,0,0
+d5-285,5,Magyar utca,5,Magyar utca 5.,19.060161,47.492384,street-segment,0,0
+d5-286,5,Magyar utca,27,Magyar utca 27.,19.059861,47.492954,street-segment,0,0
+d5-287,5,Március 15 tér,3,Március 15 tér 3.,19.05267,47.491627,street-segment,0,0
+d5-288,5,Markó utca,7,Markó utca 7.,19.050477,47.509409,street-segment,0,0
+d5-289,5,Molnár utca,30,Molnár utca 30.,19.053149,47.490627,street-segment,0,0
+d5-290,5,Nádor utca,8,Nádor utca 8.,19.048504,47.503922,street-segment,0,0
+d5-291,5,Nádor utca,19,Nádor utca 19.,19.088181,47.565361,street-segment,0,0
+d5-292,5,Nádor utca,28,Nádor utca 28.,19.048529,47.503977,street-segment,0,0
+d5-293,5,Nádor utca,34,Nádor utca 34.,19.097227,47.573258,street-segment,0,0
+d5-294,5,Nagy Ignác utca,14,Nagy Ignác utca 14.,19.052015,47.507959,street-segment,0,0
+d5-295,5,Nyugati tér,6,Nyugati tér 6.,19.055441,47.510747,street-segment,0,0
+d5-296,5,Nyugati tér,9,Nyugati tér 9.,19.055538,47.510427,street-segment,0,0
+d5-297,5,Október 6 utca,2,Október 6 utca 2.,19.050547,47.502866,street-segment,0,0
+d5-298,5,Október 6 utca,3,Október 6 utca 3.,19.050876,47.500867,street-segment,0,0
+d5-299,5,Október 6 utca,4,Október 6 utca 4.,19.050609,47.502455,street-segment,0,0
+d5-300,5,Október 6 utca,6,Október 6 utca 6.,19.050544,47.502728,street-segment,0,0
+d5-301,5,Október 6 utca,11,Október 6 utca 11.,19.050986,47.501022,street-segment,0,0
+d5-302,5,Október 6 utca,13,Október 6 utca 13.,19.051227,47.499262,street-segment,0,0
+d5-303,5,Október 6 utca,14,Október 6 utca 14.,19.050501,47.502699,street-segment,0,0
+d5-304,5,Október 6 utca,16-18,Október 6 utca 16-18.,19.050546,47.502533,street-segment,0,0
+d5-305,5,Október 6 utca,22,Október 6 utca 22.,19.050617,47.502809,street-segment,0,0
+d5-306,5,Október 6 utca,24,Október 6 utca 24.,19.050586,47.502385,street-segment,0,0
+d5-307,5,Papnövelde utca,1,Papnövelde utca 1.,19.058139,47.491063,street-segment,0,0
+d5-308,5,Párizsi utca,1,Párizsi utca 1.,19.054582,47.494562,street-segment,0,0
+d5-309,5,Perczel Mór utca,4,Perczel Mór utca 4.,19.052327,47.504846,street-segment,0,0
+d5-310,5,Régiposta utca,14,Régiposta utca 14.,19.052022,47.501307,district-bbox,0,0
+d5-311,5,Sas utca,17,Sas utca 17.,19.051584,47.50264,street-segment,0,0
+d5-312,5,Sas utca,18,Sas utca 18.,19.052107,47.500754,street-segment,0,0
+d5-313,5,Sas utca,27,Sas utca 27.,19.052112,47.500661,street-segment,0,0
+d5-314,5,Semmelweis utca,7,Semmelweis utca 7.,19.088898,47.570737,street-segment,0,0
+d5-315,5,Semmelweis utca,19,Semmelweis utca 19.,19.088933,47.570752,street-segment,0,0
+d5-316,5,Steindl Imre utca,8,Steindl Imre utca 8.,19.08464,47.497176,street-segment,0,0
+d5-317,5,Steindl Imre utca,10,Steindl Imre utca 10.,19.08475,47.497263,street-segment,0,0
+d5-318,5,Steindl Imre utca,11,Steindl Imre utca 11.,19.084768,47.497202,street-segment,0,0
+d5-319,5,Steindl Imre utca,12,Steindl Imre utca 12.,19.08463,47.497148,street-segment,0,0
+d5-320,5,Stollár Béla utca,4,Stollár Béla utca 4.,19.048394,47.510501,street-segment,0,0
+d5-321,5,Stollár Béla utca,10/a,Stollár Béla utca 10/a.,19.048355,47.510655,street-segment,0,0
+d5-322,5,Stollár Béla utca,10/b,Stollár Béla utca 10/b.,19.048401,47.510538,street-segment,0,0
+d5-323,5,Stollár Béla utca,14/b,Stollár Béla utca 14/b.,19.048427,47.510588,street-segment,0,0
+d5-324,5,Stollár Béla utca,22,Stollár Béla utca 22.,19.048464,47.510635,street-segment,0,0
+d5-325,5,Sütő utca,2,Sütő utca 2.,19.053965,47.496732,street-segment,0,0
+d5-326,5,Szalay utca,3,Szalay utca 3.,19.047945,47.508526,street-segment,0,0
+d5-327,5,Szemere utca,17,Szemere utca 17.,19.050891,47.506316,street-segment,0,0
+d5-328,5,Szemere utca,19,Szemere utca 19.,19.050794,47.507848,street-segment,0,0
+d5-329,5,Szemere utca,21,Szemere utca 21.,19.051436,47.510471,street-segment,0,0
+d5-330,5,Szemere utca,23,Szemere utca 23.,19.051901,47.511434,street-segment,0,1
+d5-331,5,Szent István körút,5,Szent István körút 5.,19.051262,47.511972,street-segment,0,1
+d5-332,5,Szent István körút,13,Szent István körút 13.,19.047852,47.513186,street-segment,0,1
+d5-333,5,Szent István körút,19,Szent István körút 19.,19.048543,47.512967,street-segment,0,1
+d5-334,5,Szent István körút,23,Szent István körút 23.,19.048075,47.513274,street-segment,0,1
+d5-335,5,Szent István körút,29,Szent István körút 29.,19.052326,47.511829,street-segment,0,1
+d5-336,5,Szent István tér,3,Szent István tér 3.,19.088127,47.561597,street-segment,0,0
+d5-337,5,Szent István tér,4-5,Szent István tér 4-5.,19.089864,47.562756,street-segment,0,0
+d5-338,5,Szent István tér,15,Szent István tér 15.,19.088031,47.561616,street-segment,0,0
+d5-339,5,Szép utca,5,Szép utca 5.,19.0579,47.492907,street-segment,0,0
+d5-340,5,Szervita tér,5,Szervita tér 5.,19.053233,47.495286,street-segment,0,0
+d5-341,5,Váci utca,11/a,Váci utca 11/a.,19.069928,47.539957,street-segment,0,0
+d5-342,5,Váci utca,11/b,Váci utca 11/b.,19.069985,47.539977,street-segment,0,0
+d5-343,5,Váci utca,18,Váci utca 18.,19.077191,47.55932,street-segment,0,0
+d5-344,5,Váci utca,19,Váci utca 19.,19.070942,47.542858,street-segment,0,0
+d5-345,5,Váci utca,23,Váci utca 23.,19.066294,47.532436,street-segment,0,0
+d5-346,5,Váci utca,49,Váci utca 49.,19.075826,47.554919,street-segment,0,0
+d5-347,5,Váci utca,73,Váci utca 73.,19.066902,47.533618,street-segment,0,0
+d5-348,5,Vadász utca,29,Vadász utca 29.,19.053266,47.50729,street-segment,0,0
+d5-349,5,Vadász utca,30,Vadász utca 30.,19.053456,47.506847,street-segment,0,0
+d5-350,5,Vadász utca,33,Vadász utca 33.,19.053243,47.5073,street-segment,0,0
+d5-351,5,Vadász utca,42,Vadász utca 42.,19.053475,47.506794,street-segment,0,0
+d5-352,5,Vécsey utca,3,Vécsey utca 3.,19.154879,47.454639,street-segment,0,0
+d5-353,5,Vécsey utca,5,Vécsey utca 5.,19.049365,47.505024,street-segment,0,0
+d5-354,5,Zoltán utca,11,Zoltán utca 11.,19.124534,47.449719,street-segment,0,0
+d6-355,6,Andrássy út,2,Andrássy út 2.,19.07565,47.513327,street-segment,0,0
+d6-356,6,Andrássy út,8,Andrássy út 8.,19.058902,47.502307,street-segment,0,0
+d6-357,6,Andrássy út,9,Andrássy út 9.,19.06928,47.509117,street-segment,0,0
+d6-358,6,Andrássy út,10,Andrássy út 10.,19.075556,47.513471,street-segment,0,0
+d6-359,6,Andrássy út,11,Andrássy út 11.,19.072189,47.51117,street-segment,0,0
+d6-360,6,Andrássy út,12,Andrássy út 12.,19.060852,47.503465,street-segment,0,0
+d6-361,6,Andrássy út,21,Andrássy út 21.,19.07679,47.514327,street-segment,0,0
+d6-362,6,Andrássy út,32,Andrássy út 32.,19.058913,47.502352,street-segment,0,0
+d6-363,6,Andrássy út,37,Andrássy út 37.,19.076897,47.514187,street-segment,0,0
+d6-364,6,Andrássy út,40,Andrássy út 40.,19.059021,47.502349,street-segment,0,0
+d6-365,6,Andrássy út,45,Andrássy út 45.,19.076888,47.514206,street-segment,0,0
+d6-366,6,Andrássy út,77,Andrássy út 77.,19.07682,47.514278,street-segment,0,0
+d6-367,6,Andrássy út,81,Andrássy út 81.,19.069275,47.509101,street-segment,0,0
+d6-368,6,Andrássy út,84,Andrássy út 84.,19.060722,47.503499,street-segment,0,0
+d6-369,6,Andrássy út,89,Andrássy út 89.,19.069357,47.50903,street-segment,0,0
+d6-370,6,Andrássy út,96,Andrássy út 96.,19.058912,47.502359,street-segment,0,0
+d6-371,6,Aradi utca,11,Aradi utca 11.,19.062725,47.506473,street-segment,0,0
+d6-372,6,Aradi utca,17,Aradi utca 17.,19.069036,47.510328,street-segment,0,0
+d6-373,6,Aradi utca,22,Aradi utca 22.,19.068644,47.510088,street-segment,0,0
+d6-374,6,Aradi utca,29,Aradi utca 29.,19.062772,47.506428,street-segment,0,0
+d6-375,6,Aradi utca,31,Aradi utca 31.,19.084759,47.557413,street-segment,0,0
+d6-376,6,Aradi utca,60,Aradi utca 60.,19.070461,47.511118,street-segment,0,0
+d6-377,6,Aradi utca,62,Aradi utca 62.,19.066951,47.509106,street-segment,0,0
+d6-378,6,Aradi utca,64,Aradi utca 64.,19.086301,47.558567,street-segment,0,0
+d6-379,6,Bajcsy-Zsilinszky út,5,Bajcsy-Zsilinszky út 5.,19.055499,47.509956,street-segment,0,0
+d6-380,6,Bajcsy-Zsilinszky út,15/b,Bajcsy-Zsilinszky út 15/b.,19.055214,47.509821,street-segment,0,0
+d6-381,6,Bajcsy-Zsilinszky út,19/b,Bajcsy-Zsilinszky út 19/b.,19.054809,47.49879,street-segment,0,0
+d6-382,6,Bajcsy-Zsilinszky út,31,Bajcsy-Zsilinszky út 31.,19.054888,47.504381,street-segment,0,0
+d6-383,6,Bajcsy-Zsilinszky út,33,Bajcsy-Zsilinszky út 33.,19.054945,47.507507,street-segment,0,0
+d6-384,6,Bajnok utca,4/b,Bajnok utca 4/b.,19.066544,47.511389,street-segment,0,0
+d6-385,6,Bajnok utca,7,Bajnok utca 7.,19.066454,47.511482,street-segment,0,0
+d6-386,6,Bajnok utca,12,Bajnok utca 12.,19.066495,47.511333,street-segment,0,0
+d6-387,6,Bajnok utca,19,Bajnok utca 19.,19.066471,47.511465,street-segment,0,0
+d6-388,6,Bajnok utca,21,Bajnok utca 21.,19.066468,47.511407,street-segment,0,0
+d6-389,6,Bajnok utca,28,Bajnok utca 28.,19.066504,47.511386,street-segment,0,0
+d6-390,6,Bajnok utca,31,Bajnok utca 31.,19.066612,47.511349,street-segment,0,0
+d6-391,6,Bajza utca,47,Bajza utca 47.,19.068908,47.513802,street-segment,0,0
+d6-392,6,Bajza utca,68,Bajza utca 68.,19.069646,47.513361,street-segment,0,0
+d6-393,6,Benczúr utca,1,Benczúr utca 1.,19.075903,47.511455,street-segment,0,0
+d6-394,6,Benczúr utca,5,Benczúr utca 5.,19.079571,47.512379,street-segment,0,0
+d6-395,6,Benczúr utca,35/c,Benczúr utca 35/c.,19.079728,47.512325,street-segment,0,0
+d6-396,6,Benczúr utca,39/a,Benczúr utca 39/a.,19.099979,47.573165,street-segment,0,0
+d6-397,6,Benczúr utca,39/b,Benczúr utca 39/b.,19.100029,47.57315,street-segment,0,0
+d6-398,6,Csengery utca,39,Csengery utca 39.,19.06526,47.506555,street-segment,0,0
+d6-399,6,Csengery utca,45,Csengery utca 45.,19.064707,47.507016,street-segment,0,0
+d6-400,6,Csengery utca,54,Csengery utca 54.,19.063005,47.508267,street-segment,0,0
+d6-401,6,Csengery utca,57,Csengery utca 57.,19.065666,47.506182,street-segment,0,0
+d6-402,6,Csengery utca,58,Csengery utca 58.,19.067329,47.5049,street-segment,0,0
+d6-403,6,Csengery utca,61,Csengery utca 61.,19.064616,47.506942,street-segment,0,0
+d6-404,6,Csengery utca,63/a,Csengery utca 63/a.,19.065155,47.50665,street-segment,0,0
+d6-405,6,Csengery utca,64,Csengery utca 64.,19.061195,47.509766,street-segment,0,0
+d6-406,6,Csengery utca,71,Csengery utca 71.,19.065231,47.506618,street-segment,0,0
+d6-407,6,Csengery utca,80,Csengery utca 80.,19.061132,47.509804,street-segment,0,0
+d6-408,6,Dalszínház utca,2,Dalszínház utca 2.,19.05882,47.501813,street-segment,0,0
+d6-409,6,Dalszínház utca,10,Dalszínház utca 10.,19.05834,47.502287,street-segment,0,0
+d6-410,6,Dessewffy utca,6,Dessewffy utca 6.,19.105325,47.566146,street-segment,0,0
+d6-411,6,Dessewffy utca,8-10,Dessewffy utca 8-10.,19.105388,47.566157,street-segment,0,0
+d6-412,6,Dessewffy utca,14,Dessewffy utca 14.,19.105308,47.566134,street-segment,0,0
+d6-413,6,Dessewffy utca,15,Dessewffy utca 15.,19.105338,47.566087,street-segment,0,0
+d6-414,6,Dessewffy utca,18-20,Dessewffy utca 18-20.,19.105389,47.566223,street-segment,0,0
+d6-415,6,Dessewffy utca,23,Dessewffy utca 23.,19.105407,47.566235,street-segment,0,0
+d6-416,6,Dessewffy utca,25-27,Dessewffy utca 25-27.,19.10533,47.566215,street-segment,0,0
+d6-417,6,Dessewffy utca,27,Dessewffy utca 27.,19.105346,47.566204,street-segment,0,0
+d6-418,6,Dessewffy utca,30,Dessewffy utca 30.,19.105367,47.566217,street-segment,0,0
+d6-419,6,Dessewffy utca,34,Dessewffy utca 34.,19.105368,47.566124,street-segment,0,0
+d6-420,6,Dessewffy utca,39,Dessewffy utca 39.,19.105336,47.566162,street-segment,0,0
+d6-421,6,Dessewffy utca,41,Dessewffy utca 41.,19.105282,47.566102,street-segment,0,0
+d6-422,6,Dessewffy utca,43,Dessewffy utca 43.,19.105326,47.566214,street-segment,0,0
+d6-423,6,Dessewffy utca,47,Dessewffy utca 47.,19.105352,47.56609,street-segment,0,0
+d6-424,6,Dózsa György út,86/b,Dózsa György út 86/b.,19.094956,47.501422,street-segment,0,0
+d6-425,6,Dózsa György út,108,Dózsa György út 108.,19.089647,47.50333,street-segment,0,0
+d6-426,6,Eötvös utca,2,Eötvös utca 2.,19.11117,47.551783,street-segment,0,0
+d6-427,6,Eötvös utca,6/b,Eötvös utca 6/b.,19.062601,47.507411,street-segment,0,0
+d6-428,6,Eötvös utca,9,Eötvös utca 9.,18.989468,47.497282,street-segment,0,0
+d6-429,6,Eötvös utca,19,Eötvös utca 19.,18.988947,47.497548,street-segment,0,0
+d6-430,6,Eötvös utca,20,Eötvös utca 20.,18.989617,47.497276,street-segment,0,0
+d6-431,6,Eötvös utca,24,Eötvös utca 24.,18.989163,47.497374,street-segment,0,0
+d6-432,6,Eötvös utca,26/d,Eötvös utca 26/d.,18.978321,47.498964,street-segment,0,0
+d6-433,6,Eötvös utca,27,Eötvös utca 27.,19.059843,47.509415,street-segment,0,0
+d6-434,6,Eötvös utca,29,Eötvös utca 29.,19.111131,47.551824,street-segment,0,0
+d6-435,6,Eötvös utca,30,Eötvös utca 30.,18.984356,47.498099,street-segment,0,0
+d6-436,6,Eötvös utca,31,Eötvös utca 31.,19.064289,47.505905,street-segment,0,0
+d6-437,6,Eötvös utca,32,Eötvös utca 32.,19.14325,47.459851,street-segment,0,0
+d6-438,6,Eötvös utca,35,Eötvös utca 35.,19.06438,47.505839,street-segment,0,0
+d6-439,6,Eötvös utca,38,Eötvös utca 38.,19.059648,47.509713,street-segment,0,0
+d6-440,6,Eötvös utca,39,Eötvös utca 39.,19.109974,47.548974,street-segment,0,0
+d6-441,6,Eötvös utca,46,Eötvös utca 46.,18.988972,47.497431,street-segment,0,0
+d6-442,6,Eötvös utca,48,Eötvös utca 48.,19.114242,47.558853,street-segment,0,0
+d6-443,6,Felső erdősor,4,Felső erdősor 4.,19.069507,47.5099,district-bbox,0,0
+d6-444,6,Felső erdősor,11,Felső erdősor 11.,19.067,47.504601,district-bbox,0,0
+d6-445,6,Felső erdősor,12-14,Felső erdősor 12-14.,19.067664,47.508563,district-bbox,0,0
+d6-446,6,Hajós utca,7,Hajós utca 7.,19.055707,47.505274,street-segment,0,0
+d6-447,6,Hajós utca,13-15,Hajós utca 13-15.,19.059387,47.502457,street-segment,0,0
+d6-448,6,Hajós utca,16-18,Hajós utca 16-18.,19.05962,47.502139,street-segment,0,0
+d6-449,6,Hajós utca,25,Hajós utca 25.,19.058645,47.502929,street-segment,0,0
+d6-450,6,Hajós utca,26/b,Hajós utca 26/b.,19.059768,47.502201,street-segment,0,0
+d6-451,6,Hajós utca,41,Hajós utca 41.,19.059617,47.502138,street-segment,0,0
+d6-452,6,Hegedű utca,9,Hegedű utca 9.,19.062504,47.503002,street-segment,0,0
+d6-453,6,Hunyadi tér,8,Hunyadi tér 8.,19.066471,47.505556,street-segment,0,0
+d6-454,6,Hunyadi tér,12,Hunyadi tér 12.,19.066529,47.505473,street-segment,0,0
+d6-455,6,Izabella utca,41,Izabella utca 41.,19.072999,47.503378,street-segment,0,0
+d6-456,6,Izabella utca,43,Izabella utca 43.,19.062578,47.511245,street-segment,0,0
+d6-457,6,Izabella utca,45,Izabella utca 45.,19.073804,47.502782,street-segment,0,0
+d6-458,6,Izabella utca,49,Izabella utca 49.,19.067269,47.507765,street-segment,0,0
+d6-459,6,Izabella utca,52,Izabella utca 52.,19.07469,47.502011,street-segment,0,0
+d6-460,6,Izabella utca,62-64,Izabella utca 62-64.,19.067167,47.507743,street-segment,0,0
+d6-461,6,Izabella utca,63,Izabella utca 63.,19.067567,47.507566,street-segment,0,0
+d6-462,6,Izabella utca,65,Izabella utca 65.,19.074685,47.501912,street-segment,0,0
+d6-463,6,Izabella utca,66,Izabella utca 66.,19.068829,47.506568,street-segment,0,0
+d6-464,6,Izabella utca,75,Izabella utca 75.,19.067296,47.507802,street-segment,0,0
+d6-465,6,Izabella utca,83,Izabella utca 83.,19.072146,47.504239,street-segment,0,0
+d6-466,6,Izabella utca,96,Izabella utca 96.,19.072143,47.504189,street-segment,0,0
+d6-467,6,Jókai tér,1,Jókai tér 1.,19.061698,47.504911,street-segment,0,0
+d6-468,6,Jókai tér,3,Jókai tér 3.,19.06221,47.504781,street-segment,0,0
+d6-469,6,Jókai tér,6,Jókai tér 6.,19.061727,47.504863,street-segment,0,0
+d6-470,6,Jókai tér,10,Jókai tér 10.,19.061307,47.50538,street-segment,0,0
+d6-471,6,Jókai utca,1,Jókai utca 1.,19.059301,47.507122,street-segment,0,0
+d6-472,6,Jókai utca,4,Jókai utca 4.,19.118476,47.562133,street-segment,0,0
+d6-473,6,Jókai utca,6,Jókai utca 6.,19.091892,47.561589,street-segment,0,0
+d6-474,6,Jókai utca,12,Jókai utca 12.,19.118506,47.562235,street-segment,0,0
+d6-475,6,Jókai utca,14,Jókai utca 14.,19.091969,47.561526,street-segment,0,0
+d6-476,6,Jókai utca,20,Jókai utca 20.,19.118467,47.562267,street-segment,0,0
+d6-477,6,Jókai utca,26,Jókai utca 26.,19.091029,47.561702,street-segment,0,0
+d6-478,6,Jókai utca,36,Jókai utca 36.,19.118487,47.562198,street-segment,0,0
+d6-479,6,Káldy Gyula utca,1,Káldy Gyula utca 1.,19.05771,47.499691,street-segment,0,0
+d6-480,6,Káldy Gyula utca,3,Káldy Gyula utca 3.,19.056302,47.500912,street-segment,0,0
+d6-481,6,Káldy Gyula utca,4,Káldy Gyula utca 4.,19.057833,47.49971,street-segment,0,0
+d6-482,6,Káldy Gyula utca,9,Káldy Gyula utca 9.,19.056275,47.500951,street-segment,0,0
+d6-483,6,Király utca,6,Király utca 6.,19.094862,47.56208,street-segment,0,0
+d6-484,6,Király utca,10,Király utca 10.,19.065646,47.503327,street-segment,0,0
+d6-485,6,Király utca,14,Király utca 14.,19.056094,47.498083,street-segment,0,0
+d6-486,6,Király utca,20,Király utca 20.,19.064015,47.502627,street-segment,0,0
+d6-487,6,Király utca,28,Király utca 28.,19.097953,47.561526,street-segment,0,0
+d6-488,6,Király utca,34,Király utca 34.,19.065769,47.503348,street-segment,0,0
+d6-489,6,Király utca,36,Király utca 36.,19.06024,47.500231,street-segment,0,0
+d6-490,6,Király utca,38,Király utca 38.,19.056201,47.498109,street-segment,0,0
+d6-491,6,Király utca,40,Király utca 40.,19.092379,47.562435,street-segment,0,0
+d6-492,6,Király utca,42,Király utca 42.,19.062875,47.502158,street-segment,0,0
+d6-493,6,Király utca,48,Király utca 48.,19.064834,47.502989,street-segment,0,0
+d6-494,6,Király utca,54,Király utca 54.,19.094926,47.56206,street-segment,0,0
+d6-495,6,Király utca,60,Király utca 60.,19.060201,47.500207,street-segment,0,0
+d6-496,6,Király utca,70,Király utca 70.,19.056998,47.498434,street-segment,1,0
+d6-497,6,Király utca,76,Király utca 76.,19.097909,47.561585,street-segment,0,0
+d6-498,6,Király utca,86,Király utca 86.,19.056114,47.497988,street-segment,0,0
+d6-499,6,Király utca,88,Király utca 88.,19.092382,47.562458,street-segment,0,0
+d6-500,6,Király utca,92,Király utca 92.,19.063921,47.502583,street-segment,0,0
+d6-501,6,Király utca,98/b,Király utca 98/b.,19.065173,47.503159,street-segment,0,0
+d6-502,6,Király utca,102,Király utca 102.,19.094824,47.561985,street-segment,0,0
+d6-503,6,Király utca,108,Király utca 108.,19.060229,47.500299,street-segment,0,0
+d6-504,6,Kmety György utca,14,Kmety György utca 14.,19.067503,47.510752,street-segment,0,0
+d6-505,6,Lázár utca,7,Lázár utca 7.,19.057626,47.503184,street-segment,0,0
+d6-506,6,Lázár utca,8,Lázár utca 8.,19.056107,47.502192,street-segment,0,0
+d6-507,6,Lázár utca,9,Lázár utca 9.,19.057718,47.503245,street-segment,0,0
+d6-508,6,Lázár utca,13,Lázár utca 13.,19.057702,47.503235,street-segment,0,0
+d6-509,6,Lázár utca,14,Lázár utca 14.,19.056203,47.502278,street-segment,0,0
+d6-510,6,Lázár utca,16,Lázár utca 16.,19.05619,47.502181,street-segment,0,0
+d6-511,6,Lázár utca,20,Lázár utca 20.,19.056106,47.502132,street-segment,0,0
+d6-512,6,Lendvay utca,15,Lendvay utca 15.,19.072055,47.512514,street-segment,0,0
+d6-513,6,Liszt Ferenc tér,2,Liszt Ferenc tér 2.,19.063462,47.503651,street-segment,0,0
+d6-514,6,Liszt Ferenc tér,4,Liszt Ferenc tér 4.,19.064253,47.503144,street-segment,0,0
+d6-515,6,Liszt Ferenc tér,5,Liszt Ferenc tér 5.,19.062599,47.504173,street-segment,0,0
+d6-516,6,Liszt Ferenc tér,6,Liszt Ferenc tér 6.,19.064245,47.503046,street-segment,0,0
+d6-517,6,Liszt Ferenc tér,10,Liszt Ferenc tér 10.,19.064221,47.50312,street-segment,0,0
+d6-518,6,Liszt Ferenc tér,11,Liszt Ferenc tér 11.,19.062662,47.504114,street-segment,0,0
+d6-519,6,Lovag utca,3,Lovag utca 3.,19.057732,47.506643,street-segment,0,0
+d6-520,6,Lovag utca,10,Lovag utca 10.,19.057717,47.506728,street-segment,0,0
+d6-521,6,Lovag utca,14,Lovag utca 14.,19.057832,47.506749,street-segment,0,0
+d6-522,6,Lovag utca,15,Lovag utca 15.,19.057721,47.50667,street-segment,0,0
+d6-523,6,Lovag utca,16,Lovag utca 16.,19.057744,47.506658,street-segment,0,0
+d6-524,6,Lovag utca,17,Lovag utca 17.,19.057701,47.506676,street-segment,0,0
+d6-525,6,Lovag utca,18,Lovag utca 18.,19.057843,47.506649,street-segment,0,0
+d6-526,6,Lovag utca,22,Lovag utca 22.,19.057778,47.506715,street-segment,0,0
+d6-527,6,Lövölde tér,3,Lövölde tér 3.,19.072525,47.50722,street-segment,0,0
+d6-528,6,Lövölde tér,4,Lövölde tér 4.,19.072361,47.50727,street-segment,0,0
+d6-529,6,Mozsár utca,7,Mozsár utca 7.,19.061175,47.505181,street-segment,0,0
+d6-530,6,Mozsár utca,9,Mozsár utca 9.,19.061051,47.505179,street-segment,0,0
+d6-531,6,Mozsár utca,14,Mozsár utca 14.,19.060312,47.5046,street-segment,0,0
+d6-532,6,Munkácsy Mihály utca,23,Munkácsy Mihály utca 23.,19.089912,47.496574,street-segment,0,0
+d6-533,6,Munkácsy Mihály utca,29,Munkácsy Mihály utca 29.,19.073916,47.512238,street-segment,0,0
+d6-534,6,Nagymező utca,8,Nagymező utca 8.,19.055267,47.506805,street-segment,0,0
+d6-535,6,Nagymező utca,11,Nagymező utca 11.,19.059895,47.503775,street-segment,0,0
+d6-536,6,Nagymező utca,12,Nagymező utca 12.,19.061431,47.502532,street-segment,0,0
+d6-537,6,Nagymező utca,14,Nagymező utca 14.,19.055062,47.506935,street-segment,0,0
+d6-538,6,Nagymező utca,21,Nagymező utca 21.,19.059963,47.503613,street-segment,0,0
+d6-539,6,Nagymező utca,25,Nagymező utca 25.,19.057668,47.5053,street-segment,0,0
+d6-540,6,Nagymező utca,26,Nagymező utca 26.,19.055238,47.506744,street-segment,0,0
+d6-541,6,Nagymező utca,37-39,Nagymező utca 37-39.,19.059906,47.503639,street-segment,0,0
+d6-542,6,Nagymező utca,41,Nagymező utca 41.,19.057661,47.505257,street-segment,0,0
+d6-543,6,Nagymező utca,43,Nagymező utca 43.,19.059906,47.503801,street-segment,0,0
+d6-544,6,Nagymező utca,45,Nagymező utca 45.,19.059946,47.503698,street-segment,0,0
+d6-545,6,Nagymező utca,47,Nagymező utca 47.,19.055772,47.506579,street-segment,0,0
+d6-546,6,Nagymező utca,60,Nagymező utca 60.,19.061494,47.502652,street-segment,0,0
+d6-547,6,Nagymező utca,66,Nagymező utca 66.,19.055204,47.506695,street-segment,0,0
+d6-548,6,Nagymező utca,68,Nagymező utca 68.,19.061478,47.502575,street-segment,0,0
+d6-549,6,Németh László utca,6,Németh László utca 6.,19.070524,47.507735,street-segment,0,0
+d6-550,6,Ó utca,4,Ó utca 4.,19.055043,47.502236,street-segment,0,0
+d6-551,6,Ó utca,5,Ó utca 5.,19.056399,47.503014,street-segment,0,0
+d6-552,6,Ó utca,6,Ó utca 6.,19.059256,47.504879,street-segment,0,0
+d6-553,6,Ó utca,11,Ó utca 11.,19.056497,47.503073,street-segment,0,0
+d6-554,6,Ó utca,14,Ó utca 14.,19.056506,47.503127,street-segment,0,0
+d6-555,6,Ó utca,16,Ó utca 16.,19.05503,47.502226,street-segment,0,0
+d6-556,6,Ó utca,37,Ó utca 37.,19.055099,47.502338,street-segment,0,0
+d6-557,6,Ó utca,38,Ó utca 38.,19.056369,47.503021,street-segment,0,0
+d6-558,6,Ó utca,40,Ó utca 40.,19.055144,47.50235,street-segment,0,0
+d6-559,6,Ó utca,42,Ó utca 42.,19.059221,47.504834,street-segment,0,0
+d6-560,6,Ó utca,48,Ó utca 48.,19.059119,47.504901,street-segment,0,0
+d6-561,6,Paulay Ede utca,7-9,Paulay Ede utca 7-9.,19.061806,47.503269,street-segment,0,0
+d6-562,6,Paulay Ede utca,10,Paulay Ede utca 10.,19.060387,47.502335,street-segment,0,0
+d6-563,6,Paulay Ede utca,13,Paulay Ede utca 13.,19.062779,47.503763,street-segment,0,0
+d6-564,6,Paulay Ede utca,15,Paulay Ede utca 15.,19.062294,47.503589,street-segment,0,0
+d6-565,6,Paulay Ede utca,16,Paulay Ede utca 16.,19.057943,47.500679,street-segment,0,0
+d6-566,6,Paulay Ede utca,18,Paulay Ede utca 18.,19.056062,47.49961,street-segment,0,0
+d6-567,6,Paulay Ede utca,21,Paulay Ede utca 21.,19.058835,47.50138,street-segment,0,0
+d6-568,6,Paulay Ede utca,22-24,Paulay Ede utca 22-24.,19.060458,47.502404,street-segment,0,0
+d6-569,6,Paulay Ede utca,25-27,Paulay Ede utca 25-27.,19.062862,47.503779,street-segment,0,0
+d6-570,6,Paulay Ede utca,37,Paulay Ede utca 37.,19.062826,47.503853,street-segment,0,0
+d6-571,6,Paulay Ede utca,39,Paulay Ede utca 39.,19.062369,47.50362,street-segment,0,0
+d6-572,6,Paulay Ede utca,41,Paulay Ede utca 41.,19.061026,47.502776,street-segment,0,0
+d6-573,6,Paulay Ede utca,43,Paulay Ede utca 43.,19.061742,47.503166,street-segment,0,0
+d6-574,6,Paulay Ede utca,45,Paulay Ede utca 45.,19.058881,47.501345,street-segment,0,0
+d6-575,6,Paulay Ede utca,49,Paulay Ede utca 49.,19.062857,47.50382,street-segment,0,0
+d6-576,6,Paulay Ede utca,58,Paulay Ede utca 58.,19.060393,47.502366,street-segment,0,0
+d6-577,6,Paulay Ede utca,65,Paulay Ede utca 65.,19.061113,47.50282,street-segment,0,0
+d6-578,6,Podmaniczky utca,12,Podmaniczky utca 12.,19.068215,47.514902,street-segment,0,0
+d6-579,6,Podmaniczky utca,13,Podmaniczky utca 13.,19.070448,47.516062,street-segment,0,0
+d6-580,6,Podmaniczky utca,27,Podmaniczky utca 27.,19.062737,47.511847,street-segment,0,0
+d6-581,6,Podmaniczky utca,29,Podmaniczky utca 29.,19.055325,47.507091,street-segment,0,0
+d6-582,6,Podmaniczky utca,39,Podmaniczky utca 39.,19.055375,47.507184,street-segment,0,0
+d6-583,6,Podmaniczky utca,49,Podmaniczky utca 49.,19.056434,47.507745,street-segment,0,0
+d6-584,6,Podmaniczky utca,59,Podmaniczky utca 59.,19.05934,47.509637,street-segment,0,0
+d6-585,6,Podmaniczky utca,63,Podmaniczky utca 63.,19.072979,47.517512,street-segment,0,0
+d6-586,6,Podmaniczky utca,77,Podmaniczky utca 77.,19.064904,47.512907,street-segment,0,0
+d6-587,6,Révay utca,14,Révay utca 14.,19.056455,47.501471,street-segment,0,0
+d6-588,6,Révay utca,16,Révay utca 16.,19.056446,47.501481,street-segment,0,0
+d6-589,6,Révay utca,20,Révay utca 20.,19.056502,47.501488,street-segment,0,0
+d6-590,6,Révay utca,22,Révay utca 22.,19.056521,47.501452,street-segment,0,0
+d6-591,6,Rippl-Rónai utca,18,Rippl-Rónai utca 18.,19.075571,47.513347,street-segment,0,0
+d6-592,6,Rippl-Rónai utca,28,Rippl-Rónai utca 28.,19.075339,47.513308,street-segment,0,0
+d6-593,6,Rippl-Rónai utca,38,Rippl-Rónai utca 38.,19.071919,47.516235,street-segment,0,0
+d6-594,6,Rippl-Rónai utca,40,Rippl-Rónai utca 40.,19.072773,47.515563,street-segment,0,0
+d6-595,6,Rózsa utca,42,Rózsa utca 42.,19.099813,47.563333,street-segment,0,0
+d6-596,6,Rózsa utca,48,Rózsa utca 48.,19.100579,47.563207,street-segment,0,0
+d6-597,6,Rózsa utca,57,Rózsa utca 57.,19.099946,47.563771,street-segment,0,0
+d6-598,6,Rózsa utca,59,Rózsa utca 59.,19.099064,47.561512,street-segment,0,0
+d6-599,6,Rózsa utca,62,Rózsa utca 62.,19.072386,47.504947,street-segment,0,0
+d6-600,6,Rózsa utca,71,Rózsa utca 71.,19.098899,47.560679,street-segment,0,0
+d6-601,6,Rózsa utca,72,Rózsa utca 72.,19.099516,47.562417,street-segment,0,0
+d6-602,6,Rózsa utca,95,Rózsa utca 95.,19.067993,47.50831,street-segment,0,0
+d6-603,6,Rózsa utca,97/b,Rózsa utca 97/b.,19.099749,47.563369,street-segment,0,0
+d6-604,6,Rózsa utca,98,Rózsa utca 98.,19.099065,47.561294,street-segment,0,0
+d6-605,6,Székely Bertalan utca,2/b,Székely Bertalan utca 2/b.,19.068697,47.51224,street-segment,0,0
+d6-606,6,Székely Bertalan utca,5,Székely Bertalan utca 5.,19.066854,47.513885,street-segment,0,0
+d6-607,6,Székely Mihály utca,3,Székely Mihály utca 3.,19.058912,47.50075,street-segment,0,0
+d6-608,6,Székely Mihály utca,4-6,Székely Mihály utca 4-6.,19.058955,47.500836,street-segment,0,0
+d6-609,6,Székely Mihály utca,5,Székely Mihály utca 5.,19.058914,47.500816,street-segment,0,0
+d6-610,6,Székely Mihály utca,7,Székely Mihály utca 7.,19.058971,47.500769,street-segment,0,0
+d6-611,6,Székely Mihály utca,8,Székely Mihály utca 8.,19.058901,47.500754,street-segment,0,0
+d6-612,6,Székely Mihály utca,9,Székely Mihály utca 9.,19.058956,47.500721,street-segment,0,0
+d6-613,6,Székely Mihály utca,10,Székely Mihály utca 10.,19.058876,47.500785,street-segment,0,0
+d6-614,6,Székely Mihály utca,11,Székely Mihály utca 11.,19.058893,47.500748,street-segment,0,0
+d6-615,6,Székely Mihály utca,12,Székely Mihály utca 12.,19.058964,47.500759,street-segment,0,0
+d6-616,6,Székely Mihály utca,16,Székely Mihály utca 16.,19.058837,47.500875,street-segment,0,0
+d6-617,6,Szív utca,2,Szív utca 2.,19.066717,47.510578,street-segment,0,0
+d6-618,6,Szív utca,11,Szív utca 11.,19.066629,47.510494,street-segment,0,0
+d6-619,6,Szív utca,13,Szív utca 13.,19.066637,47.510524,street-segment,0,0
+d6-620,6,Szív utca,14,Szív utca 14.,19.066712,47.510419,street-segment,0,0
+d6-621,6,Szív utca,15,Szív utca 15.,19.066723,47.510452,street-segment,0,0
+d6-622,6,Szív utca,26,Szív utca 26.,19.066687,47.510553,street-segment,0,0
+d6-623,6,Szív utca,33,Szív utca 33.,19.066699,47.510544,street-segment,0,0
+d6-624,6,Szív utca,42,Szív utca 42.,19.066631,47.510553,street-segment,0,0
+d6-625,6,Szív utca,46,Szív utca 46.,19.066711,47.510422,street-segment,0,0
+d6-626,6,Szív utca,48/b,Szív utca 48/b.,19.066577,47.510458,street-segment,0,0
+d6-627,6,Szív utca,49,Szív utca 49.,19.066564,47.510536,street-segment,0,0
+d6-628,6,Szobi utca,4,Szobi utca 4.,19.059503,47.508927,street-segment,0,0
+d6-629,6,Szófia utca,7,Szófia utca 7.,19.066459,47.504868,street-segment,0,0
+d6-630,6,Szófia utca,8,Szófia utca 8.,19.068924,47.506265,street-segment,0,0
+d6-631,6,Szófia utca,16,Szófia utca 16.,19.068905,47.506279,street-segment,0,0
+d6-632,6,Szófia utca,18,Szófia utca 18.,19.065532,47.504301,street-segment,0,0
+d6-633,6,Szófia utca,23,Szófia utca 23.,19.06647,47.504921,street-segment,0,0
+d6-634,6,Szondi utca,9,Szondi utca 9.,19.059743,47.508069,street-segment,0,0
+d6-635,6,Szondi utca,37/c,Szondi utca 37/c.,19.059081,47.50768,street-segment,0,0
+d6-636,6,Szondi utca,40,Szondi utca 40.,19.062295,47.509527,street-segment,0,0
+d6-637,6,Szondi utca,42/c,Szondi utca 42/c.,19.074122,47.515836,street-segment,0,0
+d6-638,6,Szondi utca,56,Szondi utca 56.,19.070329,47.513855,street-segment,0,0
+d6-639,6,Szondi utca,88,Szondi utca 88.,19.062378,47.509519,street-segment,0,0
+d6-640,6,Szondi utca,102,Szondi utca 102.,19.074,47.515701,street-segment,0,0
+d6-641,6,Teréz körút,5,Teréz körút 5.,19.056418,47.510196,street-segment,0,0
+d6-642,6,Teréz körút,8,Teréz körút 8.,19.056358,47.510098,street-segment,0,0
+d6-643,6,Teréz körút,11,Teréz körút 11.,19.061942,47.506251,street-segment,0,0
+d6-644,6,Teréz körút,12,Teréz körút 12.,19.056405,47.509938,street-segment,0,0
+d6-645,6,Teréz körút,21,Teréz körút 21.,19.056361,47.510354,street-segment,0,0
+d6-646,6,Teréz körút,23,Teréz körút 23.,19.061831,47.506288,street-segment,0,0
+d6-647,6,Teréz körút,29,Teréz körút 29.,19.056473,47.510348,street-segment,0,0
+d6-648,6,Teréz körút,36,Teréz körút 36.,19.056353,47.50998,street-segment,0,0
+d6-649,6,Teréz körút,37,Teréz körút 37.,19.056509,47.510205,street-segment,0,0
+d6-650,6,Teréz körút,39,Teréz körút 39.,19.061892,47.506305,street-segment,0,0
+d6-651,6,Teréz körút,42-44,Teréz körút 42-44.,19.063639,47.505247,street-segment,0,0
+d6-652,6,Városligeti fasor,18,Városligeti fasor 18.,19.073607,47.507914,street-segment,0,0
+d6-653,6,Vasváry Pál utca,3,Vasváry Pál utca 3.,19.071376,47.503898,district-bbox,0,0
+d6-654,6,Vasváry Pál utca,5,Vasváry Pál utca 5.,19.069692,47.510437,district-bbox,0,0
+d6-655,6,Vasváry Pál utca,8,Vasváry Pál utca 8.,19.070275,47.504075,district-bbox,0,0
+d6-656,6,Vasváry Pál utca,9,Vasváry Pál utca 9.,19.063529,47.508415,district-bbox,0,0
+d6-657,6,Vörösmarty utca,24/b,Vörösmarty utca 24/b.,19.062368,47.510065,street-segment,0,0
+d6-658,6,Vörösmarty utca,32,Vörösmarty utca 32.,19.066052,47.507073,street-segment,0,0
+d6-659,6,Vörösmarty utca,34/b,Vörösmarty utca 34/b.,19.06614,47.507013,street-segment,0,0
+d6-660,6,Vörösmarty utca,41,Vörösmarty utca 41.,19.125164,47.566065,street-segment,0,0
+d6-661,6,Vörösmarty utca,45,Vörösmarty utca 45.,19.066218,47.507134,street-segment,0,0
+d6-662,6,Vörösmarty utca,46,Vörösmarty utca 46.,19.062256,47.510162,street-segment,0,0
+d6-663,6,Vörösmarty utca,59,Vörösmarty utca 59.,19.064404,47.508501,street-segment,0,0
+d6-664,6,Vörösmarty utca,60,Vörösmarty utca 60.,19.16462,47.532757,street-segment,0,0
+d6-665,6,Vörösmarty utca,69-71,Vörösmarty utca 69-71.,19.070408,47.503822,street-segment,0,0
+d6-666,6,Weiner Leó utca,3,Weiner Leó utca 3.,19.057004,47.507254,street-segment,0,0
+d6-667,6,Weiner Leó utca,5,Weiner Leó utca 5.,19.057085,47.507225,street-segment,0,0
+d6-668,6,Weiner Leó utca,6,Weiner Leó utca 6.,19.057005,47.507197,street-segment,0,0
+d6-669,6,Weiner Leó utca,9,Weiner Leó utca 9.,19.057156,47.507138,street-segment,0,0
+d6-670,6,Weiner Leó utca,10,Weiner Leó utca 10.,19.057018,47.507231,street-segment,0,0
+d6-671,6,Weiner Leó utca,15,Weiner Leó utca 15.,19.057126,47.507242,street-segment,0,0
+d6-672,6,Weiner Leó utca,18,Weiner Leó utca 18.,19.057099,47.507281,street-segment,0,0
+d6-673,6,Zichy Jenő utca,1,Zichy Jenő utca 1.,19.055609,47.503312,street-segment,0,0
+d6-674,6,Zichy Jenő utca,7,Zichy Jenő utca 7.,19.05869,47.505397,street-segment,0,0
+d6-675,6,Zichy Jenő utca,10,Zichy Jenő utca 10.,19.059762,47.506172,street-segment,0,0
+d6-676,6,Zichy Jenő utca,15,Zichy Jenő utca 15.,19.059733,47.506132,street-segment,0,0
+d6-677,6,Zichy Jenő utca,19,Zichy Jenő utca 19.,19.056634,47.504041,street-segment,0,0
+d6-678,6,Zichy Jenő utca,20,Zichy Jenő utca 20.,19.05976,47.506076,street-segment,0,0
+d6-679,6,Zichy Jenő utca,30,Zichy Jenő utca 30.,19.05982,47.506065,street-segment,0,0
+d6-680,6,Zichy Jenő utca,32,Zichy Jenő utca 32.,19.058748,47.505394,street-segment,0,0
+d6-681,6,Zichy Jenő utca,35,Zichy Jenő utca 35.,19.059829,47.506155,street-segment,0,0
+d6-682,6,Zichy Jenő utca,37,Zichy Jenő utca 37.,19.058643,47.505456,street-segment,0,0
+d6-683,6,Zichy Jenő utca,39,Zichy Jenő utca 39.,19.056699,47.504145,street-segment,0,0
+d6-684,6,Zichy Jenő utca,41,Zichy Jenő utca 41.,19.055688,47.503424,street-segment,0,0
+d6-685,6,Zichy Jenő utca,44,Zichy Jenő utca 44.,19.0568,47.504127,street-segment,0,0
+d7-686,7,Akácfa utca,4,Akácfa utca 4.,19.066402,47.499545,street-segment,1,0
+d7-687,7,Akácfa utca,5,Akácfa utca 5.,19.064722,47.500853,street-segment,1,0
+d7-688,7,Akácfa utca,6,Akácfa utca 6.,19.169019,47.5283,street-segment,0,0
+d7-689,7,Akácfa utca,7,Akácfa utca 7.,19.065266,47.500308,street-segment,1,0
+d7-690,7,Akácfa utca,10,Akácfa utca 10.,19.06839,47.497892,street-segment,1,0
+d7-691,7,Akácfa utca,11,Akácfa utca 11.,19.069218,47.497316,street-segment,1,0
+d7-692,7,Akácfa utca,13,Akácfa utca 13.,19.184491,47.453281,street-segment,0,0
+d7-693,7,Akácfa utca,18,Akácfa utca 18.,19.169009,47.52845,street-segment,0,0
+d7-694,7,Akácfa utca,20,Akácfa utca 20.,19.06385,47.501512,street-segment,1,0
+d7-695,7,Akácfa utca,22,Akácfa utca 22.,19.068552,47.497863,street-segment,1,0
+d7-696,7,Akácfa utca,27,Akácfa utca 27.,19.173684,47.523618,street-segment,0,0
+d7-697,7,Akácfa utca,29,Akácfa utca 29.,19.06473,47.500743,street-segment,1,0
+d7-698,7,Akácfa utca,30,Akácfa utca 30.,19.169122,47.528418,street-segment,0,0
+d7-699,7,Akácfa utca,32,Akácfa utca 32.,19.063902,47.501536,street-segment,1,0
+d7-700,7,Akácfa utca,34,Akácfa utca 34.,19.068387,47.497996,street-segment,1,0
+d7-701,7,Akácfa utca,36,Akácfa utca 36.,19.067431,47.498594,street-segment,1,0
+d7-702,7,Akácfa utca,38,Akácfa utca 38.,19.065754,47.499944,street-segment,1,0
+d7-703,7,Akácfa utca,41,Akácfa utca 41.,19.064867,47.500757,street-segment,1,0
+d7-704,7,Akácfa utca,43,Akácfa utca 43.,19.065227,47.500473,street-segment,1,0
+d7-705,7,Akácfa utca,45,Akácfa utca 45.,19.066008,47.499864,street-segment,1,0
+d7-706,7,Akácfa utca,48,Akácfa utca 48.,19.067503,47.498715,street-segment,1,0
+d7-707,7,Akácfa utca,50,Akácfa utca 50.,19.065713,47.500013,street-segment,1,0
+d7-708,7,Akácfa utca,54,Akácfa utca 54.,19.169008,47.528322,street-segment,0,0
+d7-709,7,Akácfa utca,58,Akácfa utca 58.,19.068445,47.497995,street-segment,1,0
+d7-710,7,Akácfa utca,59,Akácfa utca 59.,19.069215,47.497345,street-segment,1,0
+d7-711,7,Akácfa utca,65,Akácfa utca 65.,19.064795,47.500775,street-segment,1,0
+d7-712,7,Almássy tér,3,Almássy tér 3.,19.07151,47.501271,street-segment,0,0
+d7-713,7,Almássy tér,8,Almássy tér 8.,19.071134,47.50157,street-segment,0,0
+d7-714,7,Almássy tér,12,Almássy tér 12.,19.071845,47.501069,street-segment,0,0
+d7-715,7,Almássy tér,15,Almássy tér 15.,19.071486,47.501322,street-segment,0,0
+d7-716,7,Almássy tér,17,Almássy tér 17.,19.072017,47.501882,street-segment,0,0
+d7-717,7,Almássy utca,2,Almássy utca 2.,19.072083,47.500286,street-segment,0,0
+d7-718,7,Almássy utca,6,Almássy utca 6.,19.072165,47.500323,street-segment,0,0
+d7-719,7,Alpár utca,6,Alpár utca 6.,19.175658,47.463039,street-segment,0,0
+d7-720,7,Alsó erdősor,1/b,Alsó erdősor 1/b.,19.074688,47.500559,street-segment,0,0
+d7-721,7,Alsó erdősor,12,Alsó erdősor 12.,19.074725,47.500503,street-segment,0,0
+d7-722,7,Alsó erdősor,22,Alsó erdősor 22.,19.074706,47.50052,street-segment,0,0
+d7-723,7,Asbóth utca,15,Asbóth utca 15.,19.0569,47.497611,street-segment,1,0
+d7-724,7,Asbóth utca,17,Asbóth utca 17.,19.05696,47.497515,street-segment,1,0
+d7-725,7,Asbóth utca,19,Asbóth utca 19.,19.057017,47.497628,street-segment,1,0
+d7-726,7,Asbóth utca,22,Asbóth utca 22.,19.05695,47.497651,street-segment,1,0
+d7-727,7,Barát utca,4,Barát utca 4.,19.073325,47.49932,street-segment,0,0
+d7-728,7,Barcsay utca,3,Barcsay utca 3.,19.0706,47.500434,street-segment,0,0
+d7-729,7,Barcsay utca,11,Barcsay utca 11.,19.071173,47.500726,street-segment,0,0
+d7-730,7,Baross tér,12,Baross tér 12.,19.084068,47.501416,street-segment,0,0
+d7-731,7,Bethlen Gábor tér,2,Bethlen Gábor tér 2.,19.079162,47.50352,street-segment,0,0
+d7-732,7,Bethlen Gábor utca,5,Bethlen Gábor utca 5.,19.077754,47.505205,street-segment,0,0
+d7-733,7,Bethlen Gábor utca,45,Bethlen Gábor utca 45.,19.07778,47.505153,street-segment,0,0
+d7-734,7,Csányi utca,5,Csányi utca 5.,19.063221,47.501021,street-segment,1,0
+d7-735,7,Csányi utca,6,Csányi utca 6.,19.062602,47.501699,street-segment,1,0
+d7-736,7,Csányi utca,12,Csányi utca 12.,19.062713,47.501594,street-segment,0,0
+d7-737,7,Csengery utca,3,Csengery utca 3.,19.062952,47.508323,street-segment,0,0
+d7-738,7,Csengery utca,6,Csengery utca 6.,19.065751,47.506191,street-segment,0,0
+d7-739,7,Csengery utca,8,Csengery utca 8.,19.069339,47.503253,street-segment,0,0
+d7-740,7,Csengery utca,9,Csengery utca 9.,19.065298,47.50654,street-segment,0,0
+d7-741,7,Csengery utca,20,Csengery utca 20.,19.065262,47.50666,street-segment,0,0
+d7-742,7,Csengery utca,23,Csengery utca 23.,19.067311,47.504792,street-segment,0,0
+d7-743,7,Csengery utca,24,Csengery utca 24.,19.06929,47.503115,street-segment,0,0
+d7-744,7,Csengery utca,26,Csengery utca 26.,19.06463,47.506953,street-segment,0,0
+d7-745,7,Csengery utca,30,Csengery utca 30.,19.065757,47.506095,street-segment,0,0
+d7-746,7,Cserhát utca,19,Cserhát utca 19.,19.085019,47.505435,street-segment,0,0
+d7-747,7,Damjanich utca,18,Damjanich utca 18.,19.082346,47.509422,street-segment,0,0
+d7-748,7,Damjanich utca,25/b,Damjanich utca 25/b.,19.080956,47.508825,street-segment,0,0
+d7-749,7,Damjanich utca,26/a,Damjanich utca 26/a.,19.075344,47.506376,street-segment,0,0
+d7-750,7,Damjanich utca,26/b,Damjanich utca 26/b.,19.075373,47.506324,street-segment,0,0
+d7-751,7,Damjanich utca,33,Damjanich utca 33.,19.175475,47.53409,street-segment,0,0
+d7-752,7,Damjanich utca,49,Damjanich utca 49.,19.175559,47.534027,street-segment,0,0
+d7-753,7,Damjanich utca,54,Damjanich utca 54.,19.074352,47.505782,street-segment,0,0
+d7-754,7,Damjanich utca,58,Damjanich utca 58.,19.075403,47.506391,street-segment,0,0
+d7-755,7,Dembinszky utca,4,Dembinszky utca 4.,19.07736,47.505114,street-segment,0,0
+d7-756,7,Dembinszky utca,18,Dembinszky utca 18.,19.075542,47.504167,street-segment,0,0
+d7-757,7,Dembinszky utca,20,Dembinszky utca 20.,19.081563,47.50699,street-segment,0,0
+d7-758,7,Dembinszky utca,28,Dembinszky utca 28.,19.077452,47.505064,street-segment,0,0
+d7-759,7,Dembinszky utca,29,Dembinszky utca 29.,19.081608,47.507081,street-segment,0,0
+d7-760,7,Dembinszky utca,33,Dembinszky utca 33.,19.075529,47.504245,street-segment,0,0
+d7-761,7,Dembinszky utca,34,Dembinszky utca 34.,19.077357,47.505039,street-segment,0,0
+d7-762,7,Dembinszky utca,36,Dembinszky utca 36.,19.075667,47.504271,street-segment,0,0
+d7-763,7,Dembinszky utca,48,Dembinszky utca 48.,19.075552,47.504184,street-segment,0,0
+d7-764,7,Dob utca,2,Dob utca 2.,19.060313,47.497353,street-segment,1,0
+d7-765,7,Dob utca,4,Dob utca 4.,19.058967,47.496256,street-segment,1,0
+d7-766,7,Dob utca,9,Dob utca 9.,19.069572,47.502937,street-segment,0,0
+d7-767,7,Dob utca,11,Dob utca 11.,19.067236,47.501842,street-segment,1,0
+d7-768,7,Dob utca,13,Dob utca 13.,19.063965,47.500708,street-segment,1,0
+d7-769,7,Dob utca,15,Dob utca 15.,19.059543,47.496743,street-segment,1,0
+d7-770,7,Dob utca,18,Dob utca 18.,19.074028,47.50525,street-segment,0,0
+d7-771,7,Dob utca,20,Dob utca 20.,19.067044,47.501675,street-segment,1,0
+d7-772,7,Dob utca,23,Dob utca 23.,19.067949,47.502226,street-segment,1,0
+d7-773,7,Dob utca,24,Dob utca 24.,19.071464,47.503813,street-segment,0,0
+d7-774,7,Dob utca,27,Dob utca 27.,19.061379,47.498349,street-segment,1,0
+d7-775,7,Dob utca,31,Dob utca 31.,19.061007,47.497942,street-segment,1,0
+d7-776,7,Dob utca,32,Dob utca 32.,19.059546,47.496743,street-segment,1,0
+d7-777,7,Dob utca,34,Dob utca 34.,19.062311,47.499216,street-segment,1,0
+d7-778,7,Dob utca,38,Dob utca 38.,19.058987,47.496201,street-segment,1,0
+d7-779,7,Dob utca,41,Dob utca 41.,19.071342,47.503803,street-segment,0,0
+d7-780,7,Dob utca,46/b,Dob utca 46/b.,19.072925,47.504756,street-segment,0,0
+d7-781,7,Dob utca,52,Dob utca 52.,19.074081,47.5052,street-segment,0,0
+d7-782,7,Dob utca,53,Dob utca 53.,19.060353,47.497349,street-segment,1,0
+d7-783,7,Dob utca,55,Dob utca 55.,19.059074,47.496303,street-segment,1,0
+d7-784,7,Dob utca,60,Dob utca 60.,19.069511,47.503038,street-segment,0,0
+d7-785,7,Dob utca,61,Dob utca 61.,19.061401,47.498339,street-segment,1,0
+d7-786,7,Dob utca,65,Dob utca 65.,19.060992,47.497987,street-segment,1,0
+d7-787,7,Dob utca,70,Dob utca 70.,19.060295,47.497397,street-segment,1,0
+d7-788,7,Dob utca,71,Dob utca 71.,19.066998,47.501798,street-segment,1,0
+d7-789,7,Dob utca,73,Dob utca 73.,19.065101,47.500945,street-segment,1,0
+d7-790,7,Dob utca,89,Dob utca 89.,19.059023,47.496254,street-segment,1,0
+d7-791,7,Dob utca,90,Dob utca 90.,19.065101,47.501085,street-segment,1,0
+d7-792,7,Dob utca,94-96,Dob utca 94-96.,19.069533,47.502932,street-segment,0,0
+d7-793,7,Dob utca,103,Dob utca 103.,19.074093,47.505326,street-segment,0,0
+d7-794,7,Dob utca,106,Dob utca 106.,19.05903,47.496186,street-segment,1,0
+d7-795,7,Dob utca,107,Dob utca 107.,19.065045,47.500985,street-segment,1,0
+d7-796,7,Dob utca,108,Dob utca 108.,19.06797,47.502224,street-segment,1,0
+d7-797,7,Dohány utca,1/b,Dohány utca 1/b.,19.068772,47.497856,street-segment,0,0
+d7-798,7,Dohány utca,1/c,Dohány utca 1/c.,19.068752,47.497909,street-segment,0,0
+d7-799,7,Dohány utca,5,Dohány utca 5.,19.061146,47.495536,street-segment,0,0
+d7-800,7,Dohány utca,10,Dohány utca 10.,19.059981,47.495614,street-segment,0,0
+d7-801,7,Dohány utca,12,Dohány utca 12.,19.068143,47.49749,street-segment,0,0
+d7-802,7,Dohány utca,14,Dohány utca 14.,19.067139,47.496824,street-segment,0,0
+d7-803,7,Dohány utca,16-18,Dohány utca 16-18.,19.059209,47.495746,street-segment,0,0
+d7-804,7,Dohány utca,22-24,Dohány utca 22-24.,19.060218,47.495581,street-segment,0,0
+d7-805,7,Dohány utca,28,Dohány utca 28.,19.059915,47.495676,street-segment,0,0
+d7-806,7,Dohány utca,30/a,Dohány utca 30/a.,19.061129,47.495499,street-segment,0,0
+d7-807,7,Dohány utca,36,Dohány utca 36.,19.069894,47.498596,street-segment,0,0
+d7-808,7,Dohány utca,37,Dohány utca 37.,19.068261,47.497438,street-segment,0,0
+d7-809,7,Dohány utca,39,Dohány utca 39.,19.067177,47.496882,street-segment,0,0
+d7-810,7,Dohány utca,46,Dohány utca 46.,19.059965,47.495685,street-segment,0,0
+d7-811,7,Dohány utca,47,Dohány utca 47.,19.060295,47.495611,street-segment,0,0
+d7-812,7,Dohány utca,48,Dohány utca 48.,19.076104,47.502166,street-segment,0,0
+d7-813,7,Dohány utca,50,Dohány utca 50.,19.069171,47.498006,street-segment,0,0
+d7-814,7,Dohány utca,55,Dohány utca 55.,19.061029,47.495409,street-segment,0,0
+d7-815,7,Dohány utca,56,Dohány utca 56.,19.059475,47.495663,street-segment,0,0
+d7-816,7,Dohány utca,57,Dohány utca 57.,19.064311,47.495918,street-segment,1,0
+d7-817,7,Dohány utca,58-62,Dohány utca 58-62.,19.069565,47.498363,street-segment,0,0
+d7-818,7,Dohány utca,59,Dohány utca 59.,19.060476,47.495503,street-segment,0,0
+d7-819,7,Dohány utca,61,Dohány utca 61.,19.069955,47.498622,street-segment,0,0
+d7-820,7,Dohány utca,67,Dohány utca 67.,19.059306,47.495635,street-segment,0,0
+d7-821,7,Dohány utca,68,Dohány utca 68.,19.066412,47.496521,street-segment,1,0
+d7-822,7,Dohány utca,69,Dohány utca 69.,19.061739,47.495381,street-segment,0,0
+d7-823,7,Dohány utca,71,Dohány utca 71.,19.059965,47.495665,street-segment,0,0
+d7-824,7,Dohány utca,74,Dohány utca 74.,19.076587,47.502481,street-segment,0,0
+d7-825,7,Dohány utca,77,Dohány utca 77.,19.059683,47.495712,street-segment,0,0
+d7-826,7,Dohány utca,78,Dohány utca 78.,19.059962,47.495668,street-segment,0,0
+d7-827,7,Dohány utca,81,Dohány utca 81.,19.059488,47.495691,street-segment,0,0
+d7-828,7,Dohány utca,82,Dohány utca 82.,19.064447,47.495846,street-segment,1,0
+d7-829,7,Dohány utca,84,Dohány utca 84.,19.060541,47.495577,street-segment,0,0
+d7-830,7,Dohány utca,88,Dohány utca 88.,19.072596,47.500176,street-segment,0,0
+d7-831,7,Dohány utca,90,Dohány utca 90.,19.062356,47.495515,street-segment,0,0
+d7-832,7,Dohány utca,92,Dohány utca 92.,19.059293,47.495778,street-segment,0,0
+d7-833,7,Dohány utca,94,Dohány utca 94.,19.061771,47.49552,street-segment,0,0
+d7-834,7,Erzsébet körút,14,Erzsébet körút 14.,19.068616,47.500397,street-segment,0,0
+d7-835,7,Erzsébet körút,15,Erzsébet körút 15.,19.070384,47.4979,street-segment,0,0
+d7-836,7,Erzsébet körút,17,Erzsébet körút 17.,19.069053,47.499985,street-segment,0,0
+d7-837,7,Erzsébet körút,22,Erzsébet körút 22.,19.070083,47.498249,street-segment,0,0
+d7-838,7,Erzsébet körút,23,Erzsébet körút 23.,19.070431,47.497667,street-segment,0,0
+d7-839,7,Erzsébet körút,24,Erzsébet körút 24.,19.06842,47.500868,street-segment,0,0
+d7-840,7,Erzsébet körút,25-27,Erzsébet körút 25-27.,19.06677,47.502461,street-segment,0,0
+d7-841,7,Erzsébet körút,26,Erzsébet körút 26.,19.070311,47.497523,street-segment,0,0
+d7-842,7,Erzsébet körút,32,Erzsébet körút 32.,19.068051,47.501339,street-segment,0,0
+d7-843,7,Erzsébet körút,34,Erzsébet körút 34.,19.069517,47.499564,street-segment,0,0
+d7-844,7,Erzsébet körút,35,Erzsébet körút 35.,19.06897,47.500413,street-segment,0,0
+d7-845,7,Erzsébet körút,36,Erzsébet körút 36.,19.070259,47.498421,street-segment,0,0
+d7-846,7,Erzsébet körút,38,Erzsébet körút 38.,19.070468,47.497108,street-segment,0,0
+d7-847,7,Erzsébet körút,41,Erzsébet körút 41.,19.070455,47.497348,street-segment,0,0
+d7-848,7,Erzsébet körút,50,Erzsébet körút 50.,19.066689,47.502481,street-segment,0,0
+d7-849,7,Erzsébet körút,51,Erzsébet körút 51.,19.070354,47.497647,street-segment,0,0
+d7-850,7,Erzsébet körút,52,Erzsébet körút 52.,19.067505,47.501667,street-segment,0,0
+d7-851,7,Erzsébet körút,53,Erzsébet körút 53.,19.06917,47.500079,street-segment,0,0
+d7-852,7,Erzsébet körút,54,Erzsébet körút 54.,19.070014,47.498508,street-segment,0,0
+d7-853,7,Erzsébet körút,56,Erzsébet körút 56.,19.065926,47.503183,street-segment,0,0
+d7-854,7,Garay tér,4,Garay tér 4.,19.085988,47.504315,street-segment,0,0
+d7-855,7,Garay tér,11,Garay tér 11.,19.085958,47.503646,street-segment,0,0
+d7-856,7,Garay tér,19,Garay tér 19.,19.085878,47.503724,street-segment,0,0
+d7-857,7,Garay utca,4,Garay utca 4.,19.084517,47.580255,street-segment,0,0
+d7-858,7,Garay utca,20,Garay utca 20.,19.084467,47.580295,street-segment,0,0
+d7-859,7,Garay utca,36,Garay utca 36.,19.084454,47.580287,street-segment,0,0
+d7-860,7,Garay utca,37,Garay utca 37.,19.084578,47.580163,street-segment,0,0
+d7-861,7,Garay utca,38,Garay utca 38.,19.084453,47.580172,street-segment,0,0
+d7-862,7,Garay utca,44,Garay utca 44.,19.084478,47.580292,street-segment,0,0
+d7-863,7,Garay utca,45,Garay utca 45.,19.084585,47.580164,street-segment,0,0
+d7-864,7,Hársfa utca,5,Hársfa utca 5.,19.07085,47.500536,street-segment,0,0
+d7-865,7,Hársfa utca,24,Hársfa utca 24.,19.067448,47.503189,street-segment,0,0
+d7-866,7,Hársfa utca,26,Hársfa utca 26.,19.069172,47.501829,street-segment,0,0
+d7-867,7,Hársfa utca,28,Hársfa utca 28.,19.174558,47.524897,street-segment,0,0
+d7-868,7,Hársfa utca,37,Hársfa utca 37.,19.072769,47.498916,street-segment,0,0
+d7-869,7,Hársfa utca,40,Hársfa utca 40.,19.070827,47.500378,street-segment,0,0
+d7-870,7,Hársfa utca,57,Hársfa utca 57.,19.072835,47.498828,street-segment,0,0
+d7-871,7,Hernád utca,5,Hernád utca 5.,19.080868,47.506544,street-segment,0,0
+d7-872,7,Hernád utca,7,Hernád utca 7.,19.083345,47.504019,street-segment,0,0
+d7-873,7,Hernád utca,22,Hernád utca 22.,19.083397,47.503985,street-segment,0,0
+d7-874,7,Hernád utca,23,Hernád utca 23.,19.080721,47.506584,street-segment,0,0
+d7-875,7,Hernád utca,40,Hernád utca 40.,19.08342,47.503971,street-segment,0,0
+d7-876,7,Hernád utca,43,Hernád utca 43.,19.083412,47.503967,street-segment,0,0
+d7-877,7,Hernád utca,45,Hernád utca 45.,19.084775,47.502588,street-segment,0,0
+d7-878,7,Hernád utca,50,Hernád utca 50.,19.080843,47.50666,street-segment,0,0
+d7-879,7,Hevesi Sándor tér,1,Hevesi Sándor tér 1.,19.072425,47.503753,street-segment,0,0
+d7-880,7,Holló utca,1,Holló utca 1.,19.060084,47.498818,street-segment,1,0
+d7-881,7,Holló utca,3,Holló utca 3.,19.060054,47.498869,street-segment,1,0
+d7-882,7,Holló utca,4,Holló utca 4.,19.060015,47.498873,street-segment,1,0
+d7-883,7,Holló utca,9,Holló utca 9.,19.060043,47.498885,street-segment,1,0
+d7-884,7,Holló utca,10,Holló utca 10.,19.059974,47.498849,street-segment,1,0
+d7-885,7,Holló utca,12,Holló utca 12.,19.059995,47.498811,street-segment,1,0
+d7-886,7,Holló utca,15,Holló utca 15.,19.05996,47.498794,street-segment,1,0
+d7-887,7,Huszár utca,8,Huszár utca 8.,19.077241,47.499483,street-segment,0,0
+d7-888,7,Hutyra Ferenc utca,6-8,Hutyra Ferenc utca 6-8.,19.075718,47.503181,street-segment,0,0
+d7-889,7,István út,7,István út 7.,19.079399,47.50384,street-segment,0,0
+d7-890,7,István út,9,István út 9.,19.089241,47.559415,street-segment,0,0
+d7-891,7,István út,17,István út 17.,19.090252,47.561563,street-segment,0,0
+d7-892,7,István út,20,István út 20.,19.090049,47.560926,street-segment,0,0
+d7-893,7,István út,33,István út 33.,19.090638,47.563438,street-segment,0,0
+d7-894,7,István út,35,István út 35.,19.089568,47.56026,street-segment,0,0
+d7-895,7,István út,38,István út 38.,19.083716,47.505809,street-segment,0,0
+d7-896,7,István út,40,István út 40.,19.090829,47.563686,street-segment,0,0
+d7-897,7,István út,41-43,István út 41-43.,19.089438,47.559783,street-segment,0,0
+d7-898,7,István út,42,István út 42.,19.085445,47.506519,street-segment,0,0
+d7-899,7,István út,47,István út 47.,19.080035,47.504067,street-segment,0,0
+d7-900,7,Izabella utca,7,Izabella utca 7.,19.070892,47.504952,street-segment,0,0
+d7-901,7,Izabella utca,11,Izabella utca 11.,19.067468,47.507528,street-segment,0,0
+d7-902,7,Izabella utca,29,Izabella utca 29.,19.063338,47.510588,street-segment,0,0
+d7-903,7,Izabella utca,34,Izabella utca 34.,19.067052,47.507795,street-segment,0,0
+d7-904,7,Jósika utca,2,Jósika utca 2.,19.072052,47.505749,street-segment,0,0
+d7-905,7,Jósika utca,4,Jósika utca 4.,19.071895,47.505699,street-segment,0,0
+d7-906,7,Jósika utca,10,Jósika utca 10.,19.072009,47.505766,street-segment,0,0
+d7-907,7,Jósika utca,24,Jósika utca 24.,19.07192,47.505754,street-segment,0,0
+d7-908,7,Jósika utca,29,Jósika utca 29.,19.071936,47.505699,street-segment,0,0
+d7-909,7,Károly körút,3/a,Károly körút 3/a.,19.058903,47.495543,street-segment,0,0
+d7-910,7,Károly körút,3/c,Károly körút 3/c.,19.058892,47.495424,street-segment,0,0
+d7-911,7,Károly körút,5,Károly körút 5.,19.055149,47.497194,street-segment,0,0
+d7-912,7,Károly körút,21,Károly körút 21.,19.057328,47.496563,street-segment,0,0
+d7-913,7,Károly körút,23,Károly körút 23.,19.055979,47.497271,street-segment,0,0
+d7-914,7,Kazinczy utca,3/b,Kazinczy utca 3/b.,19.13787,47.459487,street-segment,0,0
+d7-915,7,Kazinczy utca,5,Kazinczy utca 5.,19.126617,47.564182,street-segment,0,0
+d7-916,7,Kazinczy utca,6/a,Kazinczy utca 6/a.,19.124738,47.56511,street-segment,0,0
+d7-917,7,Kazinczy utca,7,Kazinczy utca 7.,19.062385,47.498103,street-segment,1,0
+d7-918,7,Kazinczy utca,10,Kazinczy utca 10.,19.137225,47.458189,street-segment,0,0
+d7-919,7,Kazinczy utca,11,Kazinczy utca 11.,19.060909,47.499426,street-segment,1,0
+d7-920,7,Kazinczy utca,12,Kazinczy utca 12.,19.064393,47.495656,street-segment,1,0
+d7-921,7,Kazinczy utca,14,Kazinczy utca 14.,19.063684,47.496758,street-segment,1,0
+d7-922,7,Kazinczy utca,16,Kazinczy utca 16.,19.136072,47.457554,street-segment,0,0
+d7-923,7,Kazinczy utca,28,Kazinczy utca 28.,19.136123,47.45761,street-segment,0,0
+d7-924,7,Kazinczy utca,30,Kazinczy utca 30.,19.12473,47.565196,street-segment,0,0
+d7-925,7,Kazinczy utca,34,Kazinczy utca 34.,19.137183,47.458225,street-segment,0,0
+d7-926,7,Kazinczy utca,35,Kazinczy utca 35.,19.060968,47.499352,street-segment,1,0
+d7-927,7,Kazinczy utca,37,Kazinczy utca 37.,19.135878,47.45741,street-segment,0,0
+d7-928,7,Kazinczy utca,41,Kazinczy utca 41.,19.126583,47.564245,street-segment,0,0
+d7-929,7,Kazinczy utca,42,Kazinczy utca 42.,19.124792,47.565224,street-segment,0,0
+d7-930,7,Kazinczy utca,44,Kazinczy utca 44.,19.138676,47.459388,street-segment,0,0
+d7-931,7,Kazinczy utca,48,Kazinczy utca 48.,19.064366,47.495741,street-segment,1,0
+d7-932,7,Kazinczy utca,51,Kazinczy utca 51.,19.137948,47.459533,street-segment,0,0
+d7-933,7,Kazinczy utca,53,Kazinczy utca 53.,19.126646,47.564239,street-segment,0,0
+d7-934,7,Kazinczy utca,55,Kazinczy utca 55.,19.062469,47.498076,street-segment,1,0
+d7-935,7,Kertész utca,20,Kertész utca 20.,19.06679,47.50053,street-segment,1,0
+d7-936,7,Kertész utca,27,Kertész utca 27.,19.065347,47.50212,street-segment,0,0
+d7-937,7,Kertész utca,32,Kertész utca 32.,19.066881,47.500559,street-segment,1,0
+d7-938,7,Kertész utca,33,Kertész utca 33.,19.068702,47.499093,street-segment,0,0
+d7-939,7,Kertész utca,35,Kertész utca 35.,19.065263,47.502099,street-segment,0,0
+d7-940,7,Kertész utca,38-40,Kertész utca 38-40.,18.979761,47.460953,street-segment,0,0
+d7-941,7,Kertész utca,39,Kertész utca 39.,19.065209,47.502141,street-segment,0,0
+d7-942,7,Kertész utca,41,Kertész utca 41.,19.068651,47.499137,street-segment,0,0
+d7-943,7,Kertész utca,42-44,Kertész utca 42-44.,18.979845,47.461094,street-segment,0,0
+d7-944,7,Kertész utca,43,Kertész utca 43.,19.065232,47.502063,street-segment,0,0
+d7-945,7,Kertész utca,46,Kertész utca 46.,18.979805,47.461109,street-segment,0,0
+d7-946,7,Kertész utca,50,Kertész utca 50.,18.979778,47.46096,street-segment,0,0
+d7-947,7,Király utca,1/b,Király utca 1/b.,19.063915,47.502664,street-segment,0,0
+d7-948,7,Király utca,7,Király utca 7.,19.065206,47.503016,street-segment,0,0
+d7-949,7,Király utca,13,Király utca 13.,19.068767,47.505145,street-segment,0,0
+d7-950,7,Király utca,15,Király utca 15.,19.065713,47.50337,street-segment,0,0
+d7-951,7,Király utca,17,Király utca 17.,19.060136,47.500255,street-segment,0,0
+d7-952,7,Király utca,19,Király utca 19.,19.056127,47.498004,street-segment,0,0
+d7-953,7,Király utca,21,Király utca 21.,19.092392,47.562407,street-segment,0,0
+d7-954,7,Király utca,27,Király utca 27.,19.056917,47.49857,street-segment,1,0
+d7-955,7,Király utca,29,Király utca 29.,19.06487,47.502959,street-segment,0,0
+d7-956,7,Király utca,31,Király utca 31.,19.065109,47.503009,street-segment,0,0
+d7-957,7,Király utca,33,Király utca 33.,19.097865,47.561626,street-segment,0,0
+d7-958,7,Király utca,35-37,Király utca 35-37.,19.094946,47.562026,street-segment,0,0
+d7-959,7,Király utca,41,Király utca 41.,19.060276,47.500175,street-segment,0,0
+d7-960,7,Király utca,43-45,Király utca 43-45.,19.056095,47.498052,street-segment,0,0
+d7-961,7,Király utca,47,Király utca 47.,19.062951,47.502078,street-segment,0,0
+d7-962,7,Király utca,49,Király utca 49.,19.064038,47.502614,street-segment,0,0
+d7-963,7,Király utca,51,Király utca 51.,19.057033,47.498545,street-segment,1,0
+d7-964,7,Király utca,53,Király utca 53.,19.064761,47.502972,street-segment,0,0
+d7-965,7,Király utca,67,Király utca 67.,19.056125,47.498015,street-segment,0,0
+d7-966,7,Király utca,69,Király utca 69.,19.092412,47.562472,street-segment,0,0
+d7-967,7,Király utca,75,Király utca 75.,19.056905,47.498519,street-segment,1,0
+d7-968,7,Király utca,77,Király utca 77.,19.06475,47.502993,street-segment,0,0
+d7-969,7,Király utca,81,Király utca 81.,19.09794,47.561544,street-segment,0,0
+d7-970,7,Király utca,85,Király utca 85.,19.068798,47.505288,street-segment,0,0
+d7-971,7,Király utca,87,Király utca 87.,19.065759,47.503401,street-segment,0,0
+d7-972,7,Király utca,89,Király utca 89.,19.060136,47.500234,street-segment,0,0
+d7-973,7,Király utca,91,Király utca 91.,19.056108,47.498087,street-segment,0,0
+d7-974,7,Király utca,93,Király utca 93.,19.092388,47.56247,street-segment,0,0
+d7-975,7,Király utca,95,Király utca 95.,19.062921,47.502142,street-segment,0,0
+d7-976,7,Király utca,97,Király utca 97.,19.064034,47.502562,street-segment,0,0
+d7-977,7,Király utca,99,Király utca 99.,19.056975,47.498446,street-segment,1,0
+d7-978,7,Király utca,103,Király utca 103.,19.065233,47.50315,street-segment,0,0
+d7-979,7,Kisdiófa utca,2,Kisdiófa utca 2.,19.064219,47.502658,district-bbox,0,0
+d7-980,7,Kisdiófa utca,4,Kisdiófa utca 4.,19.070939,47.498441,district-bbox,0,0
+d7-981,7,Kisdiófa utca,5,Kisdiófa utca 5.,19.062608,47.497595,district-bbox,1,0
+d7-982,7,Kisdiófa utca,9,Kisdiófa utca 9.,19.063317,47.498302,district-bbox,1,0
+d7-983,7,Kisdiófa utca,11,Kisdiófa utca 11.,19.069975,47.497853,district-bbox,0,0
+d7-984,7,Kisdiófa utca,12,Kisdiófa utca 12.,19.070385,47.497268,district-bbox,0,0
+d7-985,7,Kisdiófa utca,13,Kisdiófa utca 13.,19.062661,47.501117,district-bbox,1,0
+d7-986,7,Klauzál tér,1,Klauzál tér 1.,19.063626,47.499457,street-segment,1,0
+d7-987,7,Klauzál tér,3,Klauzál tér 3.,19.064578,47.499457,street-segment,1,0
+d7-988,7,Klauzál tér,4,Klauzál tér 4.,19.064219,47.499348,street-segment,1,0
+d7-989,7,Klauzál tér,5,Klauzál tér 5.,19.063343,47.500138,street-segment,1,0
+d7-990,7,Klauzál tér,6,Klauzál tér 6.,19.064136,47.499968,street-segment,1,0
+d7-991,7,Klauzál tér,9,Klauzál tér 9.,19.064532,47.499389,street-segment,1,0
+d7-992,7,Klauzál tér,15,Klauzál tér 15.,19.064429,47.49936,street-segment,1,0
+d7-993,7,Klauzál tér,16,Klauzál tér 16.,19.06417,47.49923,street-segment,1,0
+d7-994,7,Klauzál utca,9,Klauzál utca 9.,19.065404,47.498993,street-segment,1,0
+d7-995,7,Klauzál utca,13,Klauzál utca 13.,19.068281,47.496739,street-segment,1,0
+d7-996,7,Klauzál utca,15,Klauzál utca 15.,19.09115,47.564952,street-segment,0,0
+d7-997,7,Klauzál utca,16,Klauzál utca 16.,19.066364,47.498148,street-segment,1,0
+d7-998,7,Klauzál utca,23,Klauzál utca 23.,19.065583,47.49869,street-segment,1,0
+d7-999,7,Klauzál utca,26-28,Klauzál utca 26-28.,19.064926,47.499378,street-segment,1,0
+d7-1000,7,Klauzál utca,30,Klauzál utca 30.,19.113155,47.452091,street-segment,0,0
+d7-1001,7,Klauzál utca,31,Klauzál utca 31.,19.067996,47.497029,street-segment,1,0
+d7-1002,7,Klauzál utca,34,Klauzál utca 34.,19.093004,47.566531,street-segment,0,0
+d7-1003,7,Klauzál utca,35,Klauzál utca 35.,19.065729,47.498842,street-segment,1,0
+d7-1004,7,Lövölde tér,2/a,Lövölde tér 2/a.,19.072517,47.507136,street-segment,0,0
+d7-1005,7,Madách Imre tér,7,Madách Imre tér 7.,19.056853,47.497239,street-segment,0,0
+d7-1006,7,Marek József utca,16,Marek József utca 16.,19.084831,47.5072,street-segment,0,0
+d7-1007,7,Marek József utca,22,Marek József utca 22.,19.084785,47.507251,street-segment,0,0
+d7-1008,7,Marek József utca,23,Marek József utca 23.,19.081565,47.505762,street-segment,0,0
+d7-1009,7,Munkás utca,11,Munkás utca 11.,19.076271,47.49986,street-segment,0,0
+d7-1010,7,Munkás utca,13,Munkás utca 13.,19.078322,47.500305,street-segment,0,0
+d7-1011,7,Murányi utca,4,Murányi utca 4.,19.131649,47.454471,street-segment,0,0
+d7-1012,7,Murányi utca,11,Murányi utca 11.,19.133099,47.453507,street-segment,0,0
+d7-1013,7,Murányi utca,20,Murányi utca 20.,19.133053,47.453386,street-segment,0,0
+d7-1014,7,Murányi utca,25,Murányi utca 25.,19.133755,47.452951,street-segment,0,0
+d7-1015,7,Murányi utca,31,Murányi utca 31.,19.13157,47.454508,street-segment,0,0
+d7-1016,7,Murányi utca,36,Murányi utca 36.,19.085652,47.502969,street-segment,0,0
+d7-1017,7,Nagy Diófa utca,5,Nagy Diófa utca 5.,19.066226,47.496174,street-segment,1,0
+d7-1018,7,Nagy Diófa utca,6,Nagy Diófa utca 6.,19.064319,47.498268,street-segment,1,0
+d7-1019,7,Nagy Diófa utca,7,Nagy Diófa utca 7.,19.065317,47.497216,street-segment,1,0
+d7-1020,7,Nagy Diófa utca,9,Nagy Diófa utca 9.,19.066089,47.496117,street-segment,1,0
+d7-1021,7,Nagy Diófa utca,13,Nagy Diófa utca 13.,19.066159,47.49621,street-segment,1,0
+d7-1022,7,Nagy Diófa utca,15,Nagy Diófa utca 15.,19.065184,47.497254,street-segment,1,0
+d7-1023,7,Nagy Diófa utca,17,Nagy Diófa utca 17.,19.0661,47.49623,street-segment,1,0
+d7-1024,7,Nagy Diófa utca,27,Nagy Diófa utca 27.,19.065294,47.497226,street-segment,1,0
+d7-1025,7,Nagy Diófa utca,34,Nagy Diófa utca 34.,19.064258,47.498209,street-segment,1,0
+d7-1026,7,Nefelejcs utca,12,Nefelejcs utca 12.,19.152689,47.520542,street-segment,0,0
+d7-1027,7,Nefelejcs utca,15,Nefelejcs utca 15.,19.181471,47.449714,street-segment,0,0
+d7-1028,7,Nefelejcs utca,38,Nefelejcs utca 38.,19.079055,47.505911,street-segment,0,0
+d7-1029,7,Nefelejcs utca,40,Nefelejcs utca 40.,19.170718,47.453658,street-segment,0,0
+d7-1030,7,Nefelejcs utca,42,Nefelejcs utca 42.,19.055168,47.579832,street-segment,0,0
+d7-1031,7,Nefelejcs utca,46,Nefelejcs utca 46.,19.083078,47.501865,street-segment,0,0
+d7-1032,7,Nefelejcs utca,47,Nefelejcs utca 47.,19.150142,47.519436,street-segment,0,0
+d7-1033,7,Nefelejcs utca,50,Nefelejcs utca 50.,19.175563,47.451573,street-segment,0,0
+d7-1034,7,Nefelejcs utca,58,Nefelejcs utca 58.,19.150233,47.519453,street-segment,0,0
+d7-1035,7,Nyár utca,7,Nyár utca 7.,19.10342,47.559418,street-segment,0,0
+d7-1036,7,Nyár utca,8,Nyár utca 8.,19.103881,47.5586,street-segment,0,0
+d7-1037,7,Nyár utca,14,Nyár utca 14.,19.066947,47.496445,street-segment,1,0
+d7-1038,7,Nyár utca,16,Nyár utca 16.,19.09981,47.556826,street-segment,0,0
+d7-1039,7,Nyár utca,19,Nyár utca 19.,19.098812,47.55811,street-segment,0,0
+d7-1040,7,Nyár utca,34,Nyár utca 34.,19.103419,47.559531,street-segment,0,0
+d7-1041,7,Nyár utca,36,Nyár utca 36.,19.065166,47.498219,street-segment,1,0
+d7-1042,7,Osvát utca,5,Osvát utca 5.,19.070956,47.498936,street-segment,0,0
+d7-1043,7,Osvát utca,17,Osvát utca 17.,19.070963,47.498927,street-segment,0,0
+d7-1044,7,Peterdy utca,5,Peterdy utca 5.,19.110121,47.449577,street-segment,0,0
+d7-1045,7,Peterdy utca,18,Peterdy utca 18.,19.082241,47.508322,street-segment,0,0
+d7-1046,7,Peterdy utca,23,Peterdy utca 23.,19.082208,47.508263,street-segment,0,0
+d7-1047,7,Peterdy utca,38,Peterdy utca 38.,19.08216,47.508243,street-segment,0,0
+d7-1048,7,Péterfy Sándor utca,7,Péterfy Sándor utca 7.,19.081111,47.502706,street-segment,0,0
+d7-1049,7,Péterfy Sándor utca,17,Péterfy Sándor utca 17.,19.081142,47.502734,street-segment,0,0
+d7-1050,7,Péterfy Sándor utca,19,Péterfy Sándor utca 19.,19.077543,47.501,street-segment,0,0
+d7-1051,7,Péterfy Sándor utca,22,Péterfy Sándor utca 22.,19.08126,47.502643,street-segment,0,0
+d7-1052,7,Péterfy Sándor utca,40,Péterfy Sándor utca 40.,19.083177,47.503683,street-segment,0,0
+d7-1053,7,Péterfy Sándor utca,42,Péterfy Sándor utca 42.,19.081167,47.502755,street-segment,0,0
+d7-1054,7,Péterfy Sándor utca,43,Péterfy Sándor utca 43.,19.079359,47.501877,street-segment,0,0
+d7-1055,7,Péterfy Sándor utca,44,Péterfy Sándor utca 44.,19.077642,47.501141,street-segment,0,0
+d7-1056,7,Péterfy Sándor utca,47,Péterfy Sándor utca 47.,19.081263,47.502673,street-segment,0,0
+d7-1057,7,Rákóczi út,14,Rákóczi út 14.,19.072003,47.497568,street-segment,0,0
+d7-1058,7,Rákóczi út,18,Rákóczi út 18.,19.072697,47.497832,street-segment,0,0
+d7-1059,7,Rákóczi út,24,Rákóczi út 24.,19.07452,47.498329,street-segment,0,0
+d7-1060,7,Rákóczi út,56,Rákóczi út 56.,19.073662,47.498044,street-segment,0,0
+d7-1061,7,Rákóczi út,68,Rákóczi út 68.,19.066577,47.495952,street-segment,0,0
+d7-1062,7,Rákóczi út,74,Rákóczi út 74.,19.160321,47.521102,street-segment,0,0
+d7-1063,7,Rákóczi út,76,Rákóczi út 76.,19.137197,47.454551,street-segment,0,0
+d7-1064,7,Rákóczi út,78,Rákóczi út 78.,19.078172,47.49918,street-segment,0,0
+d7-1065,7,Rákóczi út,86,Rákóczi út 86.,19.132158,47.450914,street-segment,0,0
+d7-1066,7,Rottenbiller utca,24,Rottenbiller utca 24.,19.079292,47.499736,street-segment,0,0
+d7-1067,7,Rottenbiller utca,30,Rottenbiller utca 30.,19.076742,47.502839,street-segment,0,0
+d7-1068,7,Rottenbiller utca,35,Rottenbiller utca 35.,19.07318,47.506263,street-segment,0,0
+d7-1069,7,Rottenbiller utca,39,Rottenbiller utca 39.,19.079272,47.499742,street-segment,0,0
+d7-1070,7,Rottenbiller utca,41,Rottenbiller utca 41.,19.079463,47.499674,street-segment,0,0
+d7-1071,7,Rottenbiller utca,47,Rottenbiller utca 47.,19.079174,47.499613,street-segment,0,0
+d7-1072,7,Rottenbiller utca,48,Rottenbiller utca 48.,19.075628,47.503859,street-segment,0,0
+d7-1073,7,Rottenbiller utca,64,Rottenbiller utca 64.,19.079549,47.499771,street-segment,0,0
+d7-1074,7,Rózsa utca,11,Rózsa utca 11.,19.102437,47.55598,street-segment,0,0
+d7-1075,7,Rózsa utca,12,Rózsa utca 12.,19.09963,47.562505,street-segment,0,0
+d7-1076,7,Rózsa utca,16,Rózsa utca 16.,19.0999,47.563609,street-segment,0,0
+d7-1077,7,Rózsa utca,20,Rózsa utca 20.,19.157008,47.514764,street-segment,0,0
+d7-1078,7,Rózsa utca,27,Rózsa utca 27.,19.099799,47.561457,street-segment,0,0
+d7-1079,7,Rózsa utca,29,Rózsa utca 29.,19.154689,47.517274,street-segment,0,0
+d7-1080,7,Rózsa utca,32,Rózsa utca 32.,19.099859,47.563664,street-segment,0,0
+d7-1081,7,Rózsa utca,38/a,Rózsa utca 38/a.,19.100313,47.565149,street-segment,0,0
+d7-1082,7,Rózsa utca,38/b,Rózsa utca 38/b.,19.100239,47.565071,street-segment,0,0
+d7-1083,7,Rózsa utca,45,Rózsa utca 45.,19.100032,47.564133,street-segment,0,0
+d7-1084,7,Rózsa utca,47/a,Rózsa utca 47/a.,19.100265,47.564763,street-segment,0,0
+d7-1085,7,Rumbach Sebestyén utca,3,Rumbach Sebestyén utca 3.,19.060292,47.49682,street-segment,1,0
+d7-1086,7,Rumbach Sebestyén utca,6,Rumbach Sebestyén utca 6.,19.06025,47.496868,street-segment,1,0
+d7-1087,7,Rumbach Sebestyén utca,8,Rumbach Sebestyén utca 8.,19.058163,47.4978,street-segment,1,0
+d7-1088,7,Rumbach Sebestyén utca,9,Rumbach Sebestyén utca 9.,19.060187,47.496809,street-segment,1,0
+d7-1089,7,Rumbach Sebestyén utca,10,Rumbach Sebestyén utca 10.,19.059583,47.49705,street-segment,1,0
+d7-1090,7,Rumbach Sebestyén utca,11,Rumbach Sebestyén utca 11.,19.05833,47.497965,street-segment,1,0
+d7-1091,7,Rumbach Sebestyén utca,13,Rumbach Sebestyén utca 13.,19.059568,47.497168,street-segment,1,0
+d7-1092,7,Sajó utca,2,Sajó utca 2.,19.087081,47.505407,street-segment,0,0
+d7-1093,7,Síp utca,6,Síp utca 6.,19.062844,47.495284,street-segment,1,0
+d7-1094,7,Síp utca,7,Síp utca 7.,19.061296,47.4974,street-segment,1,0
+d7-1095,7,Síp utca,8,Síp utca 8.,19.062301,47.496295,street-segment,1,0
+d7-1096,7,Síp utca,11,Síp utca 11.,19.062403,47.49633,street-segment,1,0
+d7-1097,7,Síp utca,12,Síp utca 12.,19.062978,47.495168,street-segment,0,0
+d7-1098,7,Síp utca,15,Síp utca 15.,19.062969,47.495249,street-segment,1,0
+d7-1099,7,Síp utca,16-18,Síp utca 16-18.,19.061321,47.497521,street-segment,1,0
+d7-1100,7,Síp utca,17,Síp utca 17.,19.062333,47.496248,street-segment,1,0
+d7-1101,7,Síp utca,22,Síp utca 22.,19.061345,47.497471,street-segment,1,0
+d7-1102,7,Síp utca,24,Síp utca 24.,19.062984,47.495173,street-segment,0,0
+d7-1103,7,Százház utca,24,Százház utca 24.,19.089117,47.503448,street-segment,0,0
+d7-1104,7,Szövetség utca,6,Szövetség utca 6.,19.073488,47.500136,street-segment,0,0
+d7-1105,7,Szövetség utca,10-12,Szövetség utca 10-12.,19.162086,47.459393,street-segment,0,0
+d7-1106,7,Szövetség utca,13,Szövetség utca 13.,19.074371,47.499147,street-segment,0,0
+d7-1107,7,Szövetség utca,17,Szövetség utca 17.,19.160693,47.458628,street-segment,0,0
+d7-1108,7,Szövetség utca,22,Szövetség utca 22.,19.073421,47.500042,street-segment,0,0
+d7-1109,7,Szövetség utca,26,Szövetség utca 26.,19.162053,47.459374,street-segment,0,0
+d7-1110,7,Szövetség utca,27,Szövetség utca 27.,19.073934,47.49949,street-segment,0,0
+d7-1111,7,Szövetség utca,28/a,Szövetség utca 28/a.,19.074901,47.498601,street-segment,0,0
+d7-1112,7,Szövetség utca,33,Szövetség utca 33.,19.160829,47.458649,street-segment,0,0
+d7-1113,7,Szövetség utca,36/b,Szövetség utca 36/b.,19.074867,47.498745,street-segment,0,0
+d7-1114,7,Szövetség utca,38,Szövetség utca 38.,19.073452,47.50014,street-segment,0,0
+d7-1115,7,Szövetség utca,45,Szövetség utca 45.,19.074354,47.499055,street-segment,0,0
+d7-1116,7,Thököly út,8,Thököly út 8.,19.089137,47.50411,street-segment,0,0
+d7-1117,7,Thököly út,11,Thököly út 11.,19.089489,47.503976,street-segment,0,0
+d7-1118,7,Thököly út,15,Thököly út 15.,19.099868,47.512208,street-segment,0,0
+d7-1119,7,Thököly út,16,Thököly út 16.,19.096976,47.510126,street-segment,0,0
+d7-1120,7,Thököly út,22,Thököly út 22.,19.13551,47.539016,street-segment,0,0
+d7-1121,7,Tivadar utca,2,Tivadar utca 2.,19.072603,47.501344,street-segment,0,0
+d7-1122,7,Városligeti fasor,25-27,Városligeti fasor 25-27.,19.074168,47.508275,street-segment,0,0
+d7-1123,7,Városligeti fasor,25,Városligeti fasor 25.,19.074067,47.508273,street-segment,0,0
+d7-1124,7,Városligeti fasor,31,Városligeti fasor 31.,19.075985,47.509159,street-segment,0,0
+d7-1125,7,Városligeti fasor,33,Városligeti fasor 33.,19.080498,47.511009,street-segment,0,0
+d7-1126,7,Városligeti fasor,45,Városligeti fasor 45.,19.079785,47.510908,street-segment,0,0
+d7-1127,7,Városligeti fasor,47,Városligeti fasor 47.,19.078077,47.509972,street-segment,0,0
+d7-1128,7,Vörösmarty utca,3/a,Vörösmarty utca 3/a.,19.125128,47.56605,street-segment,0,0
+d7-1129,7,Vörösmarty utca,4,Vörösmarty utca 4.,19.061612,47.510635,street-segment,0,0
+d7-1130,7,Vörösmarty utca,5,Vörösmarty utca 5.,19.066019,47.507102,street-segment,0,0
+d7-1131,7,Vörösmarty utca,7,Vörösmarty utca 7.,19.066274,47.507005,street-segment,0,0
+d7-1132,7,Vörösmarty utca,11,Vörösmarty utca 11.,19.164538,47.5327,street-segment,0,0
+d7-1133,7,Vörösmarty utca,13,Vörösmarty utca 13.,19.066685,47.506669,street-segment,0,0
+d7-1134,7,Vörösmarty utca,14,Vörösmarty utca 14.,19.12515,47.566107,street-segment,0,0
+d7-1135,7,Vörösmarty utca,19,Vörösmarty utca 19.,19.062408,47.510062,street-segment,0,0
+d7-1136,7,Vörösmarty utca,20,Vörösmarty utca 20.,19.070376,47.503736,street-segment,0,0
+d7-1137,7,Wesselényi utca,1-7,Wesselényi utca 1-7.,19.068129,47.500268,street-segment,1,0
+d7-1138,7,Wesselényi utca,2,Wesselényi utca 2.,19.119792,47.546738,street-segment,0,0
+d7-1139,7,Wesselényi utca,4,Wesselényi utca 4.,19.121204,47.54592,street-segment,0,0
+d7-1140,7,Wesselényi utca,6,Wesselényi utca 6.,19.070394,47.501466,street-segment,0,0
+d7-1141,7,Wesselényi utca,9,Wesselényi utca 9.,19.067629,47.499764,street-segment,1,0
+d7-1142,7,Wesselényi utca,10,Wesselényi utca 10.,19.117787,47.547807,street-segment,0,0
+d7-1143,7,Wesselényi utca,11,Wesselényi utca 11.,19.062541,47.497203,street-segment,1,0
+d7-1144,7,Wesselényi utca,13,Wesselényi utca 13.,19.123761,47.544084,street-segment,0,0
+d7-1145,7,Wesselényi utca,16,Wesselényi utca 16.,19.073021,47.502984,street-segment,0,0
+d7-1146,7,Wesselényi utca,18,Wesselényi utca 18.,19.116646,47.548486,street-segment,0,0
+d7-1147,7,Wesselényi utca,19,Wesselényi utca 19.,19.103723,47.570899,street-segment,0,0
+d7-1148,7,Wesselényi utca,21,Wesselényi utca 21.,19.153043,47.460046,street-segment,0,0
+d7-1149,7,Wesselényi utca,24,Wesselényi utca 24.,19.059911,47.495881,street-segment,1,0
+d7-1150,7,Wesselényi utca,26,Wesselényi utca 26.,19.074823,47.503885,street-segment,0,0
+d7-1151,7,Wesselényi utca,29,Wesselényi utca 29.,19.069653,47.501042,street-segment,1,0
+d7-1152,7,Wesselényi utca,30,Wesselényi utca 30.,19.175701,47.531438,street-segment,0,0
+d7-1153,7,Wesselényi utca,33,Wesselényi utca 33.,19.125221,47.543467,street-segment,0,0
+d7-1154,7,Wesselényi utca,35,Wesselényi utca 35.,19.066248,47.499014,street-segment,1,0
+d7-1155,7,Wesselényi utca,37,Wesselényi utca 37.,19.067058,47.499557,street-segment,1,0
+d7-1156,7,Wesselényi utca,41,Wesselényi utca 41.,19.11991,47.546755,street-segment,0,0
+d7-1157,7,Wesselényi utca,47,Wesselényi utca 47.,19.060482,47.496492,street-segment,1,0
+d7-1158,7,Wesselényi utca,51,Wesselényi utca 51.,19.11658,47.548718,street-segment,0,0
+d7-1159,7,Wesselényi utca,60,Wesselényi utca 60.,19.153113,47.460022,street-segment,0,0
+d7-1160,7,Wesselényi utca,61,Wesselényi utca 61.,19.061278,47.496868,street-segment,1,0
+d7-1161,7,Wesselényi utca,63,Wesselényi utca 63.,19.059812,47.495955,street-segment,0,0
+d7-1162,7,Wesselényi utca,65,Wesselényi utca 65.,19.074874,47.503884,street-segment,0,0
+d7-1163,7,Wesselényi utca,69,Wesselényi utca 69.,19.175739,47.531458,street-segment,0,0
+d7-1164,7,Wesselényi utca,71,Wesselényi utca 71.,19.059468,47.495756,street-segment,0,0
+d7-1165,7,Wesselényi utca,75,Wesselényi utca 75.,19.063357,47.497686,street-segment,1,0
+d8-1166,8,Alföldi utca,5,Alföldi utca 5.,19.084027,47.495332,street-segment,0,0
+d8-1167,8,Auróra utca,3,Auróra utca 3.,19.075888,47.494879,street-segment,0,0
+d8-1168,8,Auróra utca,7,Auróra utca 7.,19.07631,47.493854,street-segment,0,0
+d8-1169,8,Auróra utca,17,Auróra utca 17.,19.076326,47.49389,street-segment,0,0
+d8-1170,8,Bacsó Béla utca,3,Bacsó Béla utca 3.,19.071999,47.494809,street-segment,0,0
+d8-1171,8,Bacsó Béla utca,5,Bacsó Béla utca 5.,19.072027,47.494774,street-segment,0,0
+d8-1172,8,Bacsó Béla utca,9,Bacsó Béla utca 9.,19.071957,47.49484,street-segment,0,0
+d8-1173,8,Bacsó Béla utca,10-12,Bacsó Béla utca 10-12.,19.072486,47.493491,street-segment,0,0
+d8-1174,8,Bacsó Béla utca,19,Bacsó Béla utca 19.,19.071927,47.494769,street-segment,0,0
+d8-1175,8,Baross tér,4-5,Baross tér 4-5.,19.084198,47.501334,street-segment,0,0
+d8-1176,8,Bérkocsis utca,18,Bérkocsis utca 18.,19.072024,47.493633,street-segment,0,0
+d8-1177,8,Bérkocsis utca,26,Bérkocsis utca 26.,19.071921,47.493718,street-segment,0,0
+d8-1178,8,Bérkocsis utca,31,Bérkocsis utca 31.,19.071354,47.493593,street-segment,0,0
+d8-1179,8,Bérkocsis utca,41,Bérkocsis utca 41.,19.075202,47.494192,street-segment,0,0
+d8-1180,8,Bezerédi utca,4,Bezerédi utca 4.,19.074777,47.486364,district-bbox,0,0
+d8-1181,8,Bezerédi utca,5,Bezerédi utca 5.,19.078297,47.491798,district-bbox,0,0
+d8-1182,8,Bezerédi utca,19,Bezerédi utca 19.,19.082888,47.487928,district-bbox,0,0
+d8-1183,8,Bródy Sándor utca,23/a,Bródy Sándor utca 23/a.,19.068292,47.493092,street-segment,0,0
+d8-1184,8,Déri Miksa utca,6,Déri Miksa utca 6.,19.074385,47.492695,street-segment,0,0
+d8-1185,8,Déri Miksa utca,18,Déri Miksa utca 18.,19.074442,47.492704,street-segment,0,0
+d8-1186,8,Dobozi utca,3,Dobozi utca 3.,19.086121,47.492673,street-segment,0,0
+d8-1187,8,Dobozi utca,5,Dobozi utca 5.,19.088403,47.490826,street-segment,0,0
+d8-1188,8,Dobozi utca,7-9,Dobozi utca 7-9.,19.085274,47.493382,street-segment,0,0
+d8-1189,8,Dobozi utca,11,Dobozi utca 11.,19.088392,47.490691,street-segment,0,0
+d8-1190,8,Dobozi utca,15,Dobozi utca 15.,19.086188,47.492679,street-segment,0,0
+d8-1191,8,Dobozi utca,19,Dobozi utca 19.,19.085135,47.493441,street-segment,0,0
+d8-1192,8,Dobozi utca,21,Dobozi utca 21.,19.086081,47.492748,street-segment,0,0
+d8-1193,8,Dobozi utca,23,Dobozi utca 23.,19.088317,47.490817,street-segment,0,0
+d8-1194,8,Dobozi utca,27,Dobozi utca 27.,19.086162,47.492615,street-segment,0,0
+d8-1195,8,Dobozi utca,33,Dobozi utca 33.,19.086134,47.492611,street-segment,0,0
+d8-1196,8,Dobozi utca,39,Dobozi utca 39.,19.086156,47.49265,street-segment,0,0
+d8-1197,8,Dugonics utca,10,Dugonics utca 10.,19.109086,47.550833,street-segment,0,0
+d8-1198,8,Erdélyi utca,7,Erdélyi utca 7.,19.081006,47.485221,district-bbox,0,0
+d8-1199,8,Erdélyi utca,19,Erdélyi utca 19.,19.082502,47.486012,district-bbox,0,0
+d8-1200,8,Fecske utca,22,Fecske utca 22.,19.076015,47.493074,street-segment,0,0
+d8-1201,8,Futó utca,33,Futó utca 33.,19.074841,47.487148,street-segment,0,0
+d8-1202,8,Gyulay Pál utca,6,Gyulay Pál utca 6.,19.077405,47.488819,district-bbox,0,0
+d8-1203,8,Gyulay Pál utca,8,Gyulay Pál utca 8.,19.085774,47.490811,district-bbox,0,0
+d8-1204,8,Gyulay Pál utca,16,Gyulay Pál utca 16.,19.080515,47.488746,district-bbox,0,0
+d8-1205,8,Homok utca,8-10,Homok utca 8-10.,19.080252,47.493251,street-segment,0,0
+d8-1206,8,II. János Pál pápa tér,2,II. János Pál pápa tér 2.,19.077628,47.497634,street-segment,0,0
+d8-1207,8,II. János Pál pápa tér,10,II. János Pál pápa tér 10.,19.07996,47.496983,street-segment,0,0
+d8-1208,8,II. János Pál pápa tér,11,II. János Pál pápa tér 11.,19.077568,47.497664,street-segment,0,0
+d8-1209,8,II. János Pál pápa tér,29,II. János Pál pápa tér 29.,19.077593,47.497587,street-segment,0,0
+d8-1210,8,József körút,8,József körút 8.,19.07032,47.486414,street-segment,0,0
+d8-1211,8,József körút,27,József körút 27.,19.070486,47.497124,street-segment,0,0
+d8-1212,8,József körút,28,József körút 28.,19.070533,47.488202,street-segment,0,0
+d8-1213,8,József utca,29,József utca 29.,19.07305,47.490918,street-segment,0,0
+d8-1214,8,József utca,48,József utca 48.,19.076469,47.491718,street-segment,0,0
+d8-1215,8,Karácsony Sándor utca,11,Karácsony Sándor utca 11.,19.084925,47.490872,street-segment,0,0
+d8-1216,8,Karácsony Sándor utca,15,Karácsony Sándor utca 15.,19.084895,47.49095,street-segment,0,0
+d8-1217,8,Karácsony Sándor utca,18,Karácsony Sándor utca 18.,19.08492,47.490913,street-segment,0,0
+d8-1218,8,Karácsony Sándor utca,21,Karácsony Sándor utca 21.,19.084894,47.490845,street-segment,0,0
+d8-1219,8,Kenyérmező utca,2,Kenyérmező utca 2.,19.077268,47.498279,street-segment,0,0
+d8-1220,8,Kenyérmező utca,8,Kenyérmező utca 8.,19.07742,47.498302,street-segment,0,0
+d8-1221,8,Kis Stáció utca,1,Kis Stáció utca 1.,19.07313,47.489324,street-segment,0,0
+d8-1222,8,Kisfaludy utca,9,Kisfaludy utca 9.,19.072089,47.487148,street-segment,0,0
+d8-1223,8,Kisfaludy utca,34,Kisfaludy utca 34.,19.072085,47.489437,street-segment,0,0
+d8-1224,8,Korányi Sándor utca,8/a,Korányi Sándor utca 8/a.,19.087641,47.484784,street-segment,0,0
+d8-1225,8,Korányi Sándor utca,30,Korányi Sándor utca 30.,19.083945,47.482722,street-segment,0,0
+d8-1226,8,Kőris utca,15,Kőris utca 15.,19.092678,47.487271,street-segment,0,0
+d8-1227,8,Koszorú utca,11,Koszorú utca 11.,19.07954,47.490845,street-segment,0,0
+d8-1228,8,Kun utca,12,Kun utca 12.,19.08177,47.494196,street-segment,0,0
+d8-1229,8,Leonardo Da Vinci utca,45,Leonardo Da Vinci utca 45.,19.077442,47.487626,street-segment,0,0
+d8-1230,8,Leonardo Da Vinci utca,50,Leonardo Da Vinci utca 50.,19.077451,47.487552,street-segment,0,0
+d8-1231,8,Lujza utca,1/b,Lujza utca 1/b.,19.08774,47.489369,street-segment,0,0
+d8-1232,8,Lujza utca,2/b,Lujza utca 2/b.,19.086783,47.490422,street-segment,0,0
+d8-1233,8,Lujza utca,5,Lujza utca 5.,19.086811,47.490485,street-segment,0,0
+d8-1234,8,Lujza utca,6,Lujza utca 6.,19.084909,47.492143,street-segment,0,0
+d8-1235,8,Lujza utca,10,Lujza utca 10.,19.087755,47.489316,street-segment,0,0
+d8-1236,8,Lujza utca,16,Lujza utca 16.,19.087599,47.489341,street-segment,0,0
+d8-1237,8,Lujza utca,26,Lujza utca 26.,19.086773,47.490395,street-segment,0,0
+d8-1238,8,Magdolna utca,18,Magdolna utca 18.,19.086429,47.491734,street-segment,0,0
+d8-1239,8,Magdolna utca,28,Magdolna utca 28.,19.089436,47.491957,street-segment,0,0
+d8-1240,8,Magdolna utca,34,Magdolna utca 34.,19.085251,47.491255,street-segment,0,0
+d8-1241,8,Magdolna utca,43,Magdolna utca 43.,19.083921,47.490741,street-segment,0,0
+d8-1242,8,Mária utca,29,Mária utca 29.,19.068737,47.490442,street-segment,0,0
+d8-1243,8,Mátyás tér,14,Mátyás tér 14.,19.09213,47.569077,street-segment,0,0
+d8-1244,8,Nagy Fuvaros utca,3/a,Nagy Fuvaros utca 3/a.,19.078237,47.49277,street-segment,0,0
+d8-1245,8,Nagy Fuvaros utca,3/b,Nagy Fuvaros utca 3/b.,19.078262,47.492768,street-segment,0,0
+d8-1246,8,Nagy Fuvaros utca,4,Nagy Fuvaros utca 4.,19.076961,47.494689,street-segment,0,0
+d8-1247,8,Nagy Fuvaros utca,16,Nagy Fuvaros utca 16.,19.076943,47.494698,street-segment,0,0
+d8-1248,8,Nagy Fuvaros utca,18,Nagy Fuvaros utca 18.,19.077162,47.494621,street-segment,0,0
+d8-1249,8,Német utca,23,Német utca 23.,19.07388,47.490378,street-segment,0,0
+d8-1250,8,Népszínház utca,13,Népszínház utca 13.,19.079536,47.49413,street-segment,0,0
+d8-1251,8,Népszínház utca,16,Népszínház utca 16.,19.079855,47.494158,street-segment,0,0
+d8-1252,8,Népszínház utca,19,Népszínház utca 19.,19.081249,47.493917,street-segment,0,0
+d8-1253,8,Népszínház utca,21,Népszínház utca 21.,19.078278,47.494516,street-segment,0,0
+d8-1254,8,Népszínház utca,22,Népszínház utca 22.,19.08575,47.493281,street-segment,0,0
+d8-1255,8,Népszínház utca,25,Népszínház utca 25.,19.085406,47.493291,street-segment,0,0
+d8-1256,8,Népszínház utca,26,Népszínház utca 26.,19.071609,47.496012,street-segment,0,0
+d8-1257,8,Népszínház utca,27,Népszínház utca 27.,19.077073,47.494845,street-segment,0,0
+d8-1258,8,Népszínház utca,28,Népszínház utca 28.,19.072427,47.495845,street-segment,0,0
+d8-1259,8,Népszínház utca,29,Népszínház utca 29.,19.083855,47.493563,street-segment,0,0
+d8-1260,8,Népszínház utca,30,Népszínház utca 30.,19.075035,47.495141,street-segment,0,0
+d8-1261,8,Népszínház utca,31,Népszínház utca 31.,19.073942,47.495454,street-segment,0,0
+d8-1262,8,Népszínház utca,32,Népszínház utca 32.,19.086632,47.4933,street-segment,0,0
+d8-1263,8,Népszínház utca,37,Népszínház utca 37.,19.071316,47.496122,street-segment,0,0
+d8-1264,8,Népszínház utca,40,Népszínház utca 40.,19.071132,47.496172,street-segment,0,0
+d8-1265,8,Népszínház utca,42-44,Népszínház utca 42-44.,19.085779,47.493403,street-segment,0,0
+d8-1266,8,Népszínház utca,46,Népszínház utca 46.,19.07163,47.496054,street-segment,0,0
+d8-1267,8,Népszínház utca,47,Népszínház utca 47.,19.077072,47.494758,street-segment,0,0
+d8-1268,8,Népszínház utca,49,Népszínház utca 49.,19.083874,47.493408,street-segment,0,0
+d8-1269,8,Népszínház utca,58,Népszínház utca 58.,19.082379,47.493518,street-segment,0,0
+d8-1270,8,Népszínház utca,59,Népszínház utca 59.,19.081164,47.49388,street-segment,0,0
+d8-1271,8,Orczy út,14/b,Orczy út 14/b.,19.092701,47.487357,street-segment,0,0
+d8-1272,8,Orczy út,31,Orczy út 31.,19.089872,47.479497,street-segment,0,0
+d8-1273,8,Práter utca,53,Práter utca 53.,19.077643,47.486777,street-segment,0,0
+d8-1274,8,Práter utca,64,Práter utca 64.,19.079602,47.486679,street-segment,0,0
+d8-1275,8,Rákóczi tér,10,Rákóczi tér 10.,19.071975,47.492404,street-segment,0,0
+d8-1276,8,Rákóczi út,47,Rákóczi út 47.,19.154613,47.52703,street-segment,0,0
+d8-1277,8,Rákóczi út,51,Rákóczi út 51.,19.131552,47.45053,street-segment,0,0
+d8-1278,8,Salétrom utca,6,Salétrom utca 6.,19.07192,47.491708,street-segment,0,0
+d8-1279,8,Sárkány utca,5,Sárkány utca 5.,19.091436,47.48546,street-segment,0,0
+d8-1280,8,Szerdahelyi utca,15,Szerdahelyi utca 15.,19.082151,47.492256,street-segment,0,0
+d8-1281,8,Szeszgyár utca,11,Szeszgyár utca 11.,19.089586,47.488155,street-segment,0,0
+d8-1282,8,Szigetvári utca,1,Szigetvári utca 1.,19.082517,47.489476,street-segment,0,0
+d8-1283,8,Szigetvári utca,20,Szigetvári utca 20.,19.082564,47.489546,street-segment,0,0
+d8-1284,8,Szigetvári utca,25/d,Szigetvári utca 25/d.,19.082577,47.48942,street-segment,0,0
+d8-1285,8,Szigetvári utca,26/a,Szigetvári utca 26/a.,19.082534,47.489509,street-segment,0,0
+d8-1286,8,Szigony utca,19,Szigony utca 19.,19.080086,47.488094,street-segment,0,0
+d8-1287,8,Szigony utca,32,Szigony utca 32.,19.080025,47.485249,street-segment,0,0
+d8-1288,8,Szilágyi utca,1/b,Szilágyi utca 1/b.,19.110255,47.562989,street-segment,0,0
+d8-1289,8,Szilágyi utca,3,Szilágyi utca 3.,19.113541,47.571587,street-segment,0,0
+d8-1290,8,Teleki László tér,1-2,Teleki László tér 1-2.,19.085761,47.493632,street-segment,0,0
+d8-1291,8,Teleki László tér,3,Teleki László tér 3.,19.085404,47.494262,street-segment,0,0
+d8-1292,8,Teleki László tér,4,Teleki László tér 4.,19.086054,47.493442,street-segment,0,0
+d8-1293,8,Teleki László tér,5,Teleki László tér 5.,19.083699,47.492831,street-segment,0,0
+d8-1294,8,Teleki László tér,6,Teleki László tér 6.,19.083631,47.49403,street-segment,0,0
+d8-1295,8,Teleki László tér,10,Teleki László tér 10.,19.084773,47.493155,street-segment,0,0
+d8-1296,8,Teleki László tér,15,Teleki László tér 15.,19.08617,47.493756,street-segment,0,0
+d8-1297,8,Teleki László tér,21,Teleki László tér 21.,19.083811,47.492763,street-segment,0,0
+d8-1298,8,Teleki László tér,22,Teleki László tér 22.,19.083766,47.494025,street-segment,0,0
+d8-1299,8,Teleki László tér,23,Teleki László tér 23.,19.086201,47.493758,street-segment,0,0
+d8-1300,8,Tolnai Lajos utca,3,Tolnai Lajos utca 3.,19.07546,47.492324,street-segment,0,0
+d8-1301,8,Tolnai Lajos utca,39,Tolnai Lajos utca 39.,19.075343,47.492202,street-segment,0,0
+d8-1302,8,Tömő utca,44,Tömő utca 44.,19.078079,47.48487,street-segment,0,0
+d8-1303,8,Tömő utca,58,Tömő utca 58.,19.076533,47.484597,street-segment,0,0
+d8-1304,8,Vajdahunyad utca,12,Vajdahunyad utca 12.,19.073566,47.485747,street-segment,0,0
+d8-1305,8,Vas utca,15/b,Vas utca 15/b.,19.06703,47.493041,street-segment,0,0
+d8-1306,8,Vay Ádám utca,8,Vay Ádám utca 8.,19.079144,47.49483,street-segment,0,0
+d8-1307,8,Víg utca,3,Víg utca 3.,19.074375,47.492001,street-segment,0,0
+d8-1308,8,Víg utca,8,Víg utca 8.,19.073697,47.493181,street-segment,0,0
+d8-1309,8,Víg utca,15,Víg utca 15.,19.074265,47.491935,street-segment,0,0
+d8-1310,8,Víg utca,18,Víg utca 18.,19.074254,47.492064,street-segment,0,0
+d8-1311,8,Víg utca,22,Víg utca 22.,19.073186,47.494607,street-segment,0,0
+d8-1312,8,Visi Imre utca,6,Visi Imre utca 6.,19.091137,47.487823,street-segment,0,0
+d9-1313,9,Berzenczey utca,29,Berzenczey utca 29.,19.074002,47.482725,street-segment,0,0
+d9-1314,9,Drégely utca,13,Drégely utca 13.,19.075975,47.477028,street-segment,0,0
+d9-1315,9,Ernő utca,7,Ernő utca 7.,19.084994,47.479086,street-segment,0,0
+d9-1316,9,Ernő utca,22,Ernő utca 22.,19.084996,47.479164,street-segment,0,0
+d9-1317,9,Gabona utca,4,Gabona utca 4.,19.069209,47.479413,street-segment,0,0
+d9-1318,9,Hentes utca,8,Hentes utca 8.,19.084742,47.462241,street-segment,0,0
+d9-1319,9,Kinizsi utca,23,Kinizsi utca 23.,19.061177,47.580673,street-segment,0,0
+d9-1320,9,Lenhossék utca,11,Lenhossék utca 11.,19.076709,47.477545,street-segment,0,0
+d9-1321,9,Lenhossék utca,14,Lenhossék utca 14.,19.080736,47.481117,street-segment,0,0
+d9-1322,9,Lenhossék utca,32,Lenhossék utca 32.,19.077836,47.47855,street-segment,0,0
+d9-1323,9,Liliom utca,12,Liliom utca 12.,19.068802,47.479836,street-segment,0,0
+d9-1324,9,Liliom utca,15,Liliom utca 15.,19.072399,47.484203,street-segment,0,0
+d9-1325,9,Liliom utca,34-36,Liliom utca 34-36.,19.070344,47.480583,street-segment,0,0
+d9-1326,9,Lónyay utca,15,Lónyay utca 15.,19.06232,47.485155,street-segment,0,0
+d9-1327,9,Lónyay utca,18/b,Lónyay utca 18/b.,19.065991,47.481805,street-segment,0,0
+d9-1328,9,Lónyay utca,50,Lónyay utca 50.,19.060721,47.488129,street-segment,0,0
+d9-1329,9,Páva utca,23,Páva utca 23.,19.072291,47.48179,street-segment,0,0
+d9-1330,9,Sobieski János utca,2,Sobieski János utca 2.,19.083484,47.479952,street-segment,0,0
+d9-1331,9,Telepy utca,14,Telepy utca 14.,19.083279,47.479015,street-segment,0,0
+d9-1332,9,Thaly Kálmán utca,22,Thaly Kálmán utca 22.,19.077147,47.480995,street-segment,0,0
+d9-1333,9,Tompa utca,26,Tompa utca 26.,19.071736,47.482091,street-segment,0,0
+d9-1334,9,Tompa utca,32,Tompa utca 32.,19.07064,47.482564,street-segment,0,0
+d9-1335,9,Tűzoltó utca,51,Tűzoltó utca 51.,19.070345,47.484413,street-segment,0,0
+d9-1336,9,Tűzoltó utca,52,Tűzoltó utca 52.,19.084321,47.477429,street-segment,0,0
+d9-1337,9,Tűzoltó utca,54,Tűzoltó utca 54.,19.071126,47.484051,street-segment,0,0
+d9-1338,9,Tűzoltó utca,55,Tűzoltó utca 55.,19.084595,47.477307,street-segment,0,0
+d9-1339,9,Tűzoltó utca,69,Tűzoltó utca 69.,19.082068,47.479157,street-segment,0,0
+d9-1340,9,Tűzoltó utca,72,Tűzoltó utca 72.,19.084362,47.477326,street-segment,0,0
+d9-1341,9,Vendel utca,15,Vendel utca 15.,19.078092,47.480324,street-segment,0,0
+d9-1342,9,Viola utca,6,Viola utca 6.,19.10111,47.559291,street-segment,0,0
+d9-1343,9,Viola utca,10,Viola utca 10.,19.101183,47.559208,street-segment,0,0
+d9-1344,9,Viola utca,19,Viola utca 19.,19.076987,47.482742,street-segment,0,0
+d10-1345,10,Állomás utca,18,Állomás utca 18.,19.148388,47.521026,street-segment,0,0
+d10-1346,10,Bánya utca,13,Bánya utca 13.,19.135281,47.485864,street-segment,0,0
+d10-1347,10,Bihari út,27,Bihari út 27.,19.114561,47.472878,street-segment,0,0
+d10-1348,10,Cserkesz utca,7,Cserkesz utca 7.,19.129046,47.481472,street-segment,0,0
+d10-1349,10,Füzér utca,7,Füzér utca 7.,19.128758,47.486351,street-segment,0,0
+d10-1350,10,Gyömrői út,29/a,Gyömrői út 29/a.,19.169835,47.460638,street-segment,0,0
+d10-1351,10,Hölgy utca,5,Hölgy utca 5.,19.125422,47.48813,street-segment,0,0
+d10-1352,10,Kelemen utca,1/c,Kelemen utca 1/c.,19.132596,47.476608,street-segment,0,0
+d10-1353,10,Kőbányai út,39,Kőbányai út 39.,19.126967,47.482532,street-segment,0,0
+d10-1354,10,Kőrösi Csoma út,9,Kőrösi Csoma út 9.,19.133286,47.489645,district-bbox,0,0
+d10-1355,10,Kőrösi Csoma út,11,Kőrösi Csoma út 11.,19.123532,47.491992,district-bbox,0,0
+d10-1356,10,Liget tér,4/a,Liget tér 4/a.,19.127256,47.484528,street-segment,0,0
+d10-1357,10,Liget utca,16,Liget utca 16.,19.135033,47.489823,street-segment,0,0
+d10-1358,10,Ónodi utca,6,Ónodi utca 6.,19.133644,47.49012,street-segment,0,0
+d10-1359,10,Pongrác út,7,Pongrác út 7.,19.128379,47.50008,district-bbox,0,0
+d10-1360,10,Szállás utca,21,Szállás utca 21.,19.126963,47.478725,street-segment,0,0
+d11-1361,11,Bartók Béla út,20,Bartók Béla út 20.,19.034003,47.473061,street-segment,0,0
+d11-1362,11,Bartók Béla út,47,Bartók Béla út 47.,19.029103,47.47086,street-segment,0,0
+d11-1363,11,Bartók Béla út,52,Bartók Béla út 52.,19.022848,47.468144,street-segment,0,0
+d11-1364,11,Bikszádi utca,9/b,Bikszádi utca 9/b.,19.035765,47.461081,street-segment,0,0
+d11-1365,11,Breznó köz,5,Breznó köz 5.,19.02269,47.484783,street-segment,0,0
+d11-1366,11,Budafoki út,23,Budafoki út 23.,19.052458,47.473581,street-segment,0,0
+d11-1367,11,Budafoki út,26/b,Budafoki út 26/b.,19.053865,47.480127,street-segment,0,0
+d11-1368,11,Budafoki út,32/e,Budafoki út 32/e.,19.052985,47.465904,street-segment,0,0
+d11-1369,11,Daróci út,50,Daróci út 50.,19.019466,47.466899,district-bbox,0,0
+d11-1370,11,Györök utca,18,Györök utca 18.,19.031166,47.474452,street-segment,0,0
+d11-1371,11,Hamzsabégi út,28,Hamzsabégi út 28.,19.032524,47.473438,street-segment,0,0
+d11-1372,11,Himfy utca,10,Himfy utca 10.,19.046789,47.479574,street-segment,0,0
+d11-1373,11,Péterhegyi út,23,Péterhegyi út 23.,19.016403,47.451394,street-segment,0,0
+d11-1374,11,Újházy utca,4,Újházy utca 4.,19.043856,47.468957,street-segment,0,0
+d11-1375,11,Váli utca,6,Váli utca 6.,19.048549,47.476373,street-segment,0,0
+d11-1376,11,Zsombolyai út,20,Zsombolyai út 20.,19.036911,47.475497,street-segment,0,0
+d12-1377,12,Alkotás út,39/c,Alkotás út 39/c.,19.024446,47.487788,street-segment,0,0
+d12-1378,12,Breznó lépcső,2,Breznó lépcső 2.,19.021573,47.484122,street-segment,0,0
+d12-1379,12,Csaba utca,9,Csaba utca 9.,19.190162,47.4559,street-segment,0,0
+d12-1380,12,Csörsz utca,55,Csörsz utca 55.,19.02031,47.490402,street-segment,0,0
+d12-1381,12,Hollósy Simon utca,10,Hollósy Simon utca 10.,19.017111,47.494561,street-segment,0,0
+d12-1382,12,Istenhegyi út,16,Istenhegyi út 16.,19.020404,47.497886,street-segment,0,0
+d12-1383,12,Széll Kálmán tér,18,Széll Kálmán tér 18.,19.022256,47.507796,street-segment,0,0
+d12-1384,12,Városmajor utca,15,Városmajor utca 15.,19.00887,47.509601,street-segment,0,0
+d12-1385,12,Városmajor utca,19/a,Városmajor utca 19/a.,19.0168,47.506098,street-segment,0,0
+d12-1386,12,Városmajor utca,25/b,Városmajor utca 25/b.,19.010227,47.508465,street-segment,0,0
+d12-1387,12,Városmajor utca,37,Városmajor utca 37.,19.009663,47.50867,street-segment,0,0
+d12-1388,12,Városmajor utca,47/b,Városmajor utca 47/b.,19.018168,47.50532,street-segment,0,0
+d12-1389,12,Városmajor utca,55/a,Városmajor utca 55/a.,19.009973,47.508658,street-segment,0,0
+d13-1390,13,Alig utca,6/b,Alig utca 6/b.,19.059226,47.517939,street-segment,0,0
+d13-1391,13,Alig utca,12,Alig utca 12.,19.059193,47.51808,street-segment,0,0
+d13-1392,13,Angyalföldi út,21,Angyalföldi út 21.,19.068174,47.531299,street-segment,0,0
+d13-1393,13,Apály utca,2/f,Apály utca 2/f.,19.065999,47.528175,street-segment,0,0
+d13-1394,13,Balzac utca,8-10,Balzac utca 8-10.,19.058452,47.514771,street-segment,0,0
+d13-1395,13,Balzac utca,12,Balzac utca 12.,19.051332,47.516928,street-segment,0,1
+d13-1396,13,Balzac utca,15,Balzac utca 15.,19.054971,47.515922,street-segment,0,1
+d13-1397,13,Balzac utca,18,Balzac utca 18.,19.051241,47.516941,street-segment,0,1
+d13-1398,13,Balzac utca,20,Balzac utca 20.,19.058451,47.514647,street-segment,0,0
+d13-1399,13,Balzac utca,21,Balzac utca 21.,19.054999,47.51579,street-segment,0,1
+d13-1400,13,Balzac utca,24,Balzac utca 24.,19.051386,47.51694,street-segment,0,1
+d13-1401,13,Balzac utca,25,Balzac utca 25.,19.052763,47.516497,street-segment,0,1
+d13-1402,13,Balzac utca,26,Balzac utca 26.,19.058294,47.514689,street-segment,0,0
+d13-1403,13,Balzac utca,29,Balzac utca 29.,19.050373,47.517238,street-segment,0,1
+d13-1404,13,Balzac utca,30,Balzac utca 30.,19.051304,47.517059,street-segment,0,1
+d13-1405,13,Balzac utca,33,Balzac utca 33.,19.054853,47.515882,street-segment,0,1
+d13-1406,13,Balzac utca,35,Balzac utca 35.,19.050369,47.517309,street-segment,0,1
+d13-1407,13,Balzac utca,39,Balzac utca 39.,19.054908,47.515771,street-segment,0,1
+d13-1408,13,Balzac utca,43,Balzac utca 43.,19.052868,47.516468,street-segment,0,1
+d13-1409,13,Balzac utca,44/b,Balzac utca 44/b.,19.058331,47.514731,street-segment,0,0
+d13-1410,13,Balzac utca,48/a,Balzac utca 48/a.,19.05135,47.517074,street-segment,0,1
+d13-1411,13,Balzac utca,48/b,Balzac utca 48/b.,19.05138,47.516981,street-segment,0,1
+d13-1412,13,Balzac utca,50/a,Balzac utca 50/a.,19.058441,47.514658,street-segment,0,0
+d13-1413,13,Balzsam utca,52,Balzsam utca 52.,19.083825,47.554084,street-segment,0,0
+d13-1414,13,Balzsam utca,55,Balzsam utca 55.,19.081885,47.555855,street-segment,0,0
+d13-1415,13,Béke utca,5,Béke utca 5.,19.084681,47.53852,street-segment,0,0
+d13-1416,13,Béke utca,18/a,Béke utca 18/a.,19.089056,47.546288,street-segment,0,0
+d13-1417,13,Béke utca,49,Béke utca 49.,19.088125,47.544315,street-segment,0,0
+d13-1418,13,Botond utca,7,Botond utca 7.,19.04396,47.580608,street-segment,0,0
+d13-1419,13,Budai Nagy Antal utca,2,Budai Nagy Antal utca 2.,19.049017,47.514177,street-segment,0,1
+d13-1420,13,Budai Nagy Antal utca,3,Budai Nagy Antal utca 3.,19.049644,47.513887,street-segment,0,1
+d13-1421,13,Budai Nagy Antal utca,4,Budai Nagy Antal utca 4.,19.049296,47.513951,street-segment,0,1
+d13-1422,13,Budai Nagy Antal utca,6,Budai Nagy Antal utca 6.,19.049649,47.513845,street-segment,0,1
+d13-1423,13,Bulcsú utca,21/a,Bulcsú utca 21/a.,19.063702,47.517814,street-segment,0,0
+d13-1424,13,Bulcsú utca,21/b,Bulcsú utca 21/b.,19.063749,47.517844,street-segment,0,0
+d13-1425,13,Csanády utca,4/b,Csanády utca 4/b.,19.057166,47.516438,street-segment,0,0
+d13-1426,13,Csanády utca,5,Csanády utca 5.,19.053106,47.517837,street-segment,0,1
+d13-1427,13,Csanády utca,6/b,Csanády utca 6/b.,19.059293,47.515765,street-segment,0,0
+d13-1428,13,Csanády utca,7,Csanády utca 7.,19.056384,47.516678,street-segment,0,0
+d13-1429,13,Csanády utca,8,Csanády utca 8.,19.054029,47.517447,street-segment,0,1
+d13-1430,13,Csanády utca,11,Csanády utca 11.,19.058796,47.515925,street-segment,0,0
+d13-1431,13,Csanády utca,18,Csanády utca 18.,19.0578,47.516281,street-segment,0,0
+d13-1432,13,Csanády utca,20,Csanády utca 20.,19.058797,47.515931,street-segment,0,0
+d13-1433,13,Csanády utca,21,Csanády utca 21.,19.055152,47.517095,street-segment,0,1
+d13-1434,13,Csángó utca,20/d,Csángó utca 20/d.,19.064331,47.526267,street-segment,0,0
+d13-1435,13,Csángó utca,21,Csángó utca 21.,19.064664,47.526127,street-segment,0,0
+d13-1436,13,Csata utca,14/a,Csata utca 14/a.,19.07481,47.526571,street-segment,0,0
+d13-1437,13,Csata utca,28,Csata utca 28.,19.076146,47.527498,street-segment,0,0
+d13-1438,13,Dagály utca,9/d,Dagály utca 9/d.,19.063967,47.537552,street-segment,0,0
+d13-1439,13,Dévai utca,6,Dévai utca 6.,19.062949,47.519832,street-segment,0,0
+d13-1440,13,Dévényi út,10,Dévényi út 10.,19.08341,47.522813,street-segment,0,0
+d13-1441,13,Diós utca,3,Diós utca 3.,19.087004,47.525263,street-segment,0,0
+d13-1442,13,Diós utca,6,Diós utca 6.,19.087089,47.525229,street-segment,0,0
+d13-1443,13,Diós utca,8,Diós utca 8.,19.087093,47.525167,street-segment,0,0
+d13-1444,13,Ditrói Mór utca,3,Ditrói Mór utca 3.,19.051465,47.512138,street-segment,0,1
+d13-1445,13,Dózsa György út,55,Dózsa György út 55.,19.077878,47.513582,street-segment,0,0
+d13-1446,13,Dózsa György út,122,Dózsa György út 122.,19.076296,47.515204,street-segment,0,0
+d13-1447,13,Dózsa György út,126,Dózsa György út 126.,19.073265,47.517806,street-segment,0,0
+d13-1448,13,Fáy utca,12,Fáy utca 12.,19.072854,47.537412,street-segment,0,0
+d13-1449,13,Fáy utca,14,Fáy utca 14.,19.082103,47.535509,street-segment,0,0
+d13-1450,13,Fáy utca,16,Fáy utca 16.,19.08282,47.535315,street-segment,0,0
+d13-1451,13,Felka utca,4,Felka utca 4.,19.054004,47.515544,street-segment,0,1
+d13-1452,13,Felka utca,6,Felka utca 6.,19.054026,47.515483,street-segment,0,1
+d13-1453,13,Frangepán utca,15-17,Frangepán utca 15-17.,19.130319,47.453581,street-segment,0,0
+d13-1454,13,Frangepán utca,16/b,Frangepán utca 16/b.,19.086712,47.532742,street-segment,0,0
+d13-1455,13,Frangepán utca,65/b,Frangepán utca 65/b.,19.196874,47.457562,street-segment,0,0
+d13-1456,13,Gergely Győző utca,17,Gergely Győző utca 17.,19.052004,47.516265,street-segment,0,1
+d13-1457,13,Gogol utca,24,Gogol utca 24.,19.055449,47.520929,street-segment,0,0
+d13-1458,13,Gömb utca,36,Gömb utca 36.,19.11836,47.453883,street-segment,0,0
+d13-1459,13,Gyöngyház utca,2,Gyöngyház utca 2.,19.055213,47.51533,street-segment,0,1
+d13-1460,13,Gyöngyház utca,4,Gyöngyház utca 4.,19.055233,47.515222,street-segment,0,1
+d13-1461,13,Gyöngyház utca,5,Gyöngyház utca 5.,19.055205,47.515229,street-segment,0,1
+d13-1462,13,Gyöngyház utca,6,Gyöngyház utca 6.,19.055284,47.515337,street-segment,0,1
+d13-1463,13,Gyöngyház utca,12,Gyöngyház utca 12.,19.055298,47.515333,street-segment,0,1
+d13-1464,13,Gyöngyösi út,87/b,Gyöngyösi út 87/b.,19.08257,47.547669,street-segment,0,0
+d13-1465,13,Hajdú utca,16,Hajdú utca 16.,19.077958,47.534834,street-segment,0,0
+d13-1466,13,Hegedűs Gyula utca,3,Hegedűs Gyula utca 3.,19.058199,47.52153,street-segment,0,0
+d13-1467,13,Hegedűs Gyula utca,5,Hegedűs Gyula utca 5.,19.052387,47.51238,street-segment,0,1
+d13-1468,13,Hegedűs Gyula utca,8,Hegedűs Gyula utca 8.,19.059996,47.525127,street-segment,0,0
+d13-1469,13,Hegedűs Gyula utca,9,Hegedűs Gyula utca 9.,19.056141,47.51752,street-segment,0,0
+d13-1470,13,Hegedűs Gyula utca,12,Hegedűs Gyula utca 12.,19.055006,47.515859,street-segment,0,1
+d13-1471,13,Hegedűs Gyula utca,14,Hegedűs Gyula utca 14.,19.058186,47.521542,street-segment,0,0
+d13-1472,13,Hegedűs Gyula utca,15,Hegedűs Gyula utca 15.,19.060079,47.525444,street-segment,0,0
+d13-1473,13,Hegedűs Gyula utca,17,Hegedűs Gyula utca 17.,19.057128,47.519225,street-segment,0,0
+d13-1474,13,Hegedűs Gyula utca,20,Hegedűs Gyula utca 20.,19.056148,47.517472,street-segment,0,0
+d13-1475,13,Hegedűs Gyula utca,20/a,Hegedűs Gyula utca 20/a.,19.056178,47.517541,street-segment,0,0
+d13-1476,13,Hegedűs Gyula utca,20/b,Hegedűs Gyula utca 20/b.,19.056055,47.517493,street-segment,0,0
+d13-1477,13,Hegedűs Gyula utca,21,Hegedűs Gyula utca 21.,19.053389,47.513695,street-segment,0,1
+d13-1478,13,Hegedűs Gyula utca,23,Hegedűs Gyula utca 23.,19.054925,47.515856,street-segment,0,1
+d13-1479,13,Hegedűs Gyula utca,24,Hegedűs Gyula utca 24.,19.052215,47.511942,street-segment,0,1
+d13-1480,13,Hegedűs Gyula utca,28,Hegedűs Gyula utca 28.,19.057102,47.51922,street-segment,0,0
+d13-1481,13,Hegedűs Gyula utca,29/a,Hegedűs Gyula utca 29/a.,19.059341,47.523816,street-segment,0,0
+d13-1482,13,Hegedűs Gyula utca,30,Hegedűs Gyula utca 30.,19.060009,47.525124,street-segment,0,0
+d13-1483,13,Hegedűs Gyula utca,34,Hegedűs Gyula utca 34.,19.055072,47.515832,street-segment,0,1
+d13-1484,13,Hegedűs Gyula utca,36,Hegedűs Gyula utca 36.,19.05819,47.521545,street-segment,0,0
+d13-1485,13,Hegedűs Gyula utca,37,Hegedűs Gyula utca 37.,19.060082,47.525592,street-segment,0,0
+d13-1486,13,Hegedűs Gyula utca,40,Hegedűs Gyula utca 40.,19.059339,47.523899,street-segment,0,0
+d13-1487,13,Hegedűs Gyula utca,46,Hegedűs Gyula utca 46.,19.052108,47.512013,street-segment,0,1
+d13-1488,13,Herzen utca,6,Herzen utca 6.,19.051648,47.517401,street-segment,0,1
+d13-1489,13,Hollán Ernő utca,3,Hollán Ernő utca 3.,19.050991,47.515457,street-segment,0,1
+d13-1490,13,Hollán Ernő utca,4,Hollán Ernő utca 4.,19.0494,47.513361,street-segment,0,1
+d13-1491,13,Hollán Ernő utca,6,Hollán Ernő utca 6.,19.052299,47.517406,street-segment,0,1
+d13-1492,13,Hollán Ernő utca,7/a,Hollán Ernő utca 7/a.,19.05293,47.518307,street-segment,0,1
+d13-1493,13,Hollán Ernő utca,7/b,Hollán Ernő utca 7/b.,19.053047,47.518334,street-segment,0,1
+d13-1494,13,Hollán Ernő utca,8,Hollán Ernő utca 8.,19.050297,47.514414,street-segment,0,1
+d13-1495,13,Hollán Ernő utca,9,Hollán Ernő utca 9.,19.049401,47.513466,street-segment,0,1
+d13-1496,13,Hollán Ernő utca,12,Hollán Ernő utca 12.,19.049352,47.513322,street-segment,0,1
+d13-1497,13,Hollán Ernő utca,13-15,Hollán Ernő utca 13-15.,19.051504,47.516316,street-segment,0,1
+d13-1498,13,Hollán Ernő utca,16,Hollán Ernő utca 16.,19.050157,47.514487,street-segment,0,1
+d13-1499,13,Hollán Ernő utca,18,Hollán Ernő utca 18.,19.049251,47.513338,street-segment,0,1
+d13-1500,13,Hollán Ernő utca,22,Hollán Ernő utca 22.,19.052254,47.517459,street-segment,0,1
+d13-1501,13,Hollán Ernő utca,25,Hollán Ernő utca 25.,19.049494,47.513481,street-segment,0,1
+d13-1502,13,Hollán Ernő utca,28,Hollán Ernő utca 28.,19.049484,47.513406,street-segment,0,1
+d13-1503,13,Hollán Ernő utca,29/b,Hollán Ernő utca 29/b.,19.051479,47.516254,street-segment,0,1
+d13-1504,13,Hollán Ernő utca,30,Hollán Ernő utca 30.,19.052219,47.517348,street-segment,0,1
+d13-1505,13,Hollán Ernő utca,31,Hollán Ernő utca 31.,19.052921,47.518456,street-segment,0,1
+d13-1506,13,Hollán Ernő utca,33,Hollán Ernő utca 33.,19.049494,47.513428,street-segment,0,1
+d13-1507,13,Hollán Ernő utca,35,Hollán Ernő utca 35.,19.050869,47.515488,street-segment,0,1
+d13-1508,13,Hollán Ernő utca,37,Hollán Ernő utca 37.,19.051452,47.516363,street-segment,0,1
+d13-1509,13,Hollán Ernő utca,38/a,Hollán Ernő utca 38/a.,19.052363,47.517378,street-segment,0,1
+d13-1510,13,Hollán Ernő utca,38/b,Hollán Ernő utca 38/b.,19.052323,47.517462,street-segment,0,1
+d13-1511,13,Hollán Ernő utca,46,Hollán Ernő utca 46.,19.052347,47.517324,street-segment,0,1
+d13-1512,13,Hollán Ernő utca,47,Hollán Ernő utca 47.,19.053017,47.518457,street-segment,0,1
+d13-1513,13,Hollán Ernő utca,48,Hollán Ernő utca 48.,19.050211,47.514476,street-segment,0,1
+d13-1514,13,Hollán Ernő utca,49,Hollán Ernő utca 49.,19.049364,47.51346,street-segment,0,1
+d13-1515,13,Hollán Ernő utca,50,Hollán Ernő utca 50.,19.049319,47.513338,street-segment,0,1
+d13-1516,13,Hollán Ernő utca,51,Hollán Ernő utca 51.,19.050963,47.515444,street-segment,0,1
+d13-1517,13,Hollán Ernő utca,54,Hollán Ernő utca 54.,19.052288,47.517336,street-segment,0,1
+d13-1518,13,Huba utca,8,Huba utca 8.,19.108446,47.545224,street-segment,0,0
+d13-1519,13,Ipoly utca,26/a,Ipoly utca 26/a.,19.052225,47.520821,street-segment,0,0
+d13-1520,13,Jakab József utca,5,Jakab József utca 5.,19.063004,47.536977,street-segment,0,0
+d13-1521,13,Jász utca,27-31,Jász utca 27-31.,19.087715,47.538482,street-segment,0,0
+d13-1522,13,Jász utca,37,Jász utca 37.,19.087742,47.53852,street-segment,0,0
+d13-1523,13,Jász utca,47,Jász utca 47.,19.087741,47.538434,street-segment,0,0
+d13-1524,13,Jász utca,66/b,Jász utca 66/b.,19.090042,47.54272,street-segment,0,0
+d13-1525,13,Jász utca,81/b,Jász utca 81/b.,19.081665,47.527881,street-segment,0,0
+d13-1526,13,Jász utca,108,Jász utca 108.,19.080167,47.525125,street-segment,0,0
+d13-1527,13,Jászai Mari tér,4/b,Jászai Mari tér 4/b.,19.047424,47.514309,street-segment,0,1
+d13-1528,13,Jászai Mari tér,6,Jászai Mari tér 6.,19.047182,47.514082,street-segment,0,1
+d13-1529,13,Kádár utca,4,Kádár utca 4.,19.055592,47.51148,street-segment,0,0
+d13-1530,13,Kádár utca,6,Kádár utca 6.,19.055454,47.511536,street-segment,0,0
+d13-1531,13,Kárpát utca,3,Kárpát utca 3.,19.055446,47.523046,street-segment,0,0
+d13-1532,13,Kartács utca,14,Kartács utca 14.,19.077303,47.527895,street-segment,0,0
+d13-1533,13,Kassák Lajos út,61,Kassák Lajos út 61.,19.069194,47.528562,street-segment,0,0
+d13-1534,13,Kassák Lajos út,79,Kassák Lajos út 79.,19.069179,47.528493,street-segment,0,0
+d13-1535,13,Katona József utca,2/d,Katona József utca 2/d.,19.095676,47.554777,street-segment,0,0
+d13-1536,13,Katona József utca,2/e,Katona József utca 2/e.,19.095721,47.554811,street-segment,0,0
+d13-1537,13,Katona József utca,9-11,Katona József utca 9-11.,19.051318,47.513944,street-segment,0,1
+d13-1538,13,Katona József utca,10/a,Katona József utca 10/a.,19.047715,47.515029,street-segment,0,1
+d13-1539,13,Katona József utca,14,Katona József utca 14.,19.054988,47.512758,street-segment,0,1
+d13-1540,13,Katona József utca,17,Katona József utca 17.,19.096152,47.553494,street-segment,0,0
+d13-1541,13,Katona József utca,21,Katona József utca 21.,19.048517,47.514868,street-segment,0,1
+d13-1542,13,Katona József utca,23/a,Katona József utca 23/a.,19.047805,47.515081,street-segment,0,1
+d13-1543,13,Katona József utca,24,Katona József utca 24.,19.053682,47.513137,street-segment,0,1
+d13-1544,13,Katona József utca,25,Katona József utca 25.,19.055949,47.512483,street-segment,0,1
+d13-1545,13,Katona József utca,26,Katona József utca 26.,19.056839,47.512203,street-segment,0,0
+d13-1546,13,Katona József utca,28,Katona József utca 28.,19.095738,47.554937,street-segment,0,0
+d13-1547,13,Katona József utca,31,Katona József utca 31.,19.052879,47.513412,street-segment,0,1
+d13-1548,13,Katona József utca,39,Katona József utca 39.,19.056715,47.512272,street-segment,0,0
+d13-1549,13,Katona József utca,41,Katona József utca 41.,19.095634,47.554829,street-segment,0,0
+d13-1550,13,Kerekes utca,11/b,Kerekes utca 11/b.,19.083888,47.52603,street-segment,0,0
+d13-1551,13,Kerekes utca,25,Kerekes utca 25.,19.08302,47.526562,street-segment,0,0
+d13-1552,13,Kis Gömb utca,1,Kis Gömb utca 1.,19.06082,47.525696,district-bbox,0,0
+d13-1553,13,Kis Gömb utca,25,Kis Gömb utca 25.,19.055545,47.518586,district-bbox,0,0
+d13-1554,13,Kresz Géza utca,14,Kresz Géza utca 14.,19.058492,47.516715,street-segment,0,0
+d13-1555,13,Kresz Géza utca,16,Kresz Géza utca 16.,19.058277,47.516457,street-segment,0,0
+d13-1556,13,Kresz Géza utca,17,Kresz Géza utca 17.,19.056088,47.513211,street-segment,0,1
+d13-1557,13,Kresz Géza utca,18,Kresz Géza utca 18.,19.055225,47.512062,street-segment,0,1
+d13-1558,13,Kresz Géza utca,21,Kresz Géza utca 21.,19.057417,47.51536,street-segment,0,0
+d13-1559,13,Kresz Géza utca,24,Kresz Géza utca 24.,19.058124,47.516417,street-segment,0,0
+d13-1560,13,Kresz Géza utca,26,Kresz Géza utca 26.,19.055185,47.512173,street-segment,0,1
+d13-1561,13,Kresz Géza utca,29,Kresz Géza utca 29.,19.057523,47.515408,street-segment,0,0
+d13-1562,13,Kresz Géza utca,32,Kresz Géza utca 32.,19.058278,47.516374,street-segment,0,0
+d13-1563,13,Kresz Géza utca,36,Kresz Géza utca 36.,19.056859,47.514584,street-segment,0,0
+d13-1564,13,Lehel utca,4/c,Lehel utca 4/c.,19.075598,47.524517,street-segment,0,0
+d13-1565,13,Lehel utca,19,Lehel utca 19.,19.141079,47.459205,street-segment,0,0
+d13-1566,13,Mór utca,2-4,Mór utca 2-4.,19.08357,47.523842,street-segment,0,0
+d13-1567,13,Mór utca,10/a,Mór utca 10/a.,19.082782,47.524407,street-segment,0,0
+d13-1568,13,Palócz utca,10,Palócz utca 10.,19.066421,47.516806,district-bbox,0,0
+d13-1569,13,Palócz utca,18,Palócz utca 18.,19.066563,47.525396,district-bbox,0,0
+d13-1570,13,Pannónia utca,4,Pannónia utca 4.,19.1255,47.45484,street-segment,0,0
+d13-1571,13,Pannónia utca,6,Pannónia utca 6.,19.125365,47.448844,street-segment,0,0
+d13-1572,13,Pannónia utca,8,Pannónia utca 8.,19.058472,47.524782,street-segment,0,0
+d13-1573,13,Pannónia utca,9,Pannónia utca 9.,19.052779,47.51496,street-segment,0,1
+d13-1574,13,Pannónia utca,14,Pannónia utca 14.,19.126772,47.461782,street-segment,0,0
+d13-1575,13,Pannónia utca,15,Pannónia utca 15.,19.051061,47.512494,street-segment,0,1
+d13-1576,13,Pannónia utca,17/a,Pannónia utca 17/a.,19.057356,47.52274,street-segment,0,0
+d13-1577,13,Pannónia utca,17/b,Pannónia utca 17/b.,19.057417,47.52277,street-segment,0,0
+d13-1578,13,Pannónia utca,18,Pannónia utca 18.,19.125621,47.450908,street-segment,0,0
+d13-1579,13,Pannónia utca,19,Pannónia utca 19.,19.051253,47.513022,street-segment,0,1
+d13-1580,13,Pannónia utca,21,Pannónia utca 21.,19.056149,47.52021,street-segment,0,0
+d13-1581,13,Pannónia utca,25,Pannónia utca 25.,19.054783,47.51781,street-segment,0,1
+d13-1582,13,Pannónia utca,30,Pannónia utca 30.,19.125485,47.454741,street-segment,0,0
+d13-1583,13,Pannónia utca,31,Pannónia utca 31.,19.052325,47.514384,street-segment,0,1
+d13-1584,13,Pannónia utca,33,Pannónia utca 33.,19.125821,47.453815,street-segment,0,0
+d13-1585,13,Pannónia utca,36,Pannónia utca 36.,19.053675,47.516321,street-segment,0,1
+d13-1586,13,Pannónia utca,39,Pannónia utca 39.,19.058958,47.525783,street-segment,0,0
+d13-1587,13,Pannónia utca,40,Pannónia utca 40.,19.126729,47.461634,street-segment,0,0
+d13-1588,13,Pannónia utca,44,Pannónia utca 44.,19.125531,47.450927,street-segment,0,0
+d13-1589,13,Pannónia utca,48,Pannónia utca 48.,19.126384,47.458701,street-segment,0,0
+d13-1590,13,Pannónia utca,50,Pannónia utca 50.,19.050824,47.512241,street-segment,0,1
+d13-1591,13,Pannónia utca,54,Pannónia utca 54.,19.126813,47.462959,street-segment,0,0
+d13-1592,13,Pannónia utca,56,Pannónia utca 56.,19.12537,47.454769,street-segment,0,0
+d13-1593,13,Pannónia utca,64,Pannónia utca 64.,19.055639,47.519186,street-segment,0,0
+d13-1594,13,Petneházy utca,12,Petneházy utca 12.,19.07273,47.534354,street-segment,0,0
+d13-1595,13,Petneházy utca,20/b,Petneházy utca 20/b.,19.084892,47.53189,street-segment,0,0
+d13-1596,13,Petneházy utca,33,Petneházy utca 33.,19.087493,47.531096,street-segment,0,0
+d13-1597,13,Petneházy utca,38,Petneházy utca 38.,19.069045,47.535018,street-segment,0,0
+d13-1598,13,Pozsonyi út,1,Pozsonyi út 1.,19.048588,47.514011,street-segment,0,1
+d13-1599,13,Pozsonyi út,3,Pozsonyi út 3.,19.05162,47.518488,street-segment,0,1
+d13-1600,13,Pozsonyi út,4,Pozsonyi út 4.,19.053088,47.521394,street-segment,0,0
+d13-1601,13,Pozsonyi út,5,Pozsonyi út 5.,19.060021,47.579944,street-segment,0,0
+d13-1602,13,Pozsonyi út,7,Pozsonyi út 7.,19.089623,47.554661,street-segment,0,0
+d13-1603,13,Pozsonyi út,8,Pozsonyi út 8.,19.051737,47.518595,street-segment,0,1
+d13-1604,13,Pozsonyi út,10,Pozsonyi út 10.,19.060169,47.579978,street-segment,0,0
+d13-1605,13,Pozsonyi út,12,Pozsonyi út 12.,19.089647,47.554706,street-segment,0,0
+d13-1606,13,Pozsonyi út,14,Pozsonyi út 14.,19.053201,47.521364,street-segment,0,0
+d13-1607,13,Pozsonyi út,15-17,Pozsonyi út 15-17.,19.060071,47.579956,street-segment,0,0
+d13-1608,13,Pozsonyi út,16,Pozsonyi út 16.,19.048558,47.51408,street-segment,0,1
+d13-1609,13,Pozsonyi út,20,Pozsonyi út 20.,19.060026,47.579969,street-segment,0,0
+d13-1610,13,Pozsonyi út,22,Pozsonyi út 22.,19.089651,47.554629,street-segment,0,0
+d13-1611,13,Pozsonyi út,23,Pozsonyi út 23.,19.051726,47.518466,street-segment,0,1
+d13-1612,13,Pozsonyi út,24,Pozsonyi út 24.,19.053164,47.521494,street-segment,0,0
+d13-1613,13,Pozsonyi út,28,Pozsonyi út 28.,19.051699,47.518628,street-segment,0,1
+d13-1614,13,Pozsonyi út,30,Pozsonyi út 30.,19.060029,47.579841,street-segment,0,0
+d13-1615,13,Pozsonyi út,32,Pozsonyi út 32.,19.089603,47.554705,street-segment,0,0
+d13-1616,13,Pozsonyi út,33/a,Pozsonyi út 33/a.,19.051709,47.518541,street-segment,0,1
+d13-1617,13,Pozsonyi út,33/b,Pozsonyi út 33/b.,19.051644,47.518631,street-segment,0,1
+d13-1618,13,Pozsonyi út,35,Pozsonyi út 35.,19.060053,47.579978,street-segment,0,0
+d13-1619,13,Pozsonyi út,36,Pozsonyi út 36.,19.048517,47.513999,street-segment,0,1
+d13-1620,13,Pozsonyi út,39,Pozsonyi út 39.,19.053201,47.521439,street-segment,0,0
+d13-1621,13,Pozsonyi út,40,Pozsonyi út 40.,19.060051,47.579856,street-segment,0,0
+d13-1622,13,Pozsonyi út,42,Pozsonyi út 42.,19.089614,47.554733,street-segment,0,0
+d13-1623,13,Pozsonyi út,49,Pozsonyi út 49.,19.053103,47.521432,street-segment,0,0
+d13-1624,13,Pozsonyi út,54,Pozsonyi út 54.,19.053206,47.521406,street-segment,0,0
+d13-1625,13,Radnóti Miklós utca,2,Radnóti Miklós utca 2.,19.057497,47.513611,street-segment,0,0
+d13-1626,13,Radnóti Miklós utca,4-6,Radnóti Miklós utca 4-6.,19.049794,47.516139,street-segment,0,1
+d13-1627,13,Radnóti Miklós utca,5-7,Radnóti Miklós utca 5-7.,19.055605,47.514287,street-segment,0,1
+d13-1628,13,Radnóti Miklós utca,11,Radnóti Miklós utca 11.,19.048611,47.516554,street-segment,0,1
+d13-1629,13,Radnóti Miklós utca,19/b,Radnóti Miklós utca 19/b.,19.04871,47.516514,street-segment,0,1
+d13-1630,13,Radnóti Miklós utca,25,Radnóti Miklós utca 25.,19.049088,47.516436,street-segment,0,1
+d13-1631,13,Radnóti Miklós utca,29,Radnóti Miklós utca 29.,19.055733,47.514272,street-segment,0,1
+d13-1632,13,Radnóti Miklós utca,34,Radnóti Miklós utca 34.,19.057571,47.513703,street-segment,0,0
+d13-1633,13,Radnóti Miklós utca,40,Radnóti Miklós utca 40.,19.050592,47.515894,street-segment,0,1
+d13-1634,13,Radnóti Miklós utca,41,Radnóti Miklós utca 41.,19.049255,47.516397,street-segment,0,1
+d13-1635,13,Radnóti Miklós utca,43,Radnóti Miklós utca 43.,19.048652,47.516535,street-segment,0,1
+d13-1636,13,Radnóti Miklós utca,45,Radnóti Miklós utca 45.,19.055706,47.514393,street-segment,0,1
+d13-1637,13,Raoul Wallenberg utca,5,Raoul Wallenberg utca 5.,19.051636,47.514757,street-segment,0,1
+d13-1638,13,Raoul Wallenberg utca,7,Raoul Wallenberg utca 7.,19.051559,47.51486,street-segment,0,1
+d13-1639,13,Raoul Wallenberg utca,14,Raoul Wallenberg utca 14.,19.050145,47.51521,street-segment,0,1
+d13-1640,13,Reitter Ferenc utca,16,Reitter Ferenc utca 16.,19.09415,47.545633,street-segment,0,0
+d13-1641,13,Reitter Ferenc utca,20,Reitter Ferenc utca 20.,19.082141,47.524871,street-segment,0,0
+d13-1642,13,Reitter Ferenc utca,21/a,Reitter Ferenc utca 21/a.,19.088121,47.535634,street-segment,0,0
+d13-1643,13,Révész utca,6/d,Révész utca 6/d.,19.063008,47.526046,street-segment,0,0
+d13-1644,13,Révész utca,9,Révész utca 9.,19.060528,47.527056,street-segment,0,0
+d13-1645,13,Révész utca,11,Révész utca 11.,19.060381,47.526996,street-segment,0,0
+d13-1646,13,Róbert Károly körút,55,Róbert Károly körút 55.,19.081818,47.522993,street-segment,0,0
+d13-1647,13,Róbert Károly körút,56,Róbert Károly körút 56.,19.066888,47.532687,street-segment,0,0
+d13-1648,13,Röppentyű utca,25,Röppentyű utca 25.,19.075045,47.535369,street-segment,0,0
+d13-1649,13,Röppentyű utca,34,Röppentyű utca 34.,19.075855,47.537096,street-segment,0,0
+d13-1650,13,Szegedi út,58,Szegedi út 58.,19.084842,47.527612,street-segment,0,0
+d13-1651,13,Szekszárdi utca,15/a,Szekszárdi utca 15/a.,19.079278,47.55287,street-segment,0,0
+d13-1652,13,Szekszárdi utca,16/a,Szekszárdi utca 16/a.,19.083427,47.552202,street-segment,0,0
+d13-1653,13,Szekszárdi utca,17/a,Szekszárdi utca 17/a.,19.079295,47.552892,street-segment,0,0
+d13-1654,13,Szent István körút,4,Szent István körút 4.,19.048015,47.513281,street-segment,0,1
+d13-1655,13,Szent István körút,8,Szent István körút 8.,19.048053,47.51322,street-segment,0,1
+d13-1656,13,Szent István körút,10,Szent István körút 10.,19.052298,47.511732,street-segment,0,1
+d13-1657,13,Szent István körút,20,Szent István körút 20.,19.049566,47.512779,street-segment,0,1
+d13-1658,13,Szent István körút,24,Szent István körút 24.,19.049866,47.512467,street-segment,0,1
+d13-1659,13,Szent István körút,30,Szent István körút 30.,19.048345,47.51292,street-segment,0,1
+d13-1660,13,Szent István park,2,Szent István park 2.,19.051549,47.519581,street-segment,0,0
+d13-1661,13,Szent István park,3,Szent István park 3.,19.051673,47.519698,street-segment,0,0
+d13-1662,13,Szent István park,4,Szent István park 4.,19.05156,47.519617,street-segment,0,0
+d13-1663,13,Szent István park,6,Szent István park 6.,19.051558,47.519719,street-segment,0,0
+d13-1664,13,Szent István park,8,Szent István park 8.,19.05165,47.519659,street-segment,0,0
+d13-1665,13,Szent István park,10,Szent István park 10.,19.051521,47.51959,street-segment,0,0
+d13-1666,13,Szent István park,11,Szent István park 11.,19.05155,47.519683,street-segment,0,0
+d13-1667,13,Szent István park,14,Szent István park 14.,19.051573,47.519741,street-segment,0,0
+d13-1668,13,Szent István park,16,Szent István park 16.,19.051527,47.519651,street-segment,0,0
+d13-1669,13,Szent István park,22,Szent István park 22.,19.05152,47.519602,street-segment,0,0
+d13-1670,13,Szent István park,23,Szent István park 23.,19.05169,47.51968,street-segment,0,0
+d13-1671,13,Szent István park,25,Szent István park 25.,19.051694,47.519719,street-segment,0,0
+d13-1672,13,Szent István park,35,Szent István park 35.,19.051692,47.519723,street-segment,0,0
+d13-1673,13,Szent László út,12/a,Szent László út 12/a.,19.083977,47.524135,street-segment,0,0
+d13-1674,13,Szent László út,12/b,Szent László út 12/b.,19.083921,47.524159,street-segment,0,0
+d13-1675,13,Szent László út,13,Szent László út 13.,19.096101,47.544852,street-segment,0,0
+d13-1676,13,Szent László út,32,Szent László út 32.,19.083903,47.524177,street-segment,0,0
+d13-1677,13,Szent László út,49,Szent László út 49.,19.09611,47.544859,street-segment,0,0
+d13-1678,13,Szent László út,51,Szent László út 51.,19.096043,47.544895,street-segment,0,0
+d13-1679,13,Szent László út,97/a,Szent László út 97/a.,19.096107,47.544951,street-segment,0,0
+d13-1680,13,Tátra utca,3,Tátra utca 3.,19.107898,47.572408,street-segment,0,0
+d13-1681,13,Tátra utca,4,Tátra utca 4.,19.052012,47.515551,street-segment,0,1
+d13-1682,13,Tátra utca,5/a,Tátra utca 5/a.,19.107765,47.572461,street-segment,0,0
+d13-1683,13,Tátra utca,5/c,Tátra utca 5/c.,19.107839,47.572554,street-segment,0,0
+d13-1684,13,Tátra utca,6,Tátra utca 6.,19.052031,47.515592,street-segment,0,1
+d13-1685,13,Tátra utca,7,Tátra utca 7.,19.107727,47.57254,street-segment,0,0
+d13-1686,13,Tátra utca,8,Tátra utca 8.,19.052053,47.515547,street-segment,0,1
+d13-1687,13,Tátra utca,9,Tátra utca 9.,19.107883,47.572511,street-segment,0,0
+d13-1688,13,Tátra utca,12/a,Tátra utca 12/a.,19.052021,47.515648,street-segment,0,1
+d13-1689,13,Tátra utca,14-16,Tátra utca 14-16.,19.052098,47.51553,street-segment,0,1
+d13-1690,13,Tátra utca,15/a,Tátra utca 15/a.,19.107878,47.572482,street-segment,0,0
+d13-1691,13,Tátra utca,15/b,Tátra utca 15/b.,19.10789,47.572444,street-segment,0,0
+d13-1692,13,Tátra utca,18,Tátra utca 18.,19.051977,47.515673,street-segment,0,1
+d13-1693,13,Tátra utca,20/a,Tátra utca 20/a.,19.051964,47.5156,street-segment,0,1
+d13-1694,13,Tátra utca,22/b,Tátra utca 22/b.,19.052016,47.515618,street-segment,0,1
+d13-1695,13,Tátra utca,24,Tátra utca 24.,19.052086,47.515662,street-segment,0,1
+d13-1696,13,Tátra utca,25,Tátra utca 25.,19.107773,47.572541,street-segment,0,0
+d13-1697,13,Tátra utca,26,Tátra utca 26.,19.051983,47.515573,street-segment,0,1
+d13-1698,13,Tátra utca,27/b,Tátra utca 27/b.,19.107898,47.572561,street-segment,0,0
+d13-1699,13,Tátra utca,28,Tátra utca 28.,19.052021,47.515648,street-segment,0,1
+d13-1700,13,Tátra utca,29/a,Tátra utca 29/a.,19.107887,47.572466,street-segment,0,0
+d13-1701,13,Tátra utca,29/b,Tátra utca 29/b.,19.107841,47.572492,street-segment,0,0
+d13-1702,13,Tátra utca,31,Tátra utca 31.,19.107848,47.572426,street-segment,0,0
+d13-1703,13,Tátra utca,32,Tátra utca 32.,19.052047,47.515665,street-segment,0,1
+d13-1704,13,Tátra utca,33/b,Tátra utca 33/b.,19.107818,47.572541,street-segment,0,0
+d13-1705,13,Tátra utca,36,Tátra utca 36.,19.052106,47.515516,street-segment,0,1
+d13-1706,13,Tátra utca,37,Tátra utca 37.,19.107814,47.572457,street-segment,0,0
+d13-1707,13,Tátra utca,38,Tátra utca 38.,19.051952,47.515516,street-segment,0,1
+d13-1708,13,Tátra utca,39,Tátra utca 39.,19.107742,47.572399,street-segment,0,0
+d13-1709,13,Tátra utca,44,Tátra utca 44.,19.052039,47.515662,street-segment,0,1
+d13-1710,13,Tátra utca,46,Tátra utca 46.,19.052045,47.515623,street-segment,0,1
+d13-1711,13,Thurzó utca,5/a,Thurzó utca 5/a.,19.055331,47.519132,street-segment,0,0
+d13-1712,13,Thurzó utca,21,Thurzó utca 21.,19.055494,47.51907,street-segment,0,0
+d13-1713,13,Toborzó köz,7,Toborzó köz 7.,19.079474,47.556948,street-segment,0,0
+d13-1714,13,Tüzér utca,43,Tüzér utca 43.,19.071745,47.525552,street-segment,0,0
+d13-1715,13,Újpesti rakpart,5,Újpesti rakpart 5.,19.048766,47.516879,street-segment,0,1
+d13-1716,13,Újpesti rakpart,7,Újpesti rakpart 7.,19.048544,47.516136,street-segment,0,1
+d13-1717,13,Újpesti rakpart,8,Újpesti rakpart 8.,19.052462,47.521763,street-segment,0,0
+d13-1718,13,Újpesti rakpart,9,Újpesti rakpart 9.,19.048045,47.515441,street-segment,0,1
+d13-1719,13,Újpesti rakpart,41,Újpesti rakpart 41.,19.049813,47.518221,street-segment,0,1
+d13-1720,13,Üteg utca,16/a,Üteg utca 16/a.,19.074933,47.528433,street-segment,0,0
+d13-1721,13,Váci út,4,Váci út 4.,19.074547,47.552257,street-segment,0,0
+d13-1722,13,Váci út,6,Váci út 6.,19.074065,47.551111,street-segment,0,0
+d13-1723,13,Váci út,12,Váci út 12.,19.056073,47.510727,street-segment,0,0
+d13-1724,13,Váci út,16,Váci út 16.,19.078376,47.561881,street-segment,0,0
+d13-1725,13,Váci út,28,Váci út 28.,19.073136,47.548549,street-segment,0,0
+d13-1726,13,Váci út,32,Váci út 32.,19.081478,47.579953,street-segment,0,0
+d13-1727,13,Váci út,51/a,Váci út 51/a.,19.080471,47.569617,street-segment,0,0
+d13-1728,13,Váci út,51/b,Váci út 51/b.,19.08053,47.569487,street-segment,0,0
+d13-1729,13,Victor Hugo utca,3,Victor Hugo utca 3.,19.057137,47.517974,street-segment,0,0
+d13-1730,13,Victor Hugo utca,28,Victor Hugo utca 28.,19.058377,47.517687,street-segment,0,0
+d13-1731,13,Victor Hugo utca,29,Victor Hugo utca 29.,19.059418,47.517433,street-segment,0,0
+d13-1732,13,Victor Hugo utca,32,Victor Hugo utca 32.,19.059982,47.517294,street-segment,0,0
+d13-1733,13,Victor Hugo utca,36,Victor Hugo utca 36.,19.058421,47.517557,street-segment,0,0
+d13-1734,13,Vígszínház utca,5,Vígszínház utca 5.,19.051932,47.512795,street-segment,0,1
+d13-1735,13,Visegrádi utca,3,Visegrádi utca 3.,19.06337,47.528179,street-segment,0,0
+d13-1736,13,Visegrádi utca,9,Visegrádi utca 9.,19.062797,47.528369,street-segment,0,0
+d13-1737,13,Visegrádi utca,11/a,Visegrádi utca 11/a.,19.063335,47.52785,street-segment,0,0
+d13-1738,13,Visegrádi utca,14,Visegrádi utca 14.,19.063531,47.528157,street-segment,0,0
+d13-1739,13,Visegrádi utca,15,Visegrádi utca 15.,19.05735,47.517123,street-segment,0,0
+d13-1740,13,Visegrádi utca,17,Visegrádi utca 17.,19.058239,47.518969,street-segment,0,0
+d13-1741,13,Visegrádi utca,23,Visegrádi utca 23.,19.060116,47.522549,street-segment,0,0
+d13-1742,13,Visegrádi utca,25,Visegrádi utca 25.,19.0634,47.528291,street-segment,0,0
+d13-1743,13,Visegrádi utca,29,Visegrádi utca 29.,19.063961,47.530992,street-segment,0,0
+d13-1744,13,Visegrádi utca,38/b,Visegrádi utca 38/b.,19.061238,47.525032,street-segment,0,0
+d13-1745,13,Visegrádi utca,60,Visegrádi utca 60.,19.061288,47.525171,street-segment,0,0
+d13-1746,13,Zsinór utca,23,Zsinór utca 23.,19.08974,47.535357,street-segment,0,0
+d13-1747,13,Zsinór utca,42,Zsinór utca 42.,19.088335,47.535599,street-segment,0,0
+d14-1748,14,Abonyi utca,3/a,Abonyi utca 3/a.,19.087602,47.505676,street-segment,0,0
+d14-1749,14,Abonyi utca,5,Abonyi utca 5.,19.087572,47.505532,street-segment,0,0
+d14-1750,14,Abonyi utca,8,Abonyi utca 8.,19.090124,47.507547,street-segment,0,0
+d14-1751,14,Abonyi utca,10,Abonyi utca 10.,19.09005,47.507455,street-segment,0,0
+d14-1752,14,Amerikai út,48,Amerikai út 48.,19.093933,47.520728,street-segment,0,0
+d14-1753,14,Amerikai út,74,Amerikai út 74.,19.104924,47.513182,street-segment,0,0
+d14-1754,14,Amerikai út,76,Amerikai út 76.,19.095535,47.519677,street-segment,0,0
+d14-1755,14,Amerikai út,77,Amerikai út 77.,19.09294,47.521483,street-segment,0,0
+d14-1756,14,Amerikai út,78,Amerikai út 78.,19.093893,47.520828,street-segment,0,0
+d14-1757,14,Amerikai út,87,Amerikai út 87.,19.092974,47.521365,street-segment,0,0
+d14-1758,14,Amerikai út,89,Amerikai út 89.,19.104988,47.513133,street-segment,0,0
+d14-1759,14,Bácskai utca,4/c,Bácskai utca 4/c.,19.108147,47.519061,street-segment,0,0
+d14-1760,14,Bácskai utca,14/a,Bácskai utca 14/a.,19.10273,47.515507,street-segment,0,0
+d14-1761,14,Bácskai utca,14/b,Bácskai utca 14/b.,19.102629,47.515523,street-segment,0,0
+d14-1762,14,Bácskai utca,52,Bácskai utca 52.,19.10815,47.519055,street-segment,0,0
+d14-1763,14,Beckó utca,22,Beckó utca 22.,19.124532,47.519346,street-segment,0,0
+d14-1764,14,Benkő utca,15,Benkő utca 15.,19.121293,47.51815,street-segment,0,0
+d14-1765,14,Benkő utca,20,Benkő utca 20.,19.11943,47.516721,street-segment,0,0
+d14-1766,14,Benkő utca,50,Benkő utca 50.,19.11934,47.516653,street-segment,0,0
+d14-1767,14,Bonyhádi út,68,Bonyhádi út 68.,19.139349,47.518233,street-segment,0,0
+d14-1768,14,Bonyhádi út,82/a,Bonyhádi út 82/a.,19.142205,47.519928,street-segment,0,0
+d14-1769,14,Bonyhádi út,82/b,Bonyhádi út 82/b.,19.142177,47.520013,street-segment,0,0
+d14-1770,14,Bosnyák utca,5,Bosnyák utca 5.,19.113643,47.518396,street-segment,0,0
+d14-1771,14,Bosnyák utca,7/a,Bosnyák utca 7/a.,19.113651,47.518297,street-segment,0,0
+d14-1772,14,Bosnyák utca,8,Bosnyák utca 8.,19.112899,47.517938,street-segment,0,0
+d14-1773,14,Bosnyák utca,9,Bosnyák utca 9.,19.113661,47.518432,street-segment,0,0
+d14-1774,14,Bosnyák utca,15,Bosnyák utca 15.,19.113682,47.518388,street-segment,0,0
+d14-1775,14,Bosnyák utca,17/b,Bosnyák utca 17/b.,19.113658,47.518314,street-segment,0,0
+d14-1776,14,Cházár András utca,7,Cházár András utca 7.,19.089975,47.506256,street-segment,0,0
+d14-1777,14,Cházár András utca,9,Cházár András utca 9.,19.091798,47.504489,street-segment,0,0
+d14-1778,14,Cházár András utca,18,Cházár András utca 18.,19.090925,47.505606,street-segment,0,0
+d14-1779,14,Columbus utca,10/a,Columbus utca 10/a.,19.094113,47.518776,street-segment,0,0
+d14-1780,14,Columbus utca,22/b,Columbus utca 22/b.,19.094034,47.518772,street-segment,0,0
+d14-1781,14,Columbus utca,29,Columbus utca 29.,19.103733,47.51212,street-segment,0,0
+d14-1782,14,Columbus utca,50,Columbus utca 50.,19.098263,47.515751,street-segment,0,0
+d14-1783,14,Columbus utca,63/a,Columbus utca 63/a.,19.092598,47.519907,street-segment,0,0
+d14-1784,14,Csáktornya utca,6,Csáktornya utca 6.,19.104102,47.536744,street-segment,0,0
+d14-1785,14,Csernyus utca,44,Csernyus utca 44.,19.131295,47.514003,street-segment,0,0
+d14-1786,14,Czobor utca,10,Czobor utca 10.,19.107139,47.525745,street-segment,0,0
+d14-1787,14,Czobor utca,11,Czobor utca 11.,19.107188,47.525665,street-segment,0,0
+d14-1788,14,Czobor utca,19,Czobor utca 19.,19.107163,47.525838,street-segment,0,0
+d14-1789,14,Czobor utca,27,Czobor utca 27.,19.107149,47.525772,street-segment,0,0
+d14-1790,14,Czobor utca,40,Czobor utca 40.,19.107237,47.525828,street-segment,0,0
+d14-1791,14,Czobor utca,44/a,Czobor utca 44/a.,19.107173,47.525769,street-segment,0,0
+d14-1792,14,Czobor utca,45/b,Czobor utca 45/b.,19.10722,47.525694,street-segment,0,0
+d14-1793,14,Czobor utca,80/a,Czobor utca 80/a.,19.10721,47.525786,street-segment,0,0
+d14-1794,14,Czobor utca,82,Czobor utca 82.,19.107171,47.525829,street-segment,0,0
+d14-1795,14,Czobor utca,103,Czobor utca 103.,19.107109,47.525661,street-segment,0,0
+d14-1796,14,Czobor utca,108,Czobor utca 108.,19.107212,47.525733,street-segment,0,0
+d14-1797,14,Dorozsma köz,7,Dorozsma köz 7.,19.094455,47.521248,street-segment,0,0
+d14-1798,14,Dorozsmai utca,39/a,Dorozsmai utca 39/a.,19.101476,47.525945,street-segment,0,0
+d14-1799,14,Dorozsmai utca,78,Dorozsmai utca 78.,19.096719,47.521448,street-segment,0,0
+d14-1800,14,Dorozsmai utca,118,Dorozsmai utca 118.,19.11104,47.536676,street-segment,0,0
+d14-1801,14,Dorozsmai utca,123,Dorozsmai utca 123.,19.108448,47.533869,street-segment,0,0
+d14-1802,14,Dorozsmai utca,163,Dorozsmai utca 163.,19.110033,47.535662,street-segment,0,0
+d14-1803,14,Dózsa Gyórgy út,17,Dózsa Gyórgy út 17.,19.102412,47.499974,street-segment,0,0
+d14-1804,14,Edison köz,10,Edison köz 10.,19.095111,47.518984,street-segment,0,0
+d14-1805,14,Egressy út,25,Egressy út 25.,19.109858,47.508993,street-segment,0,0
+d14-1806,14,Erzsébet királyné útja,2,Erzsébet királyné útja 2.,19.107347,47.528968,street-segment,0,0
+d14-1807,14,Erzsébet királyné útja,2/b,Erzsébet királyné útja 2/b.,19.107405,47.528988,street-segment,0,0
+d14-1808,14,Erzsébet királyné útja,10/f,Erzsébet királyné útja 10/f.,19.102185,47.523017,street-segment,0,0
+d14-1809,14,Erzsébet királyné útja,29,Erzsébet királyné útja 29.,19.101612,47.522355,street-segment,0,0
+d14-1810,14,Erzsébet királyné útja,83,Erzsébet királyné útja 83.,19.098027,47.520136,street-segment,0,0
+d14-1811,14,Erzsébet királyné útja,98/a,Erzsébet királyné útja 98/a.,19.112696,47.534807,street-segment,0,0
+d14-1812,14,Felsőőr utca,10,Felsőőr utca 10.,19.100558,47.525842,street-segment,0,0
+d14-1813,14,Francia út,50/d,Francia út 50/d.,19.105421,47.507896,street-segment,0,0
+d14-1814,14,Fráter György utca,31,Fráter György utca 31.,19.11899,47.510475,street-segment,0,0
+d14-1815,14,Fűrész utca,24/b,Fűrész utca 24/b.,19.118408,47.520867,street-segment,0,0
+d14-1816,14,Fűrész utca,29,Fűrész utca 29.,19.107155,47.525261,street-segment,0,0
+d14-1817,14,Fűzfő utca,12,Fűzfő utca 12.,19.10856,47.513279,street-segment,0,0
+d14-1818,14,Gizella út,1,Gizella út 1.,19.100151,47.508128,street-segment,0,0
+d14-1819,14,Gizella út,53-55,Gizella út 53-55.,19.100183,47.508242,street-segment,0,0
+d14-1820,14,Gyanafalva utca,12,Gyanafalva utca 12.,19.102152,47.527668,street-segment,0,0
+d14-1821,14,Gyarmat utca,9,Gyarmat utca 9.,19.10489,47.518826,street-segment,0,0
+d14-1822,14,Gyarmat utca,17,Gyarmat utca 17.,19.110623,47.523519,street-segment,0,0
+d14-1823,14,Gyarmat utca,30,Gyarmat utca 30.,19.10756,47.520703,street-segment,0,0
+d14-1824,14,Gyarmat utca,65/a,Gyarmat utca 65/a.,19.110512,47.523434,street-segment,0,0
+d14-1825,14,Gyarmat utca,71,Gyarmat utca 71.,19.110682,47.523393,street-segment,0,0
+d14-1826,14,Gyarmat utca,95,Gyarmat utca 95.,19.110648,47.523527,street-segment,0,0
+d14-1827,14,Gyarmat utca,116,Gyarmat utca 116.,19.106353,47.5198,street-segment,0,0
+d14-1828,14,Hajtsár út,187,Hajtsár út 187.,19.083492,47.522277,street-segment,0,0
+d14-1829,14,Hermina út,8,Hermina út 8.,19.089845,47.51569,street-segment,0,0
+d14-1830,14,Hermina út,12,Hermina út 12.,19.085864,47.518476,street-segment,0,0
+d14-1831,14,Hermina út,14,Hermina út 14.,19.088591,47.516574,street-segment,0,0
+d14-1832,14,Hermina út,22,Hermina út 22.,19.091923,47.514258,street-segment,0,0
+d14-1833,14,Ilka utca,43,Ilka utca 43.,19.098982,47.507488,street-segment,0,0
+d14-1834,14,Ilka utca,46,Ilka utca 46.,19.099002,47.507362,street-segment,0,0
+d14-1835,14,Ilka utca,48,Ilka utca 48.,19.093938,47.511733,street-segment,0,0
+d14-1836,14,Ilka utca,52,Ilka utca 52.,19.099072,47.507348,street-segment,0,0
+d14-1837,14,Ilosvay Selymes utca,6/a,Ilosvay Selymes utca 6/a.,19.111308,47.520782,district-bbox,0,0
+d14-1838,14,Ilosvay Selymes utca,21/b,Ilosvay Selymes utca 21/b.,19.085648,47.517147,district-bbox,0,0
+d14-1839,14,Ilosvay Selymes utca,22,Ilosvay Selymes utca 22.,19.101371,47.521111,district-bbox,0,0
+d14-1840,14,Ilosvay Selymes utca,23/a,Ilosvay Selymes utca 23/a.,19.107291,47.525875,district-bbox,0,0
+d14-1841,14,Ilosvay Selymes utca,39,Ilosvay Selymes utca 39.,19.097676,47.518245,district-bbox,0,0
+d14-1842,14,Ilosvay Selymes utca,49,Ilosvay Selymes utca 49.,19.099008,47.515245,district-bbox,0,0
+d14-1843,14,Ipolyság utca,7,Ipolyság utca 7.,19.142188,47.518649,street-segment,0,0
+d14-1844,14,Istvánffy utca,24/a,Istvánffy utca 24/a.,19.117993,47.530409,street-segment,0,0
+d14-1845,14,Istvánffy utca,27,Istvánffy utca 27.,19.115272,47.527657,street-segment,0,0
+d14-1846,14,Istvánffy utca,27/b,Istvánffy utca 27/b.,19.115133,47.527804,street-segment,0,0
+d14-1847,14,Istvánffy utca,52/a,Istvánffy utca 52/a.,19.115143,47.527734,street-segment,0,0
+d14-1848,14,Jávor utca,8,Jávor utca 8.,19.093742,47.510336,street-segment,0,0
+d14-1849,14,Jávorka Ádám utca,13,Jávorka Ádám utca 13.,19.114679,47.522812,street-segment,0,0
+d14-1850,14,Jávorka Ádám utca,16,Jávorka Ádám utca 16.,19.11207,47.52051,street-segment,0,0
+d14-1851,14,Jávorka Ádám utca,17,Jávorka Ádám utca 17.,19.11472,47.522936,street-segment,0,0
+d14-1852,14,Jávorka Ádám utca,48,Jávorka Ádám utca 48.,19.111903,47.52051,street-segment,0,0
+d14-1853,14,Jerney utca,24,Jerney utca 24.,19.12336,47.51563,street-segment,0,0
+d14-1854,14,Jerney utca,28,Jerney utca 28.,19.122599,47.515711,street-segment,0,0
+d14-1855,14,Jurisich Miklós utca,3,Jurisich Miklós utca 3.,19.104466,47.504266,street-segment,0,0
+d14-1856,14,Jurisich Miklós utca,6,Jurisich Miklós utca 6.,19.106416,47.505213,street-segment,0,0
+d14-1857,14,Jurisich Miklós utca,14,Jurisich Miklós utca 14.,19.106378,47.505292,street-segment,0,0
+d14-1858,14,Kassai köz,3,Kassai köz 3.,19.095937,47.521036,district-bbox,0,0
+d14-1859,14,Kassai utca,4,Kassai utca 4.,19.108569,47.532403,street-segment,0,0
+d14-1860,14,Kassai utca,34,Kassai utca 34.,19.180884,47.532048,street-segment,0,0
+d14-1861,14,Kassai utca,116,Kassai utca 116.,19.091423,47.560836,street-segment,0,0
+d14-1862,14,Kerékgyártó utca,13/a,Kerékgyártó utca 13/a.,19.112228,47.527328,street-segment,0,0
+d14-1863,14,Kerepesi út,130,Kerepesi út 130.,19.111315,47.500379,street-segment,0,0
+d14-1864,14,Korong utca,3,Korong utca 3.,19.104246,47.519232,street-segment,0,0
+d14-1865,14,Korong utca,37/a,Korong utca 37/a.,19.099983,47.516706,street-segment,0,0
+d14-1866,14,Kövér Lajos utca,64,Kövér Lajos utca 64.,19.118632,47.511445,street-segment,0,0
+d14-1867,14,Laky Adolf utca,22,Laky Adolf utca 22.,19.103141,47.515862,street-segment,0,0
+d14-1868,14,Lengyel utca,14,Lengyel utca 14.,19.123498,47.514484,street-segment,0,0
+d14-1869,14,Limanova tér,4,Limanova tér 4.,19.103665,47.521024,street-segment,0,0
+d14-1870,14,Lipótvár utca,10,Lipótvár utca 10.,19.129403,47.526965,street-segment,0,0
+d14-1871,14,Lipótvár utca,34/b,Lipótvár utca 34/b.,19.129422,47.526929,street-segment,0,0
+d14-1872,14,Lőcsei út,20/b,Lőcsei út 20/b.,19.11396,47.520666,street-segment,0,0
+d14-1873,14,Lőcsei út,39,Lőcsei út 39.,19.110666,47.521751,street-segment,0,0
+d14-1874,14,Lőcsei út,61,Lőcsei út 61.,19.114041,47.520667,street-segment,0,0
+d14-1875,14,Lőcsei út,81,Lőcsei út 81.,19.114538,47.520385,street-segment,0,0
+d14-1876,14,Lőcsei út,82,Lőcsei út 82.,19.101378,47.524748,street-segment,0,0
+d14-1877,14,Mexikói út,42/a,Mexikói út 42/a.,19.092083,47.51833,street-segment,0,0
+d14-1878,14,Mexikói út,42/b,Mexikói út 42/b.,19.092029,47.518417,street-segment,0,0
+d14-1879,14,Mimóza utca,8,Mimóza utca 8.,19.092719,47.514896,street-segment,0,0
+d14-1880,14,Mimóza utca,9,Mimóza utca 9.,19.092691,47.514771,street-segment,0,0
+d14-1881,14,Mirtusz utca,46,Mirtusz utca 46.,19.13745,47.50787,street-segment,0,0
+d14-1882,14,Miskolczi utca,60,Miskolczi utca 60.,19.10722,47.524037,district-bbox,0,0
+d14-1883,14,Miskolczi utca,100,Miskolczi utca 100.,19.091631,47.527233,district-bbox,0,0
+d14-1884,14,Mogyoródi út,92,Mogyoródi út 92.,19.140107,47.52391,street-segment,0,0
+d14-1885,14,Mogyoródi út,96,Mogyoródi út 96.,19.141895,47.525283,street-segment,0,0
+d14-1886,14,Mogyoródi út,122,Mogyoródi út 122.,19.108056,47.502773,street-segment,0,0
+d14-1887,14,Mogyoródi út,131,Mogyoródi út 131.,19.116149,47.507641,street-segment,0,0
+d14-1888,14,Nagy Lajos király útja,136,Nagy Lajos király útja 136.,19.114553,47.518228,street-segment,0,0
+d14-1889,14,Nagy Lajos király útja,150,Nagy Lajos király útja 150.,19.112073,47.519288,street-segment,0,0
+d14-1890,14,Nagy Lajos király útja,161,Nagy Lajos király útja 161.,19.097838,47.523777,street-segment,0,0
+d14-1891,14,Nagybecskerek tér,9,Nagybecskerek tér 9.,19.10786,47.519888,street-segment,0,0
+d14-1892,14,Nezsider utca,15,Nezsider utca 15.,19.100981,47.526323,street-segment,0,0
+d14-1893,14,Ógyalla utca,12,Ógyalla utca 12.,19.095799,47.525527,street-segment,0,0
+d14-1894,14,Ond vezér útja,58,Ond vezér útja 58.,19.139868,47.50633,street-segment,0,0
+d14-1895,14,Pálma utca,13,Pálma utca 13.,19.090214,47.516519,street-segment,0,0
+d14-1896,14,Pancsova utca,4,Pancsova utca 4.,19.108538,47.519729,street-segment,0,0
+d14-1897,14,Pósa Lajos utca,18,Pósa Lajos utca 18.,19.120991,47.515743,street-segment,0,0
+d14-1898,14,Pósa Lajos utca,52,Pósa Lajos utca 52.,19.171557,47.506368,street-segment,0,0
+d14-1899,14,Rákospatak utca,89/a,Rákospatak utca 89/a.,19.107528,47.528989,street-segment,0,0
+d14-1900,14,Rákosszeg utca,26,Rákosszeg utca 26.,19.106954,47.531173,street-segment,0,0
+d14-1901,14,Ráskay Lea,18,Ráskay Lea 18.,19.112508,47.514075,district-bbox,0,0
+d14-1902,14,Ráskay Lea,22,Ráskay Lea 22.,19.110141,47.525971,district-bbox,0,0
+d14-1903,14,Ráskay Lea,46,Ráskay Lea 46.,19.100958,47.51807,district-bbox,0,0
+d14-1904,14,Róna utca,109,Róna utca 109.,19.106925,47.517131,street-segment,0,0
+d14-1905,14,Róna utca,183,Róna utca 183.,19.100231,47.521959,street-segment,0,0
+d14-1906,14,Róna utca,209,Róna utca 209.,19.115278,47.511453,street-segment,0,0
+d14-1907,14,Semsey Andor utca,2/b,Semsey Andor utca 2/b.,19.102673,47.509237,street-segment,0,0
+d14-1908,14,Semsey Andor utca,8,Semsey Andor utca 8.,19.102626,47.509304,street-segment,0,0
+d14-1909,14,Stefánia út,27/a,Stefánia út 27/a.,19.095421,47.507923,street-segment,0,0
+d14-1910,14,Stefánia út,41/a,Stefánia út 41/a.,19.092317,47.510092,street-segment,0,0
+d14-1911,14,Szabó Lőrinc utca,8/b,Szabó Lőrinc utca 8/b.,19.102813,47.511584,street-segment,0,0
+d14-1912,14,Szabó Lőrinc utca,10,Szabó Lőrinc utca 10.,19.102885,47.511675,street-segment,0,0
+d14-1913,14,Szatmár utca,4,Szatmár utca 4.,19.106962,47.527032,street-segment,0,0
+d14-1914,14,Szatmár utca,93,Szatmár utca 93.,19.103295,47.523136,street-segment,0,0
+d14-1915,14,Szentmihályi út,17/b,Szentmihályi út 17/b.,19.145259,47.547539,street-segment,0,0
+d14-1916,14,Szentmihályi út,19/a,Szentmihályi út 19/a.,19.124719,47.557714,street-segment,0,0
+d14-1917,14,Szentmihályi út,22,Szentmihályi út 22.,19.141052,47.548175,street-segment,0,0
+d14-1918,14,Szenttamás utca,15,Szenttamás utca 15.,19.105528,47.509319,street-segment,0,0
+d14-1919,14,Szobránc köz,2,Szobránc köz 2.,19.104746,47.503624,street-segment,0,0
+d14-1920,14,Szobránc köz,4,Szobránc köz 4.,19.104897,47.503643,street-segment,0,0
+d14-1921,14,Szobránc utca,2/a,Szobránc utca 2/a.,19.103999,47.505527,street-segment,0,0
+d14-1922,14,Szugló utca,4,Szugló utca 4.,19.11347,47.515497,street-segment,0,0
+d14-1923,14,Szugló utca,129,Szugló utca 129.,19.122051,47.522409,street-segment,0,0
+d14-1924,14,Szuglói körvasút sor,175,Szuglói körvasút sor 175.,19.106844,47.538676,street-segment,0,0
+d14-1925,14,Tallér utca,16,Tallér utca 16.,19.103643,47.512959,street-segment,0,0
+d14-1926,14,Tallér utca,18,Tallér utca 18.,19.103619,47.51284,street-segment,0,0
+d14-1927,14,Telepes utca,1/a,Telepes utca 1/a.,19.120468,47.529921,street-segment,0,0
+d14-1928,14,Telepes utca,22,Telepes utca 22.,19.119829,47.529168,street-segment,0,0
+d14-1929,14,Telepes utca,35/a,Telepes utca 35/a.,19.119668,47.529201,street-segment,0,0
+d14-1930,14,Telepes utca,103,Telepes utca 103.,19.120231,47.529524,street-segment,0,0
+d14-1931,14,Tengerszem utca,33,Tengerszem utca 33.,19.100052,47.532377,street-segment,0,0
+d14-1932,14,Tengerszem utca,53,Tengerszem utca 53.,19.100067,47.532432,street-segment,0,0
+d14-1933,14,Thököly út,49,Thököly út 49.,19.093344,47.507328,street-segment,0,0
+d14-1934,14,Thököly út,53,Thököly út 53.,19.126338,47.531758,street-segment,0,0
+d14-1935,14,Thököly út,54,Thököly út 54.,19.134866,47.53834,street-segment,0,0
+d14-1936,14,Thököly út,57/a,Thököly út 57/a.,19.109653,47.517811,street-segment,0,0
+d14-1937,14,Thököly út,75,Thököly út 75.,19.111348,47.518854,street-segment,0,0
+d14-1938,14,Thököly út,81,Thököly út 81.,19.099809,47.512151,street-segment,0,0
+d14-1939,14,Thököly út,83,Thököly út 83.,19.094587,47.508276,street-segment,0,0
+d14-1940,14,Thököly út,84,Thököly út 84.,19.098936,47.511645,street-segment,0,0
+d14-1941,14,Thököly út,86,Thököly út 86.,19.12798,47.456997,street-segment,0,0
+d14-1942,14,Thököly út,92,Thököly út 92.,19.162115,47.527981,street-segment,0,0
+d14-1943,14,Thököly út,98,Thököly út 98.,19.087783,47.503423,street-segment,0,0
+d14-1944,14,Törökőr utca,22,Törökőr utca 22.,19.107641,47.508514,street-segment,0,0
+d14-1945,14,Törökőr utca,50,Törökőr utca 50.,19.103241,47.511525,street-segment,0,0
+d14-1946,14,Törökőr utca,70,Törökőr utca 70.,19.10761,47.508419,street-segment,0,0
+d14-1947,14,Torontál utca,41/a,Torontál utca 41/a.,19.10862,47.514862,street-segment,0,0
+d14-1948,14,Utász utca,9,Utász utca 9.,19.108653,47.503067,street-segment,0,0
+d14-1949,14,Vadvirág utca,24,Vadvirág utca 24.,19.139753,47.510285,street-segment,0,0
+d14-1950,14,Vágújhely utca,13,Vágújhely utca 13.,19.126517,47.527211,street-segment,0,0
+d14-1951,14,Vezér utca,96,Vezér utca 96.,19.125112,47.520353,street-segment,0,0
+d14-1952,14,Zichy Géza utca,8,Zichy Géza utca 8.,19.092741,47.508804,street-segment,0,0
