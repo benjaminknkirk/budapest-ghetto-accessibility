@@ -82,10 +82,21 @@ button, select { font: inherit; color: inherit; }
   opacity: 0.75;
 }
 .site-header nav a.active,
-.site-header nav a:hover {
+.site-header nav a:hover,
+.site-header nav .pdf-link:hover {
   opacity: 1;
   background: rgba(239, 231, 214, 0.08);
   color: var(--gold);
+}
+.site-header nav .pdf-link {
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--gold);
+  opacity: 0.9;
+  border: 1px solid rgba(212, 160, 23, 0.35);
 }
 
 .map-shell {
@@ -549,7 +560,9 @@ button, select { font: inherit; color: inherit; }
 @media print {
   .site-header,
   .map-shell,
-  .onepager-toolbar {
+  .onepager-toolbar,
+  .pdf-link,
+  nextjs-portal {
     display: none !important;
   }
   html, body {
@@ -562,7 +575,15 @@ button, select { font: inherit; color: inherit; }
     padding: 0;
     background: white;
   }
-  .slides, .lesson { break-inside: avoid; }
+  .slides, .lesson { break-inside: avoid; page-break-inside: avoid; }
+  .slide {
+    color: #efe7d6;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  .slide h2 {
+    color: #efe7d6;
+  }
   .onepager-wrap {
     padding: 0;
     background: white;

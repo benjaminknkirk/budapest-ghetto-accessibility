@@ -33,6 +33,9 @@ export function SiteHeader() {
             {l.label}
           </Link>
         ))}
+        <a href="/mapping-access-under-occupation.pdf" download className="pdf-link">
+          PDF
+        </a>
       </nav>
     </header>
   );

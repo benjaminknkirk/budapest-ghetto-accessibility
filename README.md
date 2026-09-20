@@ -35,6 +35,9 @@ Open [http://localhost:3000](http://localhost:3000).
 | `/teach` | IWitness-facing module |
 | `/outreach` | Emails to Cole/Giordano, CAGR, and education |
 | `/data` | Provenance and HGIS ingest |
+| `/mapping-access-under-occupation.pdf` | Print of the whole site |
+
+Regenerate with the app running: `npm run pdf`.
 
 ## Data honesty
 

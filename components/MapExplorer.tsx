@@ -42,14 +42,24 @@ export function MapExplorer() {
   const mapRef = useRef<MapLibreMap | null>(null);
   const [periods, setPeriods] = useState<Period[]>([]);
   const [summary, setSummary] = useState<Summary | null>(null);
-  const [periodId, setPeriodId] = useState("yellow-star");
+  const [periodId, setPeriodId] = useState(() => {
+    if (typeof window === "undefined") return "yellow-star";
+    return new URLSearchParams(window.location.search).get("period") || "yellow-star";
+  });
   const [purpose, setPurpose] = useState<Purpose>("composite");
   const [layers, setLayers] = useState({ houses: true, heat: true, resources: true, gates: true });
   const [selected, setSelected] = useState<HouseProps | null>(null);
   const [story, setStory] = useState(false);
-  const [compare, setCompare] = useState(false);
+  const [compare, setCompare] = useState(() => {
+    if (typeof window === "undefined") return false;
+    return new URLSearchParams(window.location.search).get("compare") === "1";
+  });
+  const exportMode =
+    typeof window !== "undefined" && new URLSearchParams(window.location.search).get("export") === "1";
+  const cameraMs = exportMode ? 0 : 900;
   const housesRef = useRef<FeatureCollection<Point, HouseProps> | null>(null);
   const gridRef = useRef<GridFile | null>(null);
+  const [mapReady, setMapReady] = useState(false);
 
   const period = periods.find((p) => p.id === periodId) ?? null;
   const stats = summary && period ? periodStats(summary, period.id) : null;
@@ -245,10 +255,12 @@ export function MapExplorer() {
         map.on("mouseleave", "resources-circle", () => {
           map.getCanvas().style.cursor = "";
         });
+        setMapReady(true);
       });
     });
     return () => {
       cancelled = true;
+      setMapReady(false);
       mapRef.current?.remove();
       mapRef.current = null;
     };
@@ -259,7 +271,7 @@ export function MapExplorer() {
     const grid = gridRef.current;
     if (!map?.getSource("heat") || !grid) return;
     (map.getSource("heat") as GeoJSONSource).setData(gridToGeoJSON(grid, periodId, purpose));
-  }, [periodId, purpose]);
+  }, [periodId, purpose, mapReady]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -271,7 +283,7 @@ export function MapExplorer() {
     map.setLayoutProperty("heat-circles", "visibility", layers.heat && !compare ? "visible" : "none");
     map.setLayoutProperty("resources-circle", "visibility", layers.resources ? "visible" : "none");
     map.setLayoutProperty("gates-circle", "visibility", layers.gates ? "visible" : "none");
-  }, [layers, compare]);
+  }, [layers, compare, mapReady]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -303,11 +315,19 @@ export function MapExplorer() {
         : "#e8d48a",
     );
     map.setPaintProperty("houses-circle", "circle-opacity", compare ? 0.85 : 0.92);
-    if (compare) map.easeTo({ center: [19.06, 47.503], zoom: 12.15, duration: 900 });
-    else if (sealed) map.easeTo({ center: [19.062, 47.499], zoom: 14.2, duration: 900 });
-    else if (periodId === "dual-ghetto") map.easeTo({ center: [19.058, 47.508], zoom: 13, duration: 900 });
-    else map.easeTo({ center: [19.06, 47.503], zoom: 12.4, duration: 900 });
-  }, [periodId, period, compare]);
+    if (compare) map.easeTo({ center: [19.06, 47.503], zoom: 12.15, duration: cameraMs });
+    else if (sealed) map.easeTo({ center: [19.062, 47.499], zoom: 14.2, duration: cameraMs });
+    else if (periodId === "dual-ghetto") map.easeTo({ center: [19.058, 47.508], zoom: 13, duration: cameraMs });
+    else map.easeTo({ center: [19.06, 47.503], zoom: 12.4, duration: cameraMs });
+  }, [periodId, period, compare, cameraMs, mapReady]);
+
+  useEffect(() => {
+    if (!mapReady || !exportMode) return;
+    const t = window.setTimeout(() => {
+      document.querySelector(".map-shell")?.setAttribute("data-export-ready", "1");
+    }, 1500);
+    return () => window.clearTimeout(t);
+  }, [mapReady, periodId, compare, exportMode]);
 
   useEffect(() => {
     if (!story || periods.length === 0) return;
